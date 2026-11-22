@@ -285,6 +285,26 @@
       "skills": []
     },
     {
+      "id": "pjace-x-2073025039000277082",
+      "titleEn": "Independence Day 1776 · Script-to-keyframe workflow with Utopai PAI",
+      "titleZh": "《独立日 1776》｜Utopai PAI 从剧本到关键帧",
+      "category": "workflow",
+      "summaryEn": "A satirical alternate-history short makes a practical case for script-driven production. PAI parses a screenplay into shots, stores recurring character identities, and proposes keyframes for humans to select and refine before animation.",
+      "summaryZh": "借一支戏仿历史的短片演示剧本驱动的流程：PAI 将剧本拆为场景和镜头，保存可复用角色身份，并生成关键帧候选，由团队选帧、细化后再做动画。",
+      "url": "https://x.com/PJaccetturo/status/2073025039000277082",
+      "date": "2026-07-03",
+      "access": "public",
+      "imageUrl": "https://pbs.twimg.com/amplify_video_thumb/2073020796856102912/img/0aCcW2GLOXpXXm93.jpg",
+      "tags": [
+        "X",
+        "Utopai PAI",
+        "keyframes",
+        "script breakdown",
+        "case study"
+      ],
+      "skills": []
+    },
+    {
       "id": "pjace-x-nexus-dreamina-five-tips",
       "titleEn": "NEXUS: Five Dreamina Workflow Tips",
       "titleZh": "NEXUS：Dreamina 制作流程的五个实用技巧",
@@ -1130,8 +1150,8 @@
   ],
   "creatorUrl": "https://pjace.beehiiv.com/",
   "coverage": {
-    "en": "Includes all 19 publicly listed Beehiiv issues, 18 additional workflows from @PJaccetturo on X, and 16 original-thread links on existing entries. Only substantiated tutorials and production breakdowns are indexed. Some X posts may require sign-in; public creator sources and archives were used where needed. This is not a complete archive of the X account. No full posts or Skill files are mirrored.",
-    "zh": "保留 Beehiiv 公开归档的 19 篇文章；新增从 @PJaccetturo 的 X 找到的 18 篇不同实操教程或制作拆解，并给已有文章补了 16 个原帖入口。只收已核对的案例与工作流。部分 X 原帖在未登录时可能受限，故另以公开可读的作者内容或存档核验；并非 X 全账号的完整索引。不转载全文或镜像 Skill 文件。"
+    "en": "Includes all 19 publicly listed Beehiiv issues, 19 additional workflows from @PJaccetturo on X, and 16 original-thread links on existing entries. Only substantiated tutorials and production breakdowns are indexed. Some X posts may require sign-in; public creator sources and archives were used where needed. This is not a complete archive of the X account. No full posts or Skill files are mirrored.",
+    "zh": "保留 Beehiiv 公开归档的 19 篇文章；新增从 @PJaccetturo 的 X 找到的 19 篇不同实操教程或制作拆解，并给已有文章补了 16 个原帖入口。只收已核对的案例与工作流。部分 X 原帖在未登录时可能受限，故另以公开可读的作者内容或存档核验；并非 X 全账号的完整索引。不转载全文或镜像 Skill 文件。"
   },
   "resources": [
     {

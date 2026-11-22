@@ -8,7 +8,7 @@ const CAT={
 const SRC={
  patreon:{file:'catalog.json',title:'JBOOGXCREATIVE / PATREON',dek:['把 JBOOGXCREATIVE 的教程、工作流与技能资源整理成一份随时能查的学习目录。','A searchable index of JBOOGXCREATIVE tutorials, workflows and skills, with links to the original Patreon posts.'],count:['已索引 Patreon 帖子','Patreon posts indexed'],profile:['原作者 Patreon','Creator on Patreon']},
  higgsfield:{file:'higgsfield.json',title:'HIGGSFIELD',dek:['找到 Higgsfield 的制作拆解、工具示范和课程；沿着原始链接继续学习。','Find Higgsfield production breakdowns, demonstrations and tutorials, with direct links to the originals.'],count:['已索引 Higgsfield 条目','Higgsfield entries indexed'],profile:['Higgsfield 原始频道','Original Higgsfield channel']},
- pjace:{file:'pjace.json',title:'PJ ACE',dek:['查找 PJ Ace 的 AI 影像与创作教程；按主题筛选，打开原视频或教程。','Browse PJ Ace’s creative AI and filmmaking tutorials by topic and open the original lessons.'],count:['已索引 PJ Ace 条目','PJ Ace entries indexed'],profile:['PJ Ace 原始频道','Original PJ Ace channel']}
+ pjace:{file:'pjace.json?v=pj-x-2',title:'PJ ACE',dek:['查找 PJ Ace 的 AI 影像与创作教程；按主题筛选，打开原视频或教程。','Browse PJ Ace’s creative AI and filmmaking tutorials by topic and open the original lessons.'],count:['已索引 PJ Ace 条目','PJ Ace entries indexed'],profile:['PJ Ace 原始频道','Original PJ Ace channel']}
 };
 function route(){const s=new URL(location.href).searchParams.get('source');return Object.hasOwn(SRC,s)?s:'patreon'}
 const q=s=>document.querySelector(s);
