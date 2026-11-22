@@ -274,6 +274,44 @@
       ]
     },
     {
+      "id": "pjace-x-2084717165387858371",
+      "titleEn": "Hell Grind · PJ Ace’s 10-step digest of Higgsfield’s workflow",
+      "titleZh": "《Hell Grind》｜PJ Ace 整理的 10 步制作流程",
+      "date": "2026-08-04",
+      "summaryEn": "PJ Ace distills Higgsfield’s published production process into a 10-step digest. Start with reusable character and location references, map each scene’s geography to keep camera cuts coherent, and direct performance through observable actions. This is PJ Ace’s reading guide, not Higgsfield’s own tutorial.",
+      "summaryZh": "PJ Ace 把 Higgsfield 公开的制作流程整理成 10 步：先准备可复用的角色与场景参考，再用场景平面关系保持换机位时的空间连贯，并用可见的身体动作指导表演。这是 PJ Ace 的导读，不是 Higgsfield 的原版教程。",
+      "tags": [
+        "X",
+        "Hell Grind",
+        "Higgsfield",
+        "Seedance",
+        "Continuity",
+        "Performance"
+      ],
+      "url": "https://x.com/PJaccetturo/status/2084717165387858371",
+      "category": "workflow",
+      "access": "public",
+      "skills": [],
+      "resources": [
+        {
+          "label": "Readable thread archive",
+          "labelEn": "Readable thread archive",
+          "labelZh": "可读原帖存档",
+          "url": "https://threadreaderapp.com/scrolly/2084717165387858371"
+        },
+        {
+          "label": "Original Higgsfield project (separate source)",
+          "labelEn": "Original Higgsfield project (separate source)",
+          "labelZh": "Higgsfield 官方项目（独立来源）",
+          "url": "https://higgsfield.ai/@higgsfield.studio/projects/hell-grind"
+        }
+      ],
+      "imageUrl": "assets/pjace/2084717165387858371.svg",
+      "imageAltEn": "Editorial floor plan showing two cameras and landmarks in a shared scene",
+      "imageAltZh": "教程主题示意图：在同一个场景平面图上标出两个机位和场景锚点",
+      "imageKind": "illustration"
+    },
+    {
       "id": "pjace-x-2084508865400320018",
       "titleEn": "One-take filmmaking with Seedance 2.5",
       "titleZh": "Seedance 2.5 一镜到底实战",
@@ -295,6 +333,38 @@
       "imageKind": "illustration",
       "imageAltEn": "An unbroken camera path through four time markers",
       "imageAltZh": "一条穿过四个时间标记的不间断运镜路线"
+    },
+    {
+      "id": "pjace-x-2083244298959798629",
+      "titleEn": "Nexus · Explore angles in 30 seconds, then anchor the best frames",
+      "titleZh": "《Nexus》实战｜先用 30 秒探索机位，再锁定关键帧",
+      "date": "2026-07-31",
+      "summaryEn": "PJ Ace shows how the Nexus team combined a shot list with character and location references, then used one 30-second Dreamina Seedance 2.5 generation to explore several angles. Theo Dudley’s trick: save the best frames from that exploratory pass and feed them back as anchors for a more deliberate sequence.",
+      "summaryZh": "PJ Ace 用《Nexus》示范：把镜头清单、角色图和场景图交给 Dreamina Seedance 2.5，先生成一条 30 秒素材探索不同机位。Theo Dudley 的做法是截下首轮效果最好的画面，再把它们作为参考锚点，细化下一轮的镜头段落。",
+      "tags": [
+        "X",
+        "Nexus",
+        "Dreamina",
+        "Seedance",
+        "Shot coverage",
+        "Anchor frames"
+      ],
+      "url": "https://x.com/PJaccetturo/status/2083244298959798629",
+      "category": "video",
+      "access": "public",
+      "skills": [],
+      "resources": [
+        {
+          "label": "Readable thread archive",
+          "labelEn": "Readable thread archive",
+          "labelZh": "可读原帖存档",
+          "url": "https://threadreaderapp.com/thread/2083244298959798629"
+        }
+      ],
+      "imageUrl": "https://pbs.twimg.com/amplify_video_thumb/2083092567558938624/img/qobGXZBqsHe8Nunx.jpg",
+      "imageAltEn": "The Nexus thread’s video poster: a red young dragon in a snowy camp",
+      "imageAltZh": "《Nexus》原帖视频封面：雪地营地中的红色幼龙",
+      "imageSourceUrl": "https://threadreaderapp.com/thread/2083244298959798629"
     },
     {
       "id": "pjace-x-2073025039000277082",
@@ -1202,8 +1272,8 @@
   ],
   "creatorUrl": "https://pjace.beehiiv.com/",
   "coverage": {
-    "en": "Includes all 19 publicly listed Beehiiv issues, 19 additional workflows from @PJaccetturo on X, and 16 original-thread links on existing entries. Only substantiated tutorials and production breakdowns are indexed. Some X posts may require sign-in; public creator sources and archives were used where needed. This is not a complete archive of the X account. No full posts or Skill files are mirrored.",
-    "zh": "保留 Beehiiv 公开归档的 19 篇文章；新增从 @PJaccetturo 的 X 找到的 19 篇不同实操教程或制作拆解，并给已有文章补了 16 个原帖入口。只收已核对的案例与工作流。部分 X 原帖在未登录时可能受限，故另以公开可读的作者内容或存档核验；并非 X 全账号的完整索引。不转载全文或镜像 Skill 文件。"
+    "en": "Includes all 19 publicly listed Beehiiv issues, 21 additional workflows from @PJaccetturo on X, and 16 original-thread links on existing entries. Only substantiated tutorials and production breakdowns are indexed. Some X posts may require sign-in; public creator sources and archives were used where needed. This is not a complete archive of the X account. No full posts or Skill files are mirrored.",
+    "zh": "保留 Beehiiv 公开归档的 19 篇文章；新增从 @PJaccetturo 的 X 找到的 21 篇不同实操教程或制作拆解，并给已有文章补了 16 个原帖入口。只收已核对的案例与工作流。部分 X 原帖在未登录时可能受限，故另以公开可读的作者内容或存档核验；并非 X 全账号的完整索引。不转载全文或镜像 Skill 文件。"
   },
   "resources": [
     {
