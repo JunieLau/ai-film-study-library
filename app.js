@@ -70,6 +70,12 @@ function startSkill(s,parent,i){
  if(!en&&!zh)return null;
  return {id:parent.id+':skill:'+String(s.id??i),titleEn:en,titleZh:zh,url:(state.section==='patreon'?patreonURL:sourceURL)(pick(s.url,s.sourceUrl))||parent.url,category:parent.category,access:accessToken(s.access||parent.access),date:parent.date,summaryEn:field(s,'summary','en'),summaryZh:field(s,'summary','zh'),tags:[...parent.tags,...(s.tier?[s.tier]:[])].slice(0,10),skills:[],isSkill:true,parent,image:imageURL(pick(s.imageUrl,s.image_url,s.coverUrl,s.thumbnailUrl,s.image?.url)),imageAltZh:field(s,'imageAlt','zh'),imageAltEn:field(s,'imageAlt','en'),originalRelease:patreonURL(s.originalUrl),updatedRelease:patreonURL(s.updateUrl),publicOverview:patreonURL(s.publicOverviewUrl),originalFile:sourceURL(pick(s.fileUrl,s.downloadUrl)),resource:sourceURL(pick(s.resourceUrl,s.documentationUrl))};
 }
+// ISO dates sort chronologically as text. Unknown dates go last; equal dates retain the source order.
+const dateKey=(value)=>typeof value==='string' ? (value.match(/^\d{4}-(?:0[1-9]|1[0-2])-(?:0[1-9]|[12]\d|3[01])(?=$|[T ])/u)?.[0]??'') : '';
+const newestFirst=(a,b)=>{
+ const first=dateKey(a.date),second=dateKey(b.date);
+ return first===second?0:first>second?-1:1;
+};
 function hydrate(data){
  state.site=Array.isArray(data)?{}:data;
  const raw=Array.isArray(data)?data:data.entries??data.posts??data.items??[];
@@ -87,6 +93,8 @@ function hydrate(data){
      return skill;
    }).filter(Boolean);
  }else state.skillEntries=state.entries.flatMap(e=>e.skills.map((s,i)=>startSkill(s,e,i)).filter(Boolean));
+ state.entries.sort(newestFirst);
+ state.skillEntries.sort(newestFirst);
  const validate=state.section==='patreon'?patreonURL:sourceURL;
  const creator=validate(pick(state.site.creatorUrl,state.site.creator_url,state.site.creator?.url,state.site.patreonUrl,state.site.channelUrl,state.site.sourceUrl));
  if(creator){const a=q('#creator-link');a.href=creator;a.hidden=false}
@@ -230,7 +238,7 @@ function render(){
  updateCounts();
  let base=state.tab==='skills'?state.skillEntries:state.tab==='done'?[...state.entries,...state.skillEntries].filter(r=>state.done.has(r.id)):state.entries;
  const words=state.query.normalize('NFKC').toLowerCase().trim().split(/\s+/u).filter(Boolean);
- let rows=base.filter(e=>(!state.cat||e.category===state.cat)&&(!state.access||e.access===state.access)&&words.every(w=>indexed(e).includes(w)));
+ let rows=base.filter(e=>(!state.cat||e.category===state.cat)&&(!state.access||e.access===state.access)&&words.every(w=>indexed(e).includes(w))).sort(newestFirst);
  q('#cards').replaceChildren();
  if(rows.length){const f=document.createDocumentFragment();rows.forEach(e=>f.append(card(e)));q('#cards').append(f)}
  const msg=q('#catalog-state');msg.hidden=rows.length>0&&!state.error&&!state.loading;
