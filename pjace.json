@@ -1,0 +1,494 @@
+{
+  "entries": [
+    {
+      "id": "pjace-patchwright",
+      "titleEn": "Gossip Goblin’s Crazy Workflow for Building Original Worlds (200M+ Views)",
+      "titleZh": "Gossip Goblin 如何打造原创世界：《The Patchwright》制作访谈",
+      "url": "https://pjace.beehiiv.com/p/gossip-goblin-s-crazy-workflow-for-building-original-worlds-200m-views",
+      "category": "Interview",
+      "access": "public",
+      "date": "2026-05-13",
+      "summaryEn": "Zach London explains how an existing story bible, location look development and deliberately constructed shots shaped The Patchwright. The production mixed generated visuals with human performers, editing and custom sound.",
+      "summaryZh": "扎克·伦敦以《The Patchwright》为例，讲述如何用既有世界观设定、场景视觉开发和逐镜构图撑起一部短片。生成画面之外，真人配音、剪辑和声音设计同样关键。",
+      "tags": [
+        "Worldbuilding",
+        "Kling",
+        "Midjourney",
+        "Nano Banana"
+      ],
+      "skills": [
+        {
+          "label": "World bible",
+          "summaryEn": "Build up characters, objects and lettering before the film so that individual scenes inherit a coherent world.",
+          "summaryZh": "开拍前积累角色、道具与文字系统，让每场戏都落在同一个世界里。"
+        },
+        {
+          "label": "Visual anchors",
+          "summaryEn": "Choose a few defining frames for each place before filling the intervening shots.",
+          "summaryZh": "先确定每个地点的关键画面，再补齐中间镜头。"
+        }
+      ],
+      "imageUrl": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/380f2fbc-4f54-4d0d-bab7-5cfd14619f72/1.jpeg?t=1778686277"
+    },
+    {
+      "id": "pjace-seedance-two-films",
+      "titleEn": "You’re using Seedance 2.0 wrong (try this massive time-saver instead)",
+      "titleZh": "Seedance 2.0：Hellgrind 与 Mork 的制作流程",
+      "url": "https://pjace.beehiiv.com/p/you-re-using-seedance-2-0-wrong-try-this-massive-time-saver-instead",
+      "category": "Workflow",
+      "access": "public",
+      "date": "2026-04-25",
+      "summaryEn": "Two Higgsfield production cases illustrate how directors prepare references, coordinate scenes and use Seedance 2.0 for coverage. Hellgrind and Mork offer different approaches to managing a shared world and edit.",
+      "summaryZh": "两部 Higgsfield 作品展示了导演如何准备参考素材、协作推进场次，并用 Seedance 2.0 补齐镜头。《Hellgrind》和《Mork》在世界管理和剪辑协作上各有做法。",
+      "tags": [
+        "Seedance 2.0",
+        "Higgsfield",
+        "Blender",
+        "Claude",
+        "Figma",
+        "Resolve"
+      ],
+      "skills": [
+        {
+          "label": "Blocking before generation",
+          "summaryEn": "Use rough spatial layouts to clarify where people stand and move before generating detailed shots.",
+          "summaryZh": "先用简化空间图确定站位和走位，再生成精细画面。"
+        },
+        {
+          "label": "Parallel editing",
+          "summaryEn": "Let scene teams work independently while a lead editor retains responsibility for the full cut.",
+          "summaryZh": "场次可以并行制作，但由一位主剪辑统筹全片。"
+        }
+      ],
+      "imageUrl": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/e59e9f8d-b404-4ee7-a662-1ff8c92b248d/HGHsCmhbUAEHanQ.png?t=1777140321"
+    },
+    {
+      "id": "pjace-seedance-red-rising",
+      "titleEn": "The Ultimate Seedance 2.0 Guide to making Viral Films",
+      "titleZh": "Seedance 2.0 实例：从《Red Rising》段落到概念预告",
+      "url": "https://pjace.beehiiv.com/p/the-ultimate-seedance-2-0-guide-to-making-viral-films",
+      "category": "Workflow",
+      "access": "public",
+      "date": "2026-03-18",
+      "summaryEn": "A Red Rising teaser serves as PJ’s example of condensing source material, exploring looks with Luma’s agent and using selected frames as Seedance motion references.",
+      "summaryZh": "PJ 用《Red Rising》概念预告说明如何压缩原著段落、用 Luma 的代理探索画面，以及怎样挑选能指导 Seedance 动态生成的参考帧。",
+      "tags": [
+        "Seedance 2.0",
+        "Luma",
+        "Shot Planning",
+        "Adaptation"
+      ],
+      "skills": [
+        {
+          "label": "Scene compression",
+          "summaryEn": "Choose the lines and actions that carry the dramatic turn before planning coverage.",
+          "summaryZh": "先保留真正推动戏剧转折的台词和动作，再安排镜头。"
+        },
+        {
+          "label": "Keyframe selection",
+          "summaryEn": "Curate reference stills for framing, character cohesion and geography before motion tests.",
+          "summaryZh": "动态测试前，先按构图、角色一致性和空间关系挑选参考帧。"
+        }
+      ],
+      "imageUrl": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/11371b93-fea2-48af-ae85-0e2231d7eef3/HCrAioGawAEybb6.jpeg?t=1773860685"
+    },
+    {
+      "id": "pjace-grok-super-bowl",
+      "titleEn": "I think I made an official Super Bowl commercial?",
+      "titleZh": "Grok 超级碗广告征集：一次快速参赛复盘",
+      "url": "https://pjace.beehiiv.com/p/i-think-i-made-an-official-super-bowl-commercial",
+      "category": "Case Study",
+      "access": "public",
+      "date": "2026-02-08",
+      "summaryEn": "PJ recounts making a speculative Grok spot for an X-hosted contest and says it placed third. The post is a creator update, not evidence that the entry ran as a paid Super Bowl TV spot.",
+      "summaryZh": "PJ 回顾为 X 举办的征集活动制作 Grok 广告提案，并称作品获得第三名。这是一篇参赛纪实，不能据此认定作品作为超级碗电视广告播出。",
+      "tags": [
+        "Grok",
+        "Pitch",
+        "Trailer References"
+      ],
+      "skills": [
+        {
+          "label": "Reference-led sprint",
+          "summaryEn": "Pick a clear tonal reference when you have very little time to communicate a concept.",
+          "summaryZh": "制作时间紧时，先选一个能快速统一叙事语气的标杆。"
+        }
+      ],
+      "imageUrl": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/d6851529-ede4-4701-ad3a-372e8d884450/IMG_1467_copy.png?t=1770588314"
+    },
+    {
+      "id": "pjace-zelda-fan-film",
+      "titleEn": "I regret nothing except reading the comments",
+      "titleZh": "《塞尔达》粉丝短片：角色参考与四格镜头",
+      "url": "https://pjace.beehiiv.com/p/i-regret-nothing-except-reading-the-comments",
+      "category": "Workflow",
+      "access": "public",
+      "date": "2026-01-09",
+      "summaryEn": "PJ uses an unofficial Zelda fan film to discuss reusable references, planning in small groups of shots and refining stills before animation.",
+      "summaryZh": "PJ 以非官方《塞尔达》粉丝短片为例，分享如何重复使用角色与风格参考、成组规划镜头，并在做动态之前修整静帧。",
+      "tags": [
+        "Nano Banana Pro",
+        "Freepik",
+        "Shot Planning",
+        "Character Consistency"
+      ],
+      "skills": [
+        {
+          "label": "Four-frame coverage",
+          "summaryEn": "Plan a small set of connected angles together and assess them as one scene.",
+          "summaryZh": "把互有关联的几个机位放在一起规划，作为一个场次整体检查。"
+        }
+      ],
+      "imageUrl": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/697c85cc-e2be-4aa6-a330-d043c846965f/Screenshot_2026-01-09_at_5.32.57_PM.png?t=1768010073"
+    },
+    {
+      "id": "pjace-2025-workflow",
+      "titleEn": "2025’s top AI cheat codes to 10x your videos",
+      "titleZh": "2025 年度复盘：AI 影像从分镜到动画",
+      "url": "https://pjace.beehiiv.com/p/2025-s-top-ai-cheat-codes-to-10x-your-videos",
+      "category": "Workflow",
+      "access": "public",
+      "date": "2025-12-26",
+      "summaryEn": "A year-end workflow overview follows a narrative premise through shot organization, character references, multi-panel image exploration and animation.",
+      "summaryZh": "这篇年度回顾用一个叙事点子串起镜头整理、角色参考、多格静帧探索和动画生成。",
+      "tags": [
+        "Nano Banana Pro",
+        "Character Sheets",
+        "Storyboarding",
+        "AI Filmmaking"
+      ],
+      "skills": [
+        {
+          "label": "Reference economy",
+          "summaryEn": "Start with a clear close-up and wide view rather than creating every character angle before you know what the scene needs.",
+          "summaryZh": "先做清楚的特写和全身参考，不必在镜头需求明确之前穷举角色角度。"
+        },
+        {
+          "label": "Coverage comparison",
+          "summaryEn": "Compare image layouts by how well they preserve both face detail and spatial continuity.",
+          "summaryZh": "比较不同画面布局时，同时看脸部细节与空间连续性。"
+        }
+      ],
+      "imageUrl": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/10b8d4ac-d4f3-4363-9f86-67dbe6645aac/Screenshot_2025-12-17_at_9.51.29_PM.png?t=1766610111"
+    },
+    {
+      "id": "pjace-qatar-airways",
+      "titleEn": "Qatar Airways: Making two ads in 14 hours at 30,000 feet",
+      "titleZh": "卡塔尔航空：机上协作制作两支广告",
+      "url": "https://pjace.beehiiv.com/p/qatar-airways",
+      "category": "Case Study",
+      "access": "public",
+      "date": "2025-11-19",
+      "summaryEn": "This production diary describes a two-spot in-flight challenge in which a prepared brief, real airport and cabin references and distributed teamwork supported fast delivery.",
+      "summaryZh": "这篇制作纪实记录了在飞行途中完成两支广告的挑战。已有的创意简报、真实机场与机舱参考，以及团队远程并行，都是能快速交付的前提。",
+      "tags": [
+        "Veo 3.1",
+        "Figma",
+        "Google",
+        "After Effects",
+        "Brand Campaign"
+      ],
+      "skills": [
+        {
+          "label": "Brand fidelity",
+          "summaryEn": "Photograph the real environment and collect approved references rather than relying on a model to guess the details.",
+          "summaryZh": "拍摄真实环境并准备获准使用的参考，别让模型猜测品牌和场景细节。"
+        }
+      ],
+      "imageUrl": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/90911539-0d87-45d0-9b48-f1627d6bfe3b/Screenshot_2025-11-18_at_7.31.04_AM.png?t=1763602732"
+    },
+    {
+      "id": "pjace-kled-launch",
+      "titleEn": "Grandma forgot her clothes and is doing drugs with college kids again",
+      "titleZh": "Kled 上线广告：用荒诞喜剧做品牌开场",
+      "url": "https://pjace.beehiiv.com/p/grandma-forgot-her-clothes-and-is-doing-drugs-with-college-kids-again",
+      "category": "Case Study",
+      "access": "public",
+      "date": "2025-09-25",
+      "summaryEn": "PJ describes a deliberately irreverent Kled launch spot, connecting the audience’s campus context with the product’s premise in a Veo 3 text-to-video production.",
+      "summaryZh": "PJ 拆解了一支刻意走荒诞喜剧路线的 Kled 上线广告：把目标受众的校园场景与产品卖点连起来，用 Veo 3 从文字生成镜头。",
+      "tags": [
+        "Veo 3",
+        "Text-to-Video",
+        "Comedy",
+        "Brand Campaign"
+      ],
+      "skills": [
+        {
+          "label": "Audience-led setting",
+          "summaryEn": "Choose a recognizable setting that makes the product premise feel relevant to its audience.",
+          "summaryZh": "让广告场景贴近受众，用他们熟悉的情境承接产品卖点。"
+        }
+      ],
+      "imageUrl": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/8655742a-abfa-49de-91cd-975931189dca/Screenshot_2025-09-25_at_9.23.37_AM.png?t=1758825610"
+    },
+    {
+      "id": "pjace-fantasy-sports-scroll",
+      "titleEn": "This is going to be the next HUGE trend in AI Video (and it’s going to put ESPN out of business)",
+      "titleZh": "Fantasy Sports Scroll：体育资讯如何做成奇幻周播节目",
+      "url": "https://pjace.beehiiv.com/p/call-me-crazy-but-this-is-the-future-of-espn-and-will-be-a-1m-ai-brand-next-year",
+      "category": "Case Study",
+      "access": "public",
+      "date": "2025-09-11",
+      "summaryEn": "Fantasy Sports Scroll translates live sports topics into a recurring fantasy-broadcast format. PJ describes how the team builds each episode around scripts, repeatable assets, voice work and a final edit.",
+      "summaryZh": "Fantasy Sports Scroll 把当周体育话题改编成固定更新的奇幻播报。PJ 介绍了节目如何把脚本、可复用素材、配音和剪辑串起来。",
+      "tags": [
+        "Runway Act-Two",
+        "Veo 3",
+        "Premiere Pro",
+        "Episodic"
+      ],
+      "skills": [
+        {
+          "label": "Repeatable format",
+          "summaryEn": "Fix the presenter roles and broadcast grammar so new stories can fit the same format each week.",
+          "summaryZh": "固定主播分工与播报语言，让每周不同的内容都能套进同一种节目结构。"
+        }
+      ],
+      "imageUrl": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/534f7d4b-990f-4df7-9513-bc51212b2e1b/Screenshot_2025-09-11_at_3.30.35_PM.png?t=1757599004"
+    },
+    {
+      "id": "pjace-im8-campaign",
+      "titleEn": "120M Views in TWO DAYS: How we made our new viral AI ad for David Beckham’s company, IM8",
+      "titleZh": "IM8 广告拆解：视觉母题、数字替身与首发",
+      "url": "https://pjace.beehiiv.com/p/120m-views-in-two-days-how-we-made-our-new-viral-ai-ad-for-david-beckham-s-company-im8",
+      "category": "Case Study",
+      "access": "public",
+      "date": "2025-08-27",
+      "summaryEn": "Genre’s case study covers the IM8 spot’s opening transition, branded imagery and use of a digital double. Its audience figures are PJ’s reported numbers, not an independently verified measurement.",
+      "summaryZh": "Genre 复盘了 IM8 广告的开场转场、品牌视觉与数字替身。标题中的传播数字为 PJ 自述，不是独立核实的统计。",
+      "tags": [
+        "IM8",
+        "Veo 3",
+        "Kling",
+        "Brand Campaign"
+      ],
+      "skills": [
+        {
+          "label": "Opening image",
+          "summaryEn": "Use the first visual to tie the campaign’s colors and premise together before the rest of the narrative unfolds.",
+          "summaryZh": "在叙事展开前，先用首个视觉把品牌颜色和核心概念连起来。"
+        }
+      ],
+      "imageUrl": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/62d2da1a-26ec-42e6-9e3b-01df2d733130/Screenshot_2025-08-27_at_8.20.57_PM.png?t=1756351296"
+    },
+    {
+      "id": "pjace-lindy-ad",
+      "titleEn": "Steal our viral ad formula that got us 100M views in a month",
+      "titleZh": "Lindy 广告案例：从喜剧开场到产品行动号召",
+      "url": "https://pjace.beehiiv.com/p/steal-our-viral-ad-formula-that-got-us-100m-views-in-a-month-e7742bdae1e74b81",
+      "category": "Case Study",
+      "access": "public",
+      "date": "2025-08-13",
+      "summaryEn": "The Lindy office comedy is a case study in building a clear product story around an attention-grabbing opener. PJ also explains how the team reworked a difficult action beat in the edit.",
+      "summaryZh": "Lindy 的办公室喜剧展示了如何从抓人的开场转入具体的产品叙事。PJ 也解释了团队怎样在剪辑中重构难以生成的动作。",
+      "tags": [
+        "Veo 3",
+        "Suno",
+        "Ad Writing",
+        "Editing"
+      ],
+      "skills": [
+        {
+          "label": "Make the hook earn its place",
+          "summaryEn": "Connect the opening surprise to an actual product benefit before asking the audience to act.",
+          "summaryZh": "先让开场的意外与真实产品价值发生联系，再引导观众采取行动。"
+        }
+      ],
+      "imageUrl": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/e15c534a-a895-41b2-bf2d-944c97be239c/Screenshot_2025-08-12_at_11.55.18_PM.png?t=1755068142"
+    },
+    {
+      "id": "pjace-jonah-tv",
+      "titleEn": "Make an AI TV Show in 15 Easy Steps",
+      "titleZh": "《约拿》项目：25 分钟 AI 剧集幕后索引",
+      "url": "https://pjace.beehiiv.com/p/make-an-ai-tv-show-in-15-easy-steps",
+      "category": "Workflow",
+      "access": "public",
+      "date": "2025-07-18",
+      "summaryEn": "This post introduces a 25-minute episode about Jonah and links out to the author’s video-rich breakdown. The Beehiiv page is a starting point rather than the complete 15-step guide.",
+      "summaryZh": "本篇介绍一部 25 分钟的《约拿》剧集，并把读者引向作者在 X 上发布的完整视频流程。Beehiiv 原文是入口，不是完整的 15 步教程。",
+      "tags": [
+        "Episodic",
+        "Shot Design",
+        "Prompting"
+      ],
+      "skills": [
+        {
+          "label": "Frame direction",
+          "summaryEn": "Separate the performance, depth layers and lighting when describing a single shot.",
+          "summaryZh": "描述单个镜头时，把表演、景深层次和光线分开写清楚。"
+        }
+      ],
+      "imageUrl": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/95998da7-2b19-4193-86af-abb490844ddb/freepik__retouch__81739.png?t=1752822107"
+    },
+    {
+      "id": "pjace-popeyes-grok",
+      "titleEn": "Oops, we started the next trend.",
+      "titleZh": "Popeyes 与 Grok 广告：品牌喜剧与分镜沟通",
+      "url": "https://pjace.beehiiv.com/p/oops-we-started-the-next-trend-7160f3eff5d53162",
+      "category": "Case Study",
+      "access": "public",
+      "date": "2025-07-14",
+      "summaryEn": "A recap of spots for Popeyes and Grok leads into PJ’s view on comedy-led branded content, with examples of production shot lists and visual pitches.",
+      "summaryZh": "PJ 从 Popeyes 与 Grok 两支广告谈到以喜剧带动品牌内容的思路，还举例说明如何用镜头表和动态样片沟通创意。",
+      "tags": [
+        "Veo 3",
+        "Brand Campaign",
+        "Pitch",
+        "Ad Writing"
+      ],
+      "skills": [
+        {
+          "label": "Visual pitch",
+          "summaryEn": "A short moving example can clarify timing and tone faster than prose alone.",
+          "summaryZh": "短动态样片能比单靠文字更直观地传达节奏与语气。"
+        }
+      ],
+      "imageUrl": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/2073ef6c-0d38-4828-8733-a30bfc0da8b8/Screenshot_2025-07-09_at_10.23.09_PM.png?t=1752462933"
+    },
+    {
+      "id": "pjace-kalshi-nba-finals",
+      "titleEn": "I can’t believe Disney allowed us to run this AI ad during the NBA Finals 😂",
+      "titleZh": "Kalshi 广告幕后：Veo 3 的镜头迭代与剪辑",
+      "url": "https://pjace.beehiiv.com/p/i-can-t-believe-disney-allowed-us-to-run-this-ai-ad-during-the-nba-finals-f77e73388ab4ca62",
+      "category": "Case Study",
+      "access": "public",
+      "date": "2025-06-11",
+      "summaryEn": "PJ relates how he designed and assembled a Kalshi ad with Veo 3. The case is most useful for understanding the gap between raw generations and the shots that made the cut.",
+      "summaryZh": "PJ 回顾如何用 Veo 3 设计并剪成一支 Kalshi 广告。这个案例最值得看的是：生成了许多素材，真正能用的镜头却有限。",
+      "tags": [
+        "Veo 3",
+        "Shot Planning",
+        "Editing",
+        "Brand Campaign"
+      ],
+      "skills": [
+        {
+          "label": "Generation triage",
+          "summaryEn": "Review alternatives for performance, readability and sound before committing them to the cut.",
+          "summaryZh": "入剪前对比候选版本的表演、可读性和声音，而不是只挑画质最好的。"
+        }
+      ],
+      "imageUrl": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/b83393d3-6e50-484a-89fd-d276eefbe46a/Screenshot_2025-06-11_at_11.52.48_AM.png?t=1749689664"
+    },
+    {
+      "id": "pjace-bible-vlog",
+      "titleEn": "My God, what have I done?",
+      "titleZh": "圣经人物 Vlog：短视频形式与 Veo 3 制作笔记",
+      "url": "https://pjace.beehiiv.com/p/my-god-what-have-i-done",
+      "category": "Case Study",
+      "access": "public",
+      "date": "2025-06-03",
+      "summaryEn": "PJ reflects on a series that recasts biblical figures as contemporary vloggers, then discusses social format choices and how he structured Veo 3 shots.",
+      "summaryZh": "PJ 复盘将圣经人物设定为当代视频博主的系列，并延伸到社交平台的形式选择与 Veo 3 镜头的组织方式。",
+      "tags": [
+        "Veo 3",
+        "Social Video",
+        "First-Person",
+        "Comedy"
+      ],
+      "skills": [
+        {
+          "label": "Format as point of view",
+          "summaryEn": "Give the camera an in-world reason to be there, so the delivery format becomes part of the joke.",
+          "summaryZh": "给镜头一个在故事里出现的理由，让拍摄形式本身也成为笑点。"
+        }
+      ],
+      "imageUrl": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/e8903695-47f8-46dc-9893-9e527ca4e458/Screenshot_2025-06-02_at_6.46.34_PM.png?t=1748926064"
+    },
+    {
+      "id": "pjace-veo-gold-rush",
+      "titleEn": "Don’t Miss the Veo 3 Gold Rush",
+      "titleZh": "Veo 3 早期案例：仿药品广告的喜剧反转",
+      "url": "https://pjace.beehiiv.com/p/don-t-miss-the-veo-3-gold-rush",
+      "category": "Workflow",
+      "access": "public",
+      "date": "2025-05-23",
+      "summaryEn": "An early Veo 3 experiment starts from a recognizable pharmaceutical-ad format and then subverts it. The piece also discusses script review, generation rejects and editorial choices.",
+      "summaryZh": "这篇早期 Veo 3 实验先建立观众熟悉的药品广告套路，再将其反转。文章也谈到脚本筛选、废片判断与剪辑取舍。",
+      "tags": [
+        "Veo 3",
+        "Text-to-Video",
+        "Comedy",
+        "Editing"
+      ],
+      "skills": [
+        {
+          "label": "Reset a failing shot",
+          "summaryEn": "If repeated takes miss the same beat, change the staging rather than endlessly rerunning it.",
+          "summaryZh": "如果重复生成仍解决不了同一个问题，就改调度或换镜头，而不是继续重跑。"
+        }
+      ],
+      "imageUrl": "https://i.ytimg.com/vi/pAdQ1liFHA0/hqdefault.jpg"
+    },
+    {
+      "id": "pjace-midjourney-omni",
+      "titleEn": "Midjourney just killed ChatGPT",
+      "titleZh": "Midjourney Omni Reference：跨场景保留人物外观",
+      "url": "https://pjace.beehiiv.com/p/midjourney-just-killed-chatgpt-724f6ecdcd55b1e6",
+      "category": "Technique",
+      "access": "public",
+      "date": "2025-05-01",
+      "summaryEn": "This early Omni Reference tutorial tests how a single reference can carry a recognizable identity into different cinematic settings. The headline is rhetorical, not a product comparison.",
+      "summaryZh": "这篇 Omni Reference 早期教程测试如何把同一个可辨认的人物带入不同电影场景。英文标题是修辞，不是对两款产品的客观评测。",
+      "tags": [
+        "Midjourney",
+        "Omni Reference",
+        "Character Consistency"
+      ],
+      "skills": [
+        {
+          "label": "Reference testing",
+          "summaryEn": "Check the same character across changing framing and lighting, not just in one favored portrait.",
+          "summaryZh": "别只看一张满意的肖像；在不同景别和光线里检查是否仍能认出同一个人物。"
+        }
+      ],
+      "imageUrl": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/979bd665-e09a-4b92-98f4-42dfbf1b4d85/Screenshot_2025-05-01_at_8.22.13_PM.png?t=1746157414"
+    },
+    {
+      "id": "pjace-midjourney-cinematic",
+      "titleEn": "PJ’s Secret Midjourney Prompt",
+      "titleZh": "PJ 的 Midjourney 电影感提示词结构",
+      "url": "https://pjace.beehiiv.com/p/pj-s-secret-midjourney-prompt",
+      "category": "Technique",
+      "access": "public",
+      "date": "2025-04-21",
+      "summaryEn": "A brief prompting lesson demonstrates how naming the camera treatment and visual atmosphere can steer Midjourney toward the intended cinematic frame.",
+      "summaryZh": "这篇短教程展示如何把摄影处理方式和画面氛围描述得更明确，让 Midjourney 更贴近预想中的电影画面。",
+      "tags": [
+        "Midjourney",
+        "Prompting",
+        "Camera Language"
+      ],
+      "skills": [
+        {
+          "label": "Concrete image direction",
+          "summaryEn": "Specify the framing and texture you want instead of relying on a generic request for a cinematic look.",
+          "summaryZh": "与其笼统要求“电影感”，不如直接交代想要的景别与质感。"
+        }
+      ],
+      "imageUrl": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/74cbaa56-cebe-496e-bccc-b48282f140cc/pjace_An_anamorphic_close-up_of_an_ancient_Chinese_hunter_dra_6c386f6f-dccc-4d0a-ab33-32c4b93e7af7_2.png?t=1745170508"
+    },
+    {
+      "id": "pjace-newsletter-intro",
+      "titleEn": "AI Filmmaking Is Taking Off—Here’s How to Catch Up",
+      "titleZh": "AI 影像创作入门：PJ Ace 通讯发刊词",
+      "url": "https://pjace.beehiiv.com/p/ai-filmmaking-is-taking-off-here-s-how-to-catch-up",
+      "category": "Newsletter",
+      "access": "public",
+      "date": "2025-04-15",
+      "summaryEn": "PJ sets out the newsletter’s educational focus: public notes on AI filmmaking practice for newcomers and working creators. This introductory issue does not teach a specific technique.",
+      "summaryZh": "PJ 在发刊词中说明通讯面向新手与创作者，计划分享 AI 影像制作经验。这一期是栏目介绍，不是单项技术教程。",
+      "tags": [
+        "AI Filmmaking",
+        "Orientation"
+      ],
+      "skills": []
+    }
+  ],
+  "creatorUrl": "https://pjace.beehiiv.com/",
+  "coverage": {
+    "en": "19 articles from both pages of PJ Ace’s official public Beehiiv archive (April 2025–May 2026). Dates follow the individual article pages. This is an original bilingual study index, not a republication; it does not include unlisted or member-only material.",
+    "zh": "收录 PJ Ace 官方 Beehiiv 公开归档两页共 19 篇文章（2025 年 4 月至 2026 年 5 月）。日期以各篇原文标注为准。本站提供原创双语学习索引，不转载原文，也不包含未公开列出的内容或会员内容。"
+  }
+}

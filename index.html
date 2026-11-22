@@ -1,0 +1,81 @@
+<!doctype html>
+<html lang="zh-Hans">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="theme-color" content="#111214">
+<meta name="description" content="An independent, multilingual index for creative AI tutorials, workflows and skills.">
+<title>AI Film Study Library</title>
+<link rel="stylesheet" href="styles.css">
+<script src="app.js" defer></script>
+</head>
+<body>
+<a class="skip" href="#library" data-t="skip">跳至学习目录</a>
+<header class="top wrap">
+  <a class="brand" href="./" aria-label="AI Film Study Library"><i class="mark" aria-hidden="true"></i> AI FILM<span>&nbsp;/&nbsp;</span>STUDY</a>
+  <div class="lang" role="group" aria-label="Language / 语言">
+    <button type="button" data-lang="zh">中文</button><button type="button" data-lang="en">EN</button><button type="button" data-lang="both">中 / EN</button>
+  </div>
+</header>
+<main>
+ <nav class="sources-nav wrap" aria-label="来源 / Sources">
+    <a href="?source=higgsfield" data-source="higgsfield"><span class="source-icon">H</span><span>Higgsfield</span></a>
+    <a href="?source=pjace" data-source="pjace"><span class="source-icon">PJ</span><span>PJ Ace</span></a>
+    <a href="?source=patreon" data-source="patreon"><span class="source-icon">JX</span><span>Patreon</span></a>
+ </nav>
+ <section class="hero wrap" aria-labelledby="hero-title">
+  <div class="hero-copy">
+    <p class="eyebrow"><span aria-hidden="true"></span><span id="hero-section">独立学习索引</span></p>
+    <h1 id="hero-title">AI FILM<br><em>STUDY LIBRARY.</em></h1>
+    <p class="hero-dek" data-t="dek">把 JBOOGXCREATIVE 的教程、工作流与技能资源整理成一份随时能查的学习目录。</p>
+    <div class="hero-actions"><a class="btn primary" href="#library" data-t="browse">浏览目录</a><a hidden id="creator-link" class="btn quiet" target="_blank" rel="noopener noreferrer" data-t="creator">原作者 Patreon</a></div>
+  </div>
+  <figure class="hero-art" id="hero-visual" aria-label="来源精选 / Featured source">
+    <a class="hero-frame" id="hero-frame" target="_blank" rel="noopener noreferrer"></a>
+    <figcaption class="hero-caption"><span id="hero-visual-meta"></span><strong id="hero-visual-title"></strong></figcaption>
+  </figure>
+ </section>
+ <section class="metrics wrap" id="metrics" aria-label="索引概览 / Index overview">
+  <div><strong id="count-entries">—</strong><span data-t="indexCount">已核实目录条目</span></div>
+  <div><strong id="count-skills">—</strong><span data-t="skillCount">独立技能与文件</span></div>
+  <div><strong id="count-done">—</strong><span data-t="doneCount">此设备已学</span></div>
+ </section>
+ <section class="library wrap" id="library" aria-labelledby="library-title">
+  <div class="library-head"><div><p class="eyebrow"><span aria-hidden="true"></span><span data-t="collection">学习资料库</span></p><h2 id="library-title" data-t="library">学习目录</h2></div><p data-t="labNote">循原始出处学习。会员内容须在 Patreon 登录并以你的会员权益为准。</p></div>
+  <div class="tabs" aria-label="目录分类 / Library sections">
+   <button type="button" data-tab="all" data-t="allLessons">全部条目</button>
+   <button type="button" data-tab="skills" data-t="skills">Skills</button>
+   <button type="button" data-tab="done" data-t="completed">已学</button>
+  </div>
+  <div class="filters">
+    <label class="search"><span class="sr" data-t="searchLabel">搜索目录</span><svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true"><circle cx="10.7" cy="10.7" r="6.4" fill="none" stroke="currentColor" stroke-width="1.8"/><path d="M16 16l4 4" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/></svg><input id="search" type="search" maxlength="180" autocomplete="off" placeholder="搜索标题、技能或工具"></label>
+    <label class="select-wrap"><span class="sr" data-t="categoryLabel">内容类别</span><select id="category" aria-label="内容类别"></select></label>
+    <label class="select-wrap"><span class="sr" data-t="accessLabel">访问权限</span><select id="access" aria-label="访问权限"></select></label>
+  </div>
+  <div class="results-head"><p id="result-count" aria-live="polite"></p><button id="clear" class="plain" type="button" hidden data-t="clear">清除筛选</button></div>
+  <div class="grid" id="cards"></div>
+  <p id="catalog-state" class="empty" role="status" data-t="loading">正在载入已核实的目录…</p>
+  <noscript><p class="empty">此学习目录需要启用 JavaScript。 / Enable JavaScript to use the learning index.</p></noscript>
+ </section>
+ <section class="coverage wrap" aria-labelledby="coverage-title">
+   <div><p class="eyebrow"><span aria-hidden="true"></span><span data-t="sourceNote">来源说明</span></p><h2 id="coverage-title" data-t="coverage">核验范围</h2></div>
+   <div id="coverage-body"></div>
+ </section>
+</main>
+<footer class="foot wrap"><span>AI FILM STUDY LIBRARY</span><span data-t="notAffiliated">独立学习索引，非官方 Patreon 网站。</span></footer>
+<template id="card-template">
+ <article class="card">
+   <a class="card-cover" target="_blank" rel="noopener noreferrer"></a>
+   <div class="card-body">
+   <div class="card-top"><div class="badge cat"></div><div class="badge access"></div></div>
+   <div class="card-meta"></div>
+   <h3></h3>
+   <div class="summary"></div>
+   <ul class="tags"></ul>
+   <div class="extras"></div>
+   <div class="card-actions"><a class="source btn" target="_blank" rel="noopener noreferrer"></a><button class="check plain" type="button"></button></div>
+   </div>
+ </article>
+</template>
+</body>
+</html>

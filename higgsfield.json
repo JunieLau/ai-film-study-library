@@ -1,0 +1,2289 @@
+{
+  "entries": [
+    {
+      "id": "oqtXc0yI1S8",
+      "titleEn": "I Surprised Iman Gadzhi With A $20,000 Luxury AD For His Brand",
+      "titleZh": "72 小时制作 AI 时装广告：为 Iman Gadzhi 打造奢侈品牌短片",
+      "url": "https://www.youtube.com/watch?v=oqtXc0yI1S8",
+      "category": "branding",
+      "access": "public",
+      "date": "2026-11-21",
+      "summaryEn": "Models and tools: Claude Code, Seedream 5.5, SOUL 2, Soul Cinema, Seedance 2.5. Turn a concept into actionable instructions for visuals, performance, blocking and camera movement. Use reflections in eyeglass lenses to link two shots.",
+      "summaryZh": "模型与工具：Claude Code，Seedream 5.5、SOUL 2、Soul Cinema、Seedance 2.5。把创意写成可执行的画面、表演、走位及运镜指令；利用眼镜镜片里的反射衔接两个镜头。",
+      "tags": [
+        "Claude Code",
+        "Seedream 5.5",
+        "SOUL 2",
+        "Soul Cinema",
+        "Seedance 2.5"
+      ],
+      "skills": [
+        {
+          "label": "higgsfield-skill-prompt-writing.md",
+          "summaryEn": "Turn a concept into actionable instructions for visuals, performance, blocking and camera movement.",
+          "summaryZh": "把创意写成可执行的画面、表演、走位及运镜指令。",
+          "url": "https://higgsfield.ai/s/hills-breakdown-higgsfieldai-BNpdos",
+          "linkType": "creator-resource"
+        },
+        {
+          "label": "lens-transition-vfx-english.zip",
+          "summaryEn": "Use reflections in eyeglass lenses to link two shots.",
+          "summaryZh": "利用眼镜镜片里的反射衔接两个镜头。",
+          "url": "https://higgsfield.ai/s/hills-breakdown-higgsfieldai-BNpdos",
+          "linkType": "creator-resource"
+        }
+      ],
+      "resourceUrl": "https://higgsfield.ai/s/hills-breakdown-higgsfieldai-BNpdos",
+      "resources": [
+        {
+          "label": "作者资源页",
+          "labelZh": "作者资源页",
+          "labelEn": "Creator’s resource page",
+          "url": "https://higgsfield.ai/s/hills-breakdown-higgsfieldai-BNpdos",
+          "kind": "source"
+        },
+        {
+          "label": "hills-asset-prompts.md",
+          "labelZh": "hills-asset-prompts.md",
+          "labelEn": "hills-asset-prompts.md",
+          "url": "https://higgsfield.ai/s/hills-breakdown-higgsfieldai-BNpdos",
+          "kind": "source",
+          "summaryEn": "Reference prompts for the people, product and settings in the HILLS ad.",
+          "summaryZh": "HILLS 广告中人物、产品和场景的资产提示词。"
+        }
+      ],
+      "titleAliases": [
+        "Step-by-Step: How I Built a Fashion AI Ad in 72 Hours"
+      ],
+      "imageUrl": "https://i.ytimg.com/vi/oqtXc0yI1S8/mqdefault.jpg"
+    },
+    {
+      "id": "FRukXPBqlNo",
+      "titleEn": "The Newest Workflow For Ultra Realistic AI Characters (Seedance 2.5 in 4K + Claude Fable 5.2)",
+      "titleZh": "超写实 AI 角色新流程：Seedance 2.5 4K 与 Claude Fable 5.2",
+      "url": "https://www.youtube.com/watch?v=FRukXPBqlNo",
+      "category": "characters",
+      "access": "public",
+      "date": "2026-11-14",
+      "summaryEn": "Models and tools: Claude Fable 5.2, SOUL 2, Seedream 5.5, Seedance 2.5 4K. Develop a creature from a gray model through faces and materials to a photoreal image. Build reusable interiors and outdoor locations in Soul Cinema.",
+      "summaryZh": "模型与工具：Claude Fable 5.2，SOUL 2、Seedream 5.5、Seedance 2.5 4K。由文字生成灰模、面部、材质和最终实拍感生物照；在 Soul Cinema 中建立可复用的房间与外景。",
+      "tags": [
+        "Claude Fable 5.2",
+        "SOUL 2",
+        "Seedream 5.5",
+        "Seedance 2.5 4K"
+      ],
+      "skills": [
+        {
+          "label": "Higgsfield-Creature-Sculpt-Pipeline.skill",
+          "summaryEn": "Develop a creature from a gray model through faces and materials to a photoreal image.",
+          "summaryZh": "由文字生成灰模、面部、材质和最终实拍感生物照。",
+          "url": "https://higgsfield.ai/s/creatures-4k-higgsfieldai-MyuPyG",
+          "linkType": "creator-resource"
+        },
+        {
+          "label": "Higgsfield-Locations.skill",
+          "summaryEn": "Build reusable interiors and outdoor locations in Soul Cinema.",
+          "summaryZh": "在 Soul Cinema 中建立可复用的房间与外景。",
+          "url": "https://higgsfield.ai/s/creatures-4k-higgsfieldai-MyuPyG",
+          "linkType": "creator-resource"
+        }
+      ],
+      "resourceUrl": "https://higgsfield.ai/s/creatures-4k-higgsfieldai-MyuPyG",
+      "resources": [
+        {
+          "label": "作者资源页",
+          "labelZh": "作者资源页",
+          "labelEn": "Creator’s resource page",
+          "url": "https://higgsfield.ai/s/creatures-4k-higgsfieldai-MyuPyG",
+          "kind": "source"
+        }
+      ],
+      "imageUrl": "https://i.ytimg.com/vi/FRukXPBqlNo/mqdefault.jpg"
+    },
+    {
+      "id": "1BzzdY-nK9A",
+      "titleEn": "How I Get Perfect AI Realism in Every Shot (3 Steps)",
+      "titleZh": "三步让 AI 镜头更接近实拍",
+      "url": "https://www.youtube.com/watch?v=1BzzdY-nK9A",
+      "category": "characters",
+      "access": "public",
+      "date": "2026-11-13",
+      "summaryEn": "Models and tools: Claude, Seedream 5.5, Soul Cinema and Seedance (2.0 listed in the YouTube description; 2.5 demonstrated on the project page). Break a story into timed shots with camera positions and starting and ending states. Direct performance through eye lines, physical actions and facial expressions.",
+      "summaryZh": "模型与工具：Claude、Seedream 5.5、Soul Cinema、Seedance（视频简介写 2.0，制作页演示 2.5）。把故事拆成有时间点、机位和起止状态的镜头；用眼神、表情与身体动作指导表演。",
+      "tags": [
+        "Claude",
+        "Seedream 5.5",
+        "Soul Cinema",
+        "Seedance 2.0 / 2.5"
+      ],
+      "skills": [
+        {
+          "label": "Higgsfield-Seedance-Prompt-Writer.skill",
+          "summaryEn": "Break a story into timed shots with camera positions and starting and ending states.",
+          "summaryZh": "把故事拆成有时间点、机位和起止状态的镜头。",
+          "url": "https://higgsfield.ai/s/toothpaste-higgsfieldai-fmyGPk",
+          "linkType": "creator-resource"
+        },
+        {
+          "label": "Higgsfield-Acting-Director.skill",
+          "summaryEn": "Direct performance through eye lines, physical actions and facial expressions.",
+          "summaryZh": "用眼神、表情与身体动作指导表演。",
+          "url": "https://higgsfield.ai/s/toothpaste-higgsfieldai-fmyGPk",
+          "linkType": "creator-resource"
+        }
+      ],
+      "resourceUrl": "https://higgsfield.ai/s/toothpaste-higgsfieldai-fmyGPk",
+      "resources": [
+        {
+          "label": "作者资源页",
+          "labelZh": "作者资源页",
+          "labelEn": "Creator’s resource page",
+          "url": "https://higgsfield.ai/s/toothpaste-higgsfieldai-fmyGPk",
+          "kind": "source"
+        }
+      ],
+      "dateShanghai": "2026-11-14",
+      "imageUrl": "https://i.ytimg.com/vi/1BzzdY-nK9A/mqdefault.jpg"
+    },
+    {
+      "id": "YP8D2_j3_Hc",
+      "titleEn": "The Secret YouTube Strategy Dominating in 2027",
+      "titleZh": "2027 年不露脸 YouTube 频道的制作策略",
+      "url": "https://www.youtube.com/watch?v=YP8D2_j3_Hc",
+      "category": "tutorial",
+      "access": "public",
+      "date": "2026-11-11",
+      "summaryEn": "Models and tools: Claude Fable 5.2, Seedance 2.5. Choose topics, develop scripts and plan storyboards. Write shot-by-shot visual prompts.",
+      "summaryZh": "模型与工具：Claude Fable 5.2、Seedance 2.5。选题、写稿和分镜；写逐镜画面指令。",
+      "tags": [
+        "Claude Fable 5.2",
+        "Seedance 2.5"
+      ],
+      "skills": [
+        {
+          "label": "higgsfield-faceless-script.md",
+          "summaryEn": "Choose topics, develop scripts and plan storyboards.",
+          "summaryZh": "选题、写稿和分镜。",
+          "url": "https://higgsfield.ai/s/faceless-channel-fable-5-2-higgsfieldai-oVZiqR",
+          "linkType": "creator-resource"
+        },
+        {
+          "label": "higgsfield-seedance-prompts.md",
+          "summaryEn": "Write shot-by-shot visual prompts.",
+          "summaryZh": "写逐镜画面指令。",
+          "url": "https://higgsfield.ai/s/faceless-channel-fable-5-2-higgsfieldai-oVZiqR",
+          "linkType": "creator-resource"
+        },
+        {
+          "label": "higgsfield-faceless-production.md",
+          "summaryEn": "Coordinate visuals, narration, music, sound effects and editing.",
+          "summaryZh": "统筹画面、配音、音乐、音效和剪辑。",
+          "url": "https://higgsfield.ai/s/faceless-channel-fable-5-2-higgsfieldai-oVZiqR",
+          "linkType": "creator-resource"
+        },
+        {
+          "label": "higgsfield-youtube-packaging.md",
+          "summaryEn": "Create thumbnails, titles, descriptions and labels.",
+          "summaryZh": "制作封面、标题、简介和标签。",
+          "url": "https://higgsfield.ai/s/faceless-channel-fable-5-2-higgsfieldai-oVZiqR",
+          "linkType": "creator-resource"
+        }
+      ],
+      "resourceUrl": "https://higgsfield.ai/s/faceless-channel-fable-5-2-higgsfieldai-oVZiqR",
+      "resources": [
+        {
+          "label": "作者资源页",
+          "labelZh": "作者资源页",
+          "labelEn": "Creator’s resource page",
+          "url": "https://higgsfield.ai/s/faceless-channel-fable-5-2-higgsfieldai-oVZiqR",
+          "kind": "source"
+        },
+        {
+          "label": "Guide Claude.pdf",
+          "labelZh": "Guide Claude.pdf",
+          "labelEn": "Guide Claude.pdf",
+          "url": "https://higgsfield.ai/s/faceless-channel-fable-5-2-higgsfieldai-oVZiqR",
+          "kind": "source",
+          "summaryEn": "Companion guide to using Claude.",
+          "summaryZh": "配套 Claude 操作指南。"
+        }
+      ],
+      "dateShanghai": "2026-11-12",
+      "imageUrl": "https://i.ytimg.com/vi/YP8D2_j3_Hc/mqdefault.jpg"
+    },
+    {
+      "id": "sCukTWZEt7Q",
+      "titleEn": "You Will Stop Burning Your AI Credits After Watching This (3 Tips)",
+      "titleZh": "三个技巧，减少 AI 视频制作的积分浪费",
+      "url": "https://www.youtube.com/watch?v=sCukTWZEt7Q",
+      "category": "characters",
+      "access": "public",
+      "date": "2026-11-07",
+      "summaryEn": "Models and tools: Claude, Seedream 5.0 Pro, Soul Cinema, Seedance 2.5. Break performance notes into objectives, motivation, obstacles and tactics; compare low-resolution tests before rendering finals.",
+      "summaryZh": "模型与工具：Claude、Seedream 5.0 Pro、Soul Cinema、Seedance 2.5。把导演的表演意见拆成目标、动机、障碍和策略，便于比较低清测试片后再出成片。",
+      "tags": [
+        "Claude",
+        "Seedream 5.0 Pro",
+        "Soul Cinema",
+        "Seedance 2.5"
+      ],
+      "skills": [
+        {
+          "label": "higgsfield-acting-skill.zip",
+          "summaryEn": "Break performance notes into objectives, motivation, obstacles and tactics; compare low-resolution tests before rendering finals.",
+          "summaryZh": "把导演的表演意见拆成目标、动机、障碍和策略，便于比较低清测试片后再出成片。",
+          "url": "https://higgsfield.ai/s/animalsbreakdown-higgsfieldai-dzKYAp",
+          "linkType": "creator-resource"
+        }
+      ],
+      "resourceUrl": "https://higgsfield.ai/s/animalsbreakdown-higgsfieldai-dzKYAp",
+      "resources": [
+        {
+          "label": "作者资源页",
+          "labelZh": "作者资源页",
+          "labelEn": "Creator’s resource page",
+          "url": "https://higgsfield.ai/s/animalsbreakdown-higgsfieldai-dzKYAp",
+          "kind": "source"
+        }
+      ],
+      "imageUrl": "https://i.ytimg.com/vi/sCukTWZEt7Q/mqdefault.jpg"
+    },
+    {
+      "id": "X7Uw_cWBpzs",
+      "titleEn": "I Mixed AI + Real Footage = Insane VFX!",
+      "titleZh": "将 AI 特效合进实拍镜头",
+      "url": "https://www.youtube.com/watch?v=X7Uw_cWBpzs",
+      "category": "filmmaking",
+      "access": "public",
+      "date": "2026-11-04",
+      "summaryEn": "Models and tools: Claude, Seedance 2.5. Keep the dinosaur anatomy and appearance consistent. Match gait, weight and momentum to the live-action woodland shot.",
+      "summaryZh": "模型与工具：Claude、Seedance 2.5。固定恐龙的解剖结构和外观；控制步态、重量、惯性和运动表现，匹配林地实拍素材。",
+      "tags": [
+        "Claude",
+        "Seedance 2.5"
+      ],
+      "skills": [
+        {
+          "label": "higgsfield-dinosaur-anatomy.md",
+          "summaryEn": "Keep the dinosaur anatomy and appearance consistent.",
+          "summaryZh": "固定恐龙的解剖结构和外观。",
+          "url": "https://higgsfield.ai/s/ai-vs-vfx-round3-higgsfieldai-kLtAVn",
+          "linkType": "creator-resource"
+        },
+        {
+          "label": "higgsfield-dinosaur-motion.md",
+          "summaryEn": "Match gait, weight and momentum to the live-action woodland shot.",
+          "summaryZh": "控制步态、重量、惯性和运动表现，匹配林地实拍素材。",
+          "url": "https://higgsfield.ai/s/ai-vs-vfx-round3-higgsfieldai-kLtAVn",
+          "linkType": "creator-resource"
+        }
+      ],
+      "resourceUrl": "https://higgsfield.ai/s/ai-vs-vfx-round3-higgsfieldai-kLtAVn",
+      "resources": [
+        {
+          "label": "作者资源页",
+          "labelZh": "作者资源页",
+          "labelEn": "Creator’s resource page",
+          "url": "https://higgsfield.ai/s/ai-vs-vfx-round3-higgsfieldai-kLtAVn",
+          "kind": "source"
+        }
+      ],
+      "imageUrl": "https://i.ytimg.com/vi/X7Uw_cWBpzs/mqdefault.jpg"
+    },
+    {
+      "id": "OAIZFE03A_k",
+      "titleEn": "Pixar’s Co-Founder on AI: What Happens to Creativity?",
+      "titleZh": "皮克斯联合创始人谈 AI 将如何改变创造力",
+      "url": "https://www.youtube.com/watch?v=OAIZFE03A_k",
+      "category": "community",
+      "access": "public",
+      "date": "2026-11-03",
+      "summaryEn": "Models and tools: Not stated. Interview; the description points to Higgsfield products, not a verified standalone Skill.",
+      "summaryZh": "模型与工具：未注明。访谈。简介提供 Higgsfield 产品入口，未识别到本集专属 Skill。",
+      "tags": [],
+      "skills": [],
+      "imageUrl": "https://i.ytimg.com/vi/OAIZFE03A_k/mqdefault.jpg"
+    },
+    {
+      "id": "VaNWoD7JORo",
+      "titleEn": "Who Won $1,000,000? Higgsfield Global Film Festival Winners",
+      "titleZh": "百万美元大奖揭晓：Higgsfield 全球电影节获奖作品",
+      "url": "https://www.youtube.com/watch?v=VaNWoD7JORo",
+      "category": "community",
+      "access": "public",
+      "date": "2026-11-01",
+      "summaryEn": "Models and tools: Not stated. Festival winners roundup. Description links lead to competition projects; no separate Skill was confirmed.",
+      "summaryZh": "模型与工具：未注明。电影节获奖作品索引。简介链接通往参赛项目，未确认独立 Skill。",
+      "tags": [],
+      "skills": [],
+      "dateShanghai": "2026-11-02",
+      "imageUrl": "https://i.ytimg.com/vi/VaNWoD7JORo/mqdefault.jpg"
+    },
+    {
+      "id": "ktGkJfxNN9M",
+      "titleEn": "I Spent 72 Hours Making a Commercial with AI (Full Workflow)",
+      "titleZh": "72 小时制作 AI 商业短片：完整流程",
+      "url": "https://www.youtube.com/watch?v=ktGkJfxNN9M",
+      "category": "branding",
+      "access": "public",
+      "date": "2026-10-30",
+      "summaryEn": "Models and tools: Claude, Seedance 2.5. Lock the cast, locations and props; plan shots and production order for a sports ad. Break choreography into on-camera action, timing and blocking.",
+      "summaryZh": "模型与工具：Claude、Seedance 2.5。锁定角色、场景与道具，规划运动广告的镜头和制作顺序；把舞蹈编排拆成镜头里的动作、节奏与走位。",
+      "tags": [
+        "Claude",
+        "Seedance 2.5"
+      ],
+      "skills": [
+        {
+          "label": "directing-workflow.md",
+          "summaryEn": "Lock the cast, locations and props; plan shots and production order for a sports ad.",
+          "summaryZh": "锁定角色、场景与道具，规划运动广告的镜头和制作顺序。",
+          "url": "https://higgsfield.ai/s/sportscinematicad-higgsfieldai-rFNifO",
+          "linkType": "creator-resource"
+        },
+        {
+          "label": "dance-direction.md",
+          "summaryEn": "Break choreography into on-camera action, timing and blocking.",
+          "summaryZh": "把舞蹈编排拆成镜头里的动作、节奏与走位。",
+          "url": "https://higgsfield.ai/s/sportscinematicad-higgsfieldai-rFNifO",
+          "linkType": "creator-resource"
+        }
+      ],
+      "resourceUrl": "https://higgsfield.ai/s/sportscinematicad-higgsfieldai-rFNifO",
+      "resources": [
+        {
+          "label": "作者资源页",
+          "labelZh": "作者资源页",
+          "labelEn": "Creator’s resource page",
+          "url": "https://higgsfield.ai/s/sportscinematicad-higgsfieldai-rFNifO",
+          "kind": "source"
+        },
+        {
+          "label": "spec-commercial-reference-images-complete.zip",
+          "labelZh": "spec-commercial-reference-images-complete.zip",
+          "labelEn": "spec-commercial-reference-images-complete.zip",
+          "url": "https://higgsfield.ai/s/sportscinematicad-higgsfieldai-rFNifO",
+          "kind": "source",
+          "summaryEn": "Companion pack of sportswear-ad reference images.",
+          "summaryZh": "运动服广告的完整参考图包。"
+        }
+      ],
+      "imageUrl": "https://i.ytimg.com/vi/ktGkJfxNN9M/mqdefault.jpg"
+    },
+    {
+      "id": "wFbgrPmVXb0",
+      "titleEn": "How I Make Realistic AI Short Films Using Seedance 2.5 - Full Guide",
+      "titleZh": "如何用 Seedance 2.5 制作写实 AI 短片：完整指南",
+      "url": "https://www.youtube.com/watch?v=wFbgrPmVXb0",
+      "category": "filmmaking",
+      "access": "public",
+      "date": "2026-10-24",
+      "summaryEn": "Models and tools: Claude, Seedance 2.5. Turn scene intentions into separate Seedance prompts for each shot. Plan fictional fight blocking, camera placement and edit continuity.",
+      "summaryZh": "模型与工具：Claude、Seedance 2.5。把场景意图扩为 Seedance 的逐镜提示词；为虚构打斗场面安排角色走位、机位和剪辑连续性。",
+      "tags": [
+        "Claude",
+        "Seedance 2.5"
+      ],
+      "skills": [
+        {
+          "label": "higgsfield-prompt-engine.skill",
+          "summaryEn": "Turn scene intentions into separate Seedance prompts for each shot.",
+          "summaryZh": "把场景意图扩为 Seedance 的逐镜提示词。",
+          "url": "https://higgsfield.ai/s/ai-action-film-higgsfieldai-AqKXgv",
+          "linkType": "creator-resource"
+        },
+        {
+          "label": "higgsfield-fight-scene.skill",
+          "summaryEn": "Plan fictional fight blocking, camera placement and edit continuity.",
+          "summaryZh": "为虚构打斗场面安排角色走位、机位和剪辑连续性。",
+          "url": "https://higgsfield.ai/s/ai-action-film-higgsfieldai-AqKXgv",
+          "linkType": "creator-resource"
+        },
+        {
+          "label": "higgsfield-acting-skill.skill",
+          "summaryEn": "Direct acting through character motivation, reactions and physical behavior.",
+          "summaryZh": "用角色动机、反应及动作细节指导表演。",
+          "url": "https://higgsfield.ai/s/ai-action-film-higgsfieldai-AqKXgv",
+          "linkType": "creator-resource"
+        },
+        {
+          "label": "Anamorphic skill.md",
+          "summaryEn": "Specify framing, flares and the optical qualities of anamorphic footage.",
+          "summaryZh": "描述宽银幕变形镜头的构图、光斑和光学质感。",
+          "url": "https://higgsfield.ai/s/ai-action-film-higgsfieldai-AqKXgv",
+          "linkType": "creator-resource"
+        }
+      ],
+      "resourceUrl": "https://higgsfield.ai/s/ai-action-film-higgsfieldai-AqKXgv",
+      "resources": [
+        {
+          "label": "作者资源页",
+          "labelZh": "作者资源页",
+          "labelEn": "Creator’s resource page",
+          "url": "https://higgsfield.ai/s/ai-action-film-higgsfieldai-AqKXgv",
+          "kind": "source"
+        }
+      ],
+      "imageUrl": "https://i.ytimg.com/vi/wFbgrPmVXb0/mqdefault.jpg"
+    },
+    {
+      "id": "cBxKZcalwkM",
+      "titleEn": "How We Made an AI Short Drama That Looks Like a Real Movie",
+      "titleZh": "我们如何制作有电影质感的 AI 短剧",
+      "url": "https://www.youtube.com/watch?v=cBxKZcalwkM",
+      "category": "filmmaking",
+      "access": "public",
+      "date": "2026-10-22",
+      "summaryEn": "Models and tools: ChatGPT (version not stated), SOUL 2.0, Seedance 2.5. Structure a short drama’s hook, escalation, suspense and dialogue. Convert a script into shot prompts with camera, lighting and action details.",
+      "summaryZh": "模型与工具：ChatGPT（版本未载）、SOUL 2.0、Seedance 2.5。编排短剧开场钩子、升级、悬念和人物对白；把剧本转为带机位、灯光和动作细节的镜头提示词。",
+      "tags": [
+        "ChatGPT（版本未载）",
+        "SOUL 2.0",
+        "Seedance 2.5"
+      ],
+      "skills": [
+        {
+          "label": "Higgsfield - Short Drama Screenwriter.md",
+          "summaryEn": "Structure a short drama’s hook, escalation, suspense and dialogue.",
+          "summaryZh": "编排短剧开场钩子、升级、悬念和人物对白。",
+          "url": "https://higgsfield.ai/s/soul-short-drama-higgsfieldai-SCYaeO",
+          "linkType": "creator-resource"
+        },
+        {
+          "label": "Higgsfield - Seedance 2.5 Prompt Writer.md",
+          "summaryEn": "Convert a script into shot prompts with camera, lighting and action details.",
+          "summaryZh": "把剧本转为带机位、灯光和动作细节的镜头提示词。",
+          "url": "https://higgsfield.ai/s/soul-short-drama-higgsfieldai-SCYaeO",
+          "linkType": "creator-resource"
+        }
+      ],
+      "resourceUrl": "https://higgsfield.ai/s/soul-short-drama-higgsfieldai-SCYaeO",
+      "resources": [
+        {
+          "label": "作者资源页",
+          "labelZh": "作者资源页",
+          "labelEn": "Creator’s resource page",
+          "url": "https://higgsfield.ai/s/soul-short-drama-higgsfieldai-SCYaeO",
+          "kind": "source"
+        }
+      ],
+      "imageUrl": "https://i.ytimg.com/vi/cBxKZcalwkM/mqdefault.jpg"
+    },
+    {
+      "id": "1dvM89NMK3s",
+      "titleEn": "Give Us 20 Minutes, We’ll Teach You 5 AI Side Hustles for 2026",
+      "titleZh": "20 分钟了解五种 AI 创意副业",
+      "url": "https://www.youtube.com/watch?v=1dvM89NMK3s",
+      "category": "business",
+      "access": "public",
+      "date": "2026-10-19",
+      "summaryEn": "Models and tools: Claude, Seedance 2.5. Build UGC ads from product photographs. Produce motion-led ads for products.",
+      "summaryZh": "模型与工具：Claude、Seedance 2.5。从商品图片制作 UGC 广告；制作产品动态广告。",
+      "tags": [
+        "Claude",
+        "Seedance 2.5"
+      ],
+      "skills": [
+        {
+          "label": "higgsfield-ugc-skill.md",
+          "summaryEn": "Build UGC ads from product photographs.",
+          "summaryZh": "从商品图片制作 UGC 广告。",
+          "url": "https://higgsfield.ai/s/iman-gadzhi-higgsfieldai-rPdAKB",
+          "linkType": "creator-resource"
+        },
+        {
+          "label": "higgsfield-motion-skill.md",
+          "summaryEn": "Produce motion-led ads for products.",
+          "summaryZh": "制作产品动态广告。",
+          "url": "https://higgsfield.ai/s/iman-gadzhi-higgsfieldai-rPdAKB",
+          "linkType": "creator-resource"
+        },
+        {
+          "label": "higgsfield-client-finder-skill.md",
+          "summaryEn": "Identify prospects for a specific creative service.",
+          "summaryZh": "按服务方向寻找潜在客户。",
+          "url": "https://higgsfield.ai/s/iman-gadzhi-higgsfieldai-rPdAKB",
+          "linkType": "creator-resource"
+        }
+      ],
+      "resourceUrl": "https://higgsfield.ai/s/iman-gadzhi-higgsfieldai-rPdAKB",
+      "resources": [
+        {
+          "label": "作者资源页",
+          "labelZh": "作者资源页",
+          "labelEn": "Creator’s resource page",
+          "url": "https://higgsfield.ai/s/iman-gadzhi-higgsfieldai-rPdAKB",
+          "kind": "source"
+        }
+      ],
+      "dateShanghai": "2026-10-20",
+      "imageUrl": "https://i.ytimg.com/vi/1dvM89NMK3s/mqdefault.jpg"
+    },
+    {
+      "id": "5HYYXYYCrL4",
+      "titleEn": "Claude Opus 5.5 + Higgsfield Make Insane Motion Graphics! (Claude Motion)",
+      "titleZh": "Claude Opus 5.5 与 Higgsfield 动态图形制作",
+      "url": "https://www.youtube.com/watch?v=5HYYXYYCrL4",
+      "category": "motion",
+      "access": "public",
+      "date": "2026-10-13",
+      "summaryEn": "Models and tools: Claude Opus 5.5. Use timing and layout references to create editable motion graphics. Turn software screens, interactions and features into a product launch film.",
+      "summaryZh": "模型与工具：Claude Opus 5.5。参照样片的节奏和版式，制作可编辑的动态图形；把软件界面、交互和卖点编排成产品发布片。",
+      "tags": [
+        "Claude Opus 5.5"
+      ],
+      "skills": [
+        {
+          "label": "higgsfield-motion.skill",
+          "summaryEn": "Use timing and layout references to create editable motion graphics.",
+          "summaryZh": "参照样片的节奏和版式，制作可编辑的动态图形。",
+          "url": "https://higgsfield.ai/s/claudemotion-higgsfieldai-skVQgf",
+          "linkType": "creator-resource"
+        },
+        {
+          "label": "higgsfield-motion-saas.skill",
+          "summaryEn": "Turn software screens, interactions and features into a product launch film.",
+          "summaryZh": "把软件界面、交互和卖点编排成产品发布片。",
+          "url": "https://higgsfield.ai/s/claudemotion-higgsfieldai-skVQgf",
+          "linkType": "creator-resource"
+        }
+      ],
+      "resourceUrl": "https://higgsfield.ai/s/claudemotion-higgsfieldai-skVQgf",
+      "resources": [
+        {
+          "label": "作者资源页",
+          "labelZh": "作者资源页",
+          "labelEn": "Creator’s resource page",
+          "url": "https://higgsfield.ai/s/claudemotion-higgsfieldai-skVQgf",
+          "kind": "source"
+        }
+      ],
+      "dateShanghai": "2026-10-14",
+      "imageUrl": "https://i.ytimg.com/vi/5HYYXYYCrL4/mqdefault.jpg"
+    },
+    {
+      "id": "rZvF_EWZoHw",
+      "titleEn": "Claude Opus 5.5 Made Clipping The Easiest Side Hustle of 2026!",
+      "titleZh": "用 Claude Opus 5.5 把长视频剪成短视频",
+      "url": "https://www.youtube.com/watch?v=rZvF_EWZoHw",
+      "category": "editing",
+      "access": "public",
+      "date": "2026-10-11",
+      "summaryEn": "Models and tools: Claude Opus 5.5. Katana's /katana workflow cuts longer footage or podcasts into shorts based on movement and pacing. The author lists a companion plug-in.",
+      "summaryZh": "模型与工具：Claude Opus 5.5。Katana 通过 /katana 调用，参照动作和节奏把长片或播客剪成短片。作者另附插件包。",
+      "tags": [
+        "Claude Opus 5.5"
+      ],
+      "skills": [],
+      "resourceUrl": "https://higgsfield.ai/s/katana-higgsfieldai-txbirb",
+      "resources": [
+        {
+          "label": "作者制作页",
+          "labelZh": "作者制作页",
+          "labelEn": "Creator’s production page",
+          "url": "https://higgsfield.ai/s/katana-higgsfieldai-txbirb",
+          "kind": "source"
+        },
+        {
+          "label": "Higgsfield-edit-studio-plugin-0.3.0_1.zip",
+          "labelZh": "Higgsfield-edit-studio-plugin-0.3.0_1.zip",
+          "labelEn": "Higgsfield-edit-studio-plugin-0.3.0_1.zip",
+          "url": "https://higgsfield.ai/s/katana-higgsfieldai-txbirb",
+          "kind": "source",
+          "summaryEn": "Companion installation package for the Katana editing workflow.",
+          "summaryZh": "Katana 剪辑工作流的配套插件安装包。"
+        }
+      ],
+      "imageUrl": "https://i.ytimg.com/vi/rZvF_EWZoHw/mqdefault.jpg"
+    },
+    {
+      "id": "kFKpcCHkuPI",
+      "titleEn": "I Made An AI Commercial For a Delivery Brand From Scratch (Full Tutorial)",
+      "titleZh": "从零制作 AI 配送品牌广告：完整教程",
+      "url": "https://www.youtube.com/watch?v=kFKpcCHkuPI",
+      "category": "branding",
+      "access": "public",
+      "date": "2026-10-07",
+      "summaryEn": "Models and tools: Claude, Soul Cinema, Seedream 5 Pro, Seedance 2.5. Plan camera, blocking, dialogue and transitions on a timeline; installable package. Markdown version of the timed prompting workflow.",
+      "summaryZh": "模型与工具：Claude、Soul Cinema、Seedream 5 Pro、Seedance 2.5。按时间安排机位、走位、对白和转场。可安装的压缩包；同一工作流的 Markdown 文本版。",
+      "tags": [
+        "Claude",
+        "Soul Cinema",
+        "Seedream 5 Pro",
+        "Seedance 2.5"
+      ],
+      "skills": [
+        {
+          "label": "higgsfield-timed-prompts.zip",
+          "summaryEn": "Plan camera, blocking, dialogue and transitions on a timeline; installable package.",
+          "summaryZh": "按时间安排机位、走位、对白和转场。可安装的压缩包。",
+          "url": "https://higgsfield.ai/s/delivery-ad-higgsfieldai-GxUwyO",
+          "linkType": "creator-resource"
+        },
+        {
+          "label": "higgsfield-timed-prompts.md",
+          "summaryEn": "Markdown version of the timed prompting workflow.",
+          "summaryZh": "同一工作流的 Markdown 文本版。",
+          "url": "https://higgsfield.ai/s/delivery-ad-higgsfieldai-GxUwyO",
+          "linkType": "creator-resource"
+        }
+      ],
+      "resourceUrl": "https://higgsfield.ai/s/delivery-ad-higgsfieldai-GxUwyO",
+      "resources": [
+        {
+          "label": "作者资源页",
+          "labelZh": "作者资源页",
+          "labelEn": "Creator’s resource page",
+          "url": "https://higgsfield.ai/s/delivery-ad-higgsfieldai-GxUwyO",
+          "kind": "source"
+        },
+        {
+          "label": "Delivery-Assets-and-Prompts.zip",
+          "labelZh": "Delivery-Assets-and-Prompts.zip",
+          "labelEn": "Delivery-Assets-and-Prompts.zip",
+          "url": "https://higgsfield.ai/s/delivery-ad-higgsfieldai-GxUwyO",
+          "kind": "source",
+          "summaryEn": "Reference assets and prompts for the ad.",
+          "summaryZh": "广告参考资产与逐镜提示词。"
+        }
+      ],
+      "imageUrl": "https://i.ytimg.com/vi/kFKpcCHkuPI/mqdefault.jpg"
+    },
+    {
+      "id": "uZkGA1EuIHI",
+      "titleEn": "Can AI Beat VFX? (feat. ErikDoesVFX)",
+      "titleZh": "AI 能打败传统视觉特效吗？对谈 ErikDoesVFX",
+      "url": "https://www.youtube.com/watch?v=uZkGA1EuIHI",
+      "category": "filmmaking",
+      "access": "public",
+      "date": "2026-10-05",
+      "summaryEn": "Models and tools: Claude, Seedance 2.5. The description mentions a VFX Skill and prompts, but sends readers to the MCP setup page. No episode-specific file was found there.",
+      "summaryZh": "模型与工具：Claude、Seedance 2.5。视频简介提到 VFX Skill 和提示词，但给出的链接实际打开 MCP 安装页。该入口没有本集的独立 Skill 文件。",
+      "tags": [
+        "Claude",
+        "Seedance 2.5"
+      ],
+      "skills": [],
+      "resourceUrl": "https://higgsfield.ai/s/erik-2-higgsfieldai-pANePO",
+      "resources": [
+        {
+          "label": "简介所列 MCP 安装页",
+          "labelZh": "简介所列 MCP 安装页",
+          "labelEn": "MCP installation page from the description",
+          "url": "https://higgsfield.ai/s/erik-2-higgsfieldai-pANePO",
+          "kind": "source"
+        }
+      ],
+      "dateShanghai": "2026-10-06",
+      "imageUrl": "https://i.ytimg.com/vi/uZkGA1EuIHI/mqdefault.jpg"
+    },
+    {
+      "id": "gVPZU1btFA8",
+      "titleEn": "GPT-6 Astra Changed Meta Ads Forever!",
+      "titleZh": "用 GPT-6 Astra 制作 Meta 广告",
+      "url": "https://www.youtube.com/watch?v=gVPZU1btFA8",
+      "category": "branding",
+      "access": "public",
+      "date": "2026-10-03",
+      "summaryEn": "Models and tools: GPT-6 Astra. Plan Meta ads for multiple selling points in static and UGC video formats.",
+      "summaryZh": "模型与工具：GPT-6 Astra。根据商品或服务简报制作不同卖点的 Meta 广告，覆盖静态图与 UGC 视频。",
+      "tags": [
+        "GPT-6 Astra"
+      ],
+      "skills": [
+        {
+          "label": "higgsfield-marketing-new.skill",
+          "summaryEn": "Plan Meta ads for multiple selling points in static and UGC video formats.",
+          "summaryZh": "根据商品或服务简报制作不同卖点的 Meta 广告，覆盖静态图与 UGC 视频。",
+          "url": "https://higgsfield.ai/s/astra-for-meta-ads-2-higgsfieldai-YhoqLx",
+          "linkType": "creator-resource"
+        }
+      ],
+      "resourceUrl": "https://higgsfield.ai/s/astra-for-meta-ads-2-higgsfieldai-YhoqLx",
+      "resources": [
+        {
+          "label": "作者资源页",
+          "labelZh": "作者资源页",
+          "labelEn": "Creator’s resource page",
+          "url": "https://higgsfield.ai/s/astra-for-meta-ads-2-higgsfieldai-YhoqLx",
+          "kind": "source"
+        },
+        {
+          "label": "meta-ads-client-brief.pdf",
+          "labelZh": "meta-ads-client-brief.pdf",
+          "labelEn": "meta-ads-client-brief.pdf",
+          "url": "https://higgsfield.ai/s/astra-for-meta-ads-2-higgsfieldai-YhoqLx",
+          "kind": "source",
+          "summaryEn": "Example client brief containing the product, audience and ad requirements.",
+          "summaryZh": "配套客户简报，用来提供产品、受众和广告需求。"
+        }
+      ],
+      "imageUrl": "https://i.ytimg.com/vi/gVPZU1btFA8/mqdefault.jpg"
+    },
+    {
+      "id": "kOoC3yhUyDQ",
+      "titleEn": "Did AI Change Editing Forever? (GPT-6 Astra + DaVinci Resolve)",
+      "titleZh": "AI 改变了剪辑吗？GPT-6 Astra 与 DaVinci Resolve",
+      "url": "https://www.youtube.com/watch?v=kOoC3yhUyDQ",
+      "category": "editing",
+      "access": "public",
+      "date": "2026-10-02",
+      "summaryEn": "Models and tools: GPT-6 Astra (with DaVinci Resolve). Organize footage, assemble a rough cut, sync screen recordings and B-roll, grade and mix in DaVinci Resolve.",
+      "summaryZh": "模型与工具：GPT-6 Astra（配合 DaVinci Resolve）。用 DaVinci Resolve 整理素材、粗剪、同步录屏与 B-roll、调色和混音。",
+      "tags": [
+        "GPT-6 Astra（配合 DaVinci Resolve）"
+      ],
+      "skills": [
+        {
+          "label": "YT_video_editor_skill_2026-09-22.zip",
+          "summaryEn": "Organize footage, assemble a rough cut, sync screen recordings and B-roll, grade and mix in DaVinci Resolve.",
+          "summaryZh": "用 DaVinci Resolve 整理素材、粗剪、同步录屏与 B-roll、调色和混音。",
+          "url": "https://higgsfield.ai/s/astra-for-editing-higgsfieldai-XqLQyi",
+          "linkType": "creator-resource"
+        }
+      ],
+      "resourceUrl": "https://higgsfield.ai/s/astra-for-editing-higgsfieldai-XqLQyi",
+      "resources": [
+        {
+          "label": "作者资源页",
+          "labelZh": "作者资源页",
+          "labelEn": "Creator’s resource page",
+          "url": "https://higgsfield.ai/s/astra-for-editing-higgsfieldai-XqLQyi",
+          "kind": "source"
+        }
+      ],
+      "imageUrl": "https://i.ytimg.com/vi/kOoC3yhUyDQ/mqdefault.jpg"
+    },
+    {
+      "id": "UQDM-ZigvGo",
+      "titleEn": "The World's Most Realistic AI Film | Higgsfield Originals (2026)",
+      "titleZh": "《Anerneq》：Higgsfield 原创 AI 电影",
+      "url": "https://www.youtube.com/watch?v=UQDM-ZigvGo",
+      "category": "series",
+      "access": "public",
+      "date": "2026-09-28",
+      "summaryEn": "Models and tools: Not independently confirmed. The original short Anerneq. A standalone Skill was not confirmed.",
+      "summaryZh": "模型与工具：未核实。《Anerneq》成片相关入口。未确认有独立 Skill。",
+      "tags": [],
+      "skills": [],
+      "resourceUrl": "https://higgsfield.ai/s/anerneq-higgsfieldai-mwYBZw",
+      "resources": [
+        {
+          "label": "作者资源页",
+          "labelZh": "作者资源页",
+          "labelEn": "Creator’s resource page",
+          "url": "https://higgsfield.ai/s/anerneq-higgsfieldai-mwYBZw",
+          "kind": "source"
+        }
+      ],
+      "dateShanghai": "2026-09-29",
+      "imageUrl": "https://i.ytimg.com/vi/UQDM-ZigvGo/mqdefault.jpg"
+    },
+    {
+      "id": "reFzEtCG_m8",
+      "titleEn": "How To Animate a Short Film with Blender + Higgsfield (Breakdown)",
+      "titleZh": "用 Blender 与 Higgsfield 制作动画短片",
+      "url": "https://www.youtube.com/watch?v=reFzEtCG_m8",
+      "category": "filmmaking",
+      "access": "public",
+      "date": "2026-09-23",
+      "summaryEn": "Models and tools: SOUL 2.0 (with Blender, Photoshop). The Passport Rush prompt collection uses 3D previs to control cameras and timing before introducing characters into a watercolor environment. No separate Skill was verified.",
+      "summaryZh": "模型与工具：SOUL 2.0（配合 Blender、Photoshop）。《Passport Rush》提示词合集。用 3D 预演控制运镜和动作时序，再把角色放入水彩环境。未核到独立 Skill 文件。",
+      "tags": [
+        "SOUL 2.0（配合 Blender",
+        "Photoshop）"
+      ],
+      "skills": [],
+      "resourceUrl": "https://higgsfield.ai/s/higgsfield-animation-episode-1-higgsfieldanimation-cyOPRU",
+      "resources": [
+        {
+          "label": "作者资源页",
+          "labelZh": "作者资源页",
+          "labelEn": "Creator’s resource page",
+          "url": "https://higgsfield.ai/s/higgsfield-animation-episode-1-higgsfieldanimation-cyOPRU",
+          "kind": "source"
+        }
+      ],
+      "dateShanghai": "2026-09-24",
+      "imageUrl": "https://i.ytimg.com/vi/reFzEtCG_m8/mqdefault.jpg"
+    },
+    {
+      "id": "W3-RIZ-Ps64",
+      "titleEn": "GPT-6 Astra + After Effects Creates Motion Graphics in Minutes!",
+      "titleZh": "用 GPT-6 Astra 和 After Effects 制作动态图形",
+      "url": "https://www.youtube.com/watch?v=W3-RIZ-Ps64",
+      "category": "motion",
+      "access": "public",
+      "date": "2026-09-21",
+      "summaryEn": "Models and tools: GPT-6 Astra (with After Effects). The plug-in offers commands for After Effects projects, illustration rigging, software demos and localization. The description does not list a standalone Skill file.",
+      "summaryZh": "模型与工具：GPT-6 Astra（配合 After Effects）。插件自带 /use-after-effects、/illustration-animation、/saas-animation 和 /localization-motion，用于操作 AE 工程、绑定插画、演示软件界面及制作多语言版本。简介未列出独立 Skill 文件。",
+      "tags": [
+        "GPT-6 Astra（配合 After Effects）"
+      ],
+      "skills": [],
+      "resourceUrl": "https://higgsfield.ai/s/astra-for-motion-design-higgsfieldai-wBPYgb",
+      "resources": [
+        {
+          "label": "作者教程",
+          "labelZh": "作者教程",
+          "labelEn": "Creator’s tutorial",
+          "url": "https://higgsfield.ai/s/astra-for-motion-design-higgsfieldai-wBPYgb",
+          "kind": "source"
+        },
+        {
+          "label": "After Effects 插件",
+          "labelZh": "After Effects 插件",
+          "labelEn": "After Effects 插件",
+          "url": "https://higgsfield.ai/plugins/after-effects",
+          "kind": "source"
+        }
+      ],
+      "imageUrl": "https://i.ytimg.com/vi/W3-RIZ-Ps64/mqdefault.jpg"
+    },
+    {
+      "id": "vUYq38wC_xI",
+      "titleEn": "GPT Astra 6 + Blender + Higgsfield Builds The Craziest Cinematic Scenes!",
+      "titleZh": "用 GPT-6 Astra、Blender 与 Higgsfield 搭建电影场景",
+      "url": "https://www.youtube.com/watch?v=vUYq38wC_xI",
+      "category": "filmmaking",
+      "access": "public",
+      "date": "2026-09-12",
+      "summaryEn": "Models and tools: GPT-6 Astra, Seedance 2.5 (with Blender). The lesson uses Blender to lock blocking, cameras and timing before generation. The author page includes examples and a plug-in, but no independent Skill was verified.",
+      "summaryZh": "模型与工具：GPT-6 Astra、Seedance 2.5（配合 Blender）。教程演示先用 Blender 锁定站位、机位与时序，再生成画面。当前公开制作页提供镜头示例和插件入口。简介未列出独立 Skill 文件。",
+      "tags": [
+        "GPT-6 Astra",
+        "Seedance 2.5（配合 Blender）"
+      ],
+      "skills": [],
+      "resourceUrl": "https://higgsfield.ai/s/blender-higgsfieldai-Viyiew",
+      "resources": [
+        {
+          "label": "作者资源页",
+          "labelZh": "作者资源页",
+          "labelEn": "Creator’s resource page",
+          "url": "https://higgsfield.ai/s/blender-higgsfieldai-Viyiew",
+          "kind": "source"
+        },
+        {
+          "label": "Blender 插件",
+          "labelZh": "Blender 插件",
+          "labelEn": "Blender 插件",
+          "url": "https://higgsfield.ai/plugins/blender",
+          "kind": "source"
+        }
+      ],
+      "dateShanghai": "2026-09-13",
+      "imageUrl": "https://i.ytimg.com/vi/vUYq38wC_xI/mqdefault.jpg"
+    },
+    {
+      "id": "NuvA32_dmtg",
+      "titleEn": "GPT-6 Astra + Higgsfield MCP Made This ENTIRE Video in One Chat",
+      "titleZh": "只在一个对话里完成整支视频：GPT-6 Astra 与 Higgsfield MCP",
+      "url": "https://www.youtube.com/watch?v=NuvA32_dmtg",
+      "category": "tool",
+      "access": "public",
+      "date": "2026-09-05",
+      "summaryEn": "Models and tools: GPT-6 Astra. The main description link is to Higgsfield MCP setup. No episode-only Skill was verified.",
+      "summaryZh": "模型与工具：GPT-6 Astra。简介主链接为 Higgsfield MCP 连接指南。未核到本集独立 Skill。",
+      "tags": [
+        "GPT-6 Astra"
+      ],
+      "skills": [],
+      "dateShanghai": "2026-09-06",
+      "imageUrl": "https://i.ytimg.com/vi/NuvA32_dmtg/mqdefault.jpg"
+    },
+    {
+      "id": "7SZ76s-nqpQ",
+      "titleEn": "I Made a Faceless YouTube Channel With Only AI in 3 Steps",
+      "titleZh": "三步用 AI 制作不露脸 YouTube 频道",
+      "url": "https://www.youtube.com/watch?v=7SZ76s-nqpQ",
+      "category": "tutorial",
+      "access": "public",
+      "date": "2026-09-04",
+      "summaryEn": "Models and tools: GPT-6 Astra, Seedance 2.5. Write scripts for explainers, documentaries or true crime. Translate scripts into prompts for generated shots.",
+      "summaryZh": "模型与工具：GPT-6 Astra、Seedance 2.5。写知识讲解、纪录或真实犯罪脚本；按脚本编写生成镜头的提示词。",
+      "tags": [
+        "GPT-6 Astra",
+        "Seedance 2.5"
+      ],
+      "skills": [
+        {
+          "label": "faceless-script-writer-SKILL.md",
+          "summaryEn": "Write scripts for explainers, documentaries or true crime.",
+          "summaryZh": "写知识讲解、纪录或真实犯罪脚本。",
+          "url": "https://higgsfield.ai/s/faceless-channel-using-gpt-6-higgsfieldai-sPQEqd",
+          "linkType": "creator-resource"
+        },
+        {
+          "label": "faceless-video-prompts-SKILL.md",
+          "summaryEn": "Translate scripts into prompts for generated shots.",
+          "summaryZh": "按脚本编写生成镜头的提示词。",
+          "url": "https://higgsfield.ai/s/faceless-channel-using-gpt-6-higgsfieldai-sPQEqd",
+          "linkType": "creator-resource"
+        }
+      ],
+      "resourceUrl": "https://higgsfield.ai/s/faceless-channel-using-gpt-6-higgsfieldai-sPQEqd",
+      "resources": [
+        {
+          "label": "作者资源页",
+          "labelZh": "作者资源页",
+          "labelEn": "Creator’s resource page",
+          "url": "https://higgsfield.ai/s/faceless-channel-using-gpt-6-higgsfieldai-sPQEqd",
+          "kind": "source"
+        },
+        {
+          "label": "Higgs-guide-main.pdf",
+          "labelZh": "Higgs-guide-main.pdf",
+          "labelEn": "Higgs-guide-main.pdf",
+          "url": "https://higgsfield.ai/s/faceless-channel-using-gpt-6-higgsfieldai-sPQEqd",
+          "kind": "source",
+          "summaryEn": "Companion guide to channel packaging and thumbnails.",
+          "summaryZh": "配套频道封面与包装指南。"
+        }
+      ],
+      "imageUrl": "https://i.ytimg.com/vi/7SZ76s-nqpQ/mqdefault.jpg"
+    },
+    {
+      "id": "2OwMjg5As2g",
+      "titleEn": "Claude Fable 5.1 + Higgsfield AI = Insane Motion Graphics!",
+      "titleZh": "Claude Fable 5.1 与 Higgsfield 动态图形工作流",
+      "url": "https://www.youtube.com/watch?v=2OwMjg5As2g",
+      "category": "motion",
+      "access": "public",
+      "date": "2026-09-02",
+      "summaryEn": "Models and tools: Claude Fable 5.1. Organize motion typography and visuals for launches, live-action overlays, ads, property videos and explainers.",
+      "summaryZh": "模型与工具：Claude Fable 5.1。为发布片、实拍叠加动效、产品广告、地产漫游和解释动画组织视觉与文字设计。",
+      "tags": [
+        "Claude Fable 5.1"
+      ],
+      "skills": [
+        {
+          "label": "Higgsfield-mcp-skill_1.md",
+          "summaryEn": "Organize motion typography and visuals for launches, live-action overlays, ads, property videos and explainers.",
+          "summaryZh": "为发布片、实拍叠加动效、产品广告、地产漫游和解释动画组织视觉与文字设计。",
+          "url": "https://higgsfield.ai/s/marketing-studio-motion-design-higgsfieldai-QzAGtQ",
+          "linkType": "creator-resource"
+        }
+      ],
+      "resourceUrl": "https://higgsfield.ai/s/marketing-studio-motion-design-higgsfieldai-QzAGtQ",
+      "resources": [
+        {
+          "label": "作者资源页",
+          "labelZh": "作者资源页",
+          "labelEn": "Creator’s resource page",
+          "url": "https://higgsfield.ai/s/marketing-studio-motion-design-higgsfieldai-QzAGtQ",
+          "kind": "source"
+        }
+      ],
+      "imageUrl": "https://i.ytimg.com/vi/2OwMjg5As2g/mqdefault.jpg"
+    },
+    {
+      "id": "IAl240xpSGM",
+      "titleEn": "The Trigger | AI Action Short Film | Higgsfield Originals(2026)",
+      "titleZh": "《The Trigger》：Higgsfield 原创 AI 动作短片",
+      "url": "https://www.youtube.com/watch?v=IAl240xpSGM",
+      "category": "series",
+      "access": "public",
+      "date": "2026-08-31",
+      "summaryEn": "Models and tools: Cinema Studio 4; underlying model not stated. The action short's full project and shot assets. No standalone Skill was verified.",
+      "summaryZh": "模型与工具：制作平台 Cinema Studio 4，底层模型未注明。动作短片完整工程及镜头资产。独立 Skill 未确认。",
+      "tags": [
+        "制作平台 Cinema Studio 4，底层模型未注明"
+      ],
+      "skills": [],
+      "resourceUrl": "https://higgsfield.ai/s/trigger-higgsfieldai-NvfWlh",
+      "resources": [
+        {
+          "label": "作者资源页",
+          "labelZh": "作者资源页",
+          "labelEn": "Creator’s resource page",
+          "url": "https://higgsfield.ai/s/trigger-higgsfieldai-NvfWlh",
+          "kind": "source"
+        }
+      ],
+      "imageUrl": "https://i.ytimg.com/vi/IAl240xpSGM/mqdefault.jpg"
+    },
+    {
+      "id": "OiULPvTJ-0E",
+      "titleEn": "How To Save AI Credits With Higgsfield + Blender (No One Talks About This Workflow)",
+      "titleZh": "用 Higgsfield 与 Blender 预演节省 AI 生成积分",
+      "url": "https://www.youtube.com/watch?v=OiULPvTJ-0E",
+      "category": "filmmaking",
+      "access": "public",
+      "date": "2026-08-28",
+      "summaryEn": "Models and tools: Claude, Seedance 2.5 (with Blender). Use blockout geometry to set the blocking, trajectory and pace. The author links prompts, project and plug-in; no separate Skill was verified.",
+      "summaryZh": "模型与工具：Claude、Seedance 2.5（配合 Blender）。提示词与母版工程。用灰模锁定走位、运动轨迹和节奏。插件另有安装入口，未核到独立 Skill。",
+      "tags": [
+        "Claude",
+        "Seedance 2.5（配合 Blender）"
+      ],
+      "skills": [],
+      "resourceUrl": "https://higgsfield.ai/s/blender-plugin-higgsfieldai-lpdrbq",
+      "resources": [
+        {
+          "label": "作者资源页",
+          "labelZh": "作者资源页",
+          "labelEn": "Creator’s resource page",
+          "url": "https://higgsfield.ai/s/blender-plugin-higgsfieldai-lpdrbq",
+          "kind": "source"
+        },
+        {
+          "label": "Blender 插件",
+          "labelZh": "Blender 插件",
+          "labelEn": "Blender 插件",
+          "url": "https://higgsfield.ai/plugins/blender",
+          "kind": "source"
+        }
+      ],
+      "imageUrl": "https://i.ytimg.com/vi/OiULPvTJ-0E/mqdefault.jpg"
+    },
+    {
+      "id": "QfylrxtQSSs",
+      "titleEn": "How to Make a Wedding Love Story Using AI (Full Tutorial)",
+      "titleZh": "用 AI 制作婚礼爱情故事：完整教程",
+      "url": "https://www.youtube.com/watch?v=QfylrxtQSSs",
+      "category": "filmmaking",
+      "access": "public",
+      "date": "2026-08-21",
+      "summaryEn": "Models and tools: Claude, Seedance 2.5. Turn locations, character references and scale sketches into shot prompts; keep characters consistent across eras.",
+      "summaryZh": "模型与工具：Claude、Seedance 2.5。将场景、人物参考和比例草图编成逐镜指令，在跨年代的婚礼故事里保持人物一致。",
+      "tags": [
+        "Claude",
+        "Seedance 2.5"
+      ],
+      "skills": [
+        {
+          "label": "higgsfield-seedance-prompt-builder.md",
+          "summaryEn": "Turn locations, character references and scale sketches into shot prompts; keep characters consistent across eras.",
+          "summaryZh": "将场景、人物参考和比例草图编成逐镜指令，在跨年代的婚礼故事里保持人物一致。",
+          "url": "https://higgsfield.ai/s/love-story-higgsfieldai-ZpivFY",
+          "linkType": "creator-resource"
+        }
+      ],
+      "resourceUrl": "https://higgsfield.ai/s/love-story-higgsfieldai-ZpivFY",
+      "resources": [
+        {
+          "label": "作者资源页",
+          "labelZh": "作者资源页",
+          "labelEn": "Creator’s resource page",
+          "url": "https://higgsfield.ai/s/love-story-higgsfieldai-ZpivFY",
+          "kind": "source"
+        }
+      ],
+      "dateShanghai": "2026-08-22",
+      "imageUrl": "https://i.ytimg.com/vi/QfylrxtQSSs/0.jpg"
+    },
+    {
+      "id": "2z7Y6G84Iy4",
+      "titleEn": "Red Flag | 90s Hong Kong AI Short Film | Higgsfield Originals (2026)",
+      "titleZh": "《Red Flag》：九十年代港片风格 AI 短片",
+      "url": "https://www.youtube.com/watch?v=2z7Y6G84Iy4",
+      "category": "series",
+      "access": "public",
+      "date": "2026-08-19",
+      "summaryEn": "Models and tools: Seedance (version not stated). Project prompts and assets for the Hong Kong–inspired short Red Flag. No standalone Skill was verified.",
+      "summaryZh": "模型与工具：Seedance（版本未注明）。港片风格短片《Red Flag》的提示词与素材。可研究场景和人物风格。未核到独立 Skill。",
+      "tags": [
+        "Seedance（版本未注明）"
+      ],
+      "skills": [],
+      "resourceUrl": "https://higgsfield.ai/s/red-flag-higgsfieldai-QwuSas",
+      "resources": [
+        {
+          "label": "作者资源页",
+          "labelZh": "作者资源页",
+          "labelEn": "Creator’s resource page",
+          "url": "https://higgsfield.ai/s/red-flag-higgsfieldai-QwuSas",
+          "kind": "source"
+        }
+      ],
+      "imageUrl": "https://i.ytimg.com/vi/2z7Y6G84Iy4/0.jpg"
+    },
+    {
+      "id": "Y_aqMIhURyk",
+      "titleEn": "KÖK BÖRÜ | AI Animated Short Film | Higgsfield Originals (2026)",
+      "titleZh": "《KÖK BÖRÜ》：Higgsfield 原创 AI 动画短片",
+      "url": "https://www.youtube.com/watch?v=Y_aqMIhURyk",
+      "category": "series",
+      "access": "public",
+      "date": "2026-08-17",
+      "summaryEn": "Models and tools: Seedance (version not stated). Prompts and shot assets for the animated short. No standalone Skill was verified.",
+      "summaryZh": "模型与工具：Seedance（版本未注明）。动画短片的提示词与镜头资产。未核到独立 Skill。",
+      "tags": [
+        "Seedance（版本未注明）"
+      ],
+      "skills": [],
+      "resourceUrl": "https://higgsfield.ai/s/kok-boru-higgsfieldai-LtgiUJ",
+      "resources": [
+        {
+          "label": "作者资源页",
+          "labelZh": "作者资源页",
+          "labelEn": "Creator’s resource page",
+          "url": "https://higgsfield.ai/s/kok-boru-higgsfieldai-LtgiUJ",
+          "kind": "source"
+        }
+      ],
+      "dateShanghai": "2026-08-18",
+      "imageUrl": "https://i.ytimg.com/vi/Y_aqMIhURyk/0.jpg"
+    },
+    {
+      "id": "NT681LXQYPI",
+      "titleEn": "Adiliada | Sci-Fi AI Action Comedy | Higgsfield Originals (2026)",
+      "titleZh": "《Adiliada》：AI 科幻动作喜剧",
+      "url": "https://www.youtube.com/watch?v=NT681LXQYPI",
+      "category": "series",
+      "access": "public",
+      "date": "2026-08-14",
+      "summaryEn": "Models and tools: Not independently confirmed. Shot prompts and assets for the sci-fi comedy short. No standalone Skill was confirmed.",
+      "summaryZh": "模型与工具：未核实。科幻喜剧短片的逐镜提示词与素材。未确认独立 Skill。",
+      "tags": [],
+      "skills": [],
+      "resourceUrl": "https://higgsfield.ai/s/adiliada-higgsfieldai-hwONFS",
+      "resources": [
+        {
+          "label": "作者资源页",
+          "labelZh": "作者资源页",
+          "labelEn": "Creator’s resource page",
+          "url": "https://higgsfield.ai/s/adiliada-higgsfieldai-hwONFS",
+          "kind": "source"
+        }
+      ],
+      "imageUrl": "https://i.ytimg.com/vi/NT681LXQYPI/0.jpg"
+    },
+    {
+      "id": "HjXWZ-BdyS0",
+      "titleEn": "Zephyr - Special Episode | Higgsfield Original Series (2026)",
+      "titleZh": "《Zephyr》：Higgsfield 原创剧集特别篇",
+      "url": "https://www.youtube.com/watch?v=HjXWZ-BdyS0",
+      "category": "series",
+      "access": "public",
+      "date": "2026-08-11",
+      "summaryEn": "Models and tools: Seedance 2.5. Shared project with generation references for character continuity, action and cinematography. No independent Skill was confirmed.",
+      "summaryZh": "模型与工具：Seedance 2.5。开放工程，含角色一致性、动作与摄影的生成参考。未确认独立 Skill。",
+      "tags": [
+        "Seedance 2.5"
+      ],
+      "skills": [],
+      "resourceUrl": "https://higgsfield.ai/s/zephyr-higgsfieldai-SFAOzK",
+      "resources": [
+        {
+          "label": "作者资源页",
+          "labelZh": "作者资源页",
+          "labelEn": "Creator’s resource page",
+          "url": "https://higgsfield.ai/s/zephyr-higgsfieldai-SFAOzK",
+          "kind": "source"
+        }
+      ],
+      "imageUrl": "https://i.ytimg.com/vi/HjXWZ-BdyS0/0.jpg"
+    },
+    {
+      "id": "h_qQ0aKyXEA",
+      "titleEn": "The Cully Hill Boys | N3on, Israel Adesanya and MK | AI Action Film",
+      "titleZh": "《The Cully Hill Boys》：真人与 AI 制作的动作片",
+      "url": "https://www.youtube.com/watch?v=h_qQ0aKyXEA",
+      "category": "series",
+      "access": "public",
+      "date": "2026-08-10",
+      "summaryEn": "Models and tools: Seedance 2.5. Hybrid live-action and AI production with shot prompts and assets. No separate Skill was confirmed.",
+      "summaryZh": "模型与工具：Seedance 2.5。真人演员与 AI 制作的长片工程，含逐镜提示词和资产。未确认独立 Skill。",
+      "tags": [
+        "Seedance 2.5"
+      ],
+      "skills": [],
+      "resourceUrl": "https://higgsfield.ai/s/cully-hill-boys-higgsfieldai-CKgcSc",
+      "resources": [
+        {
+          "label": "作者资源页",
+          "labelZh": "作者资源页",
+          "labelEn": "Creator’s resource page",
+          "url": "https://higgsfield.ai/s/cully-hill-boys-higgsfieldai-CKgcSc",
+          "kind": "source"
+        }
+      ],
+      "dateShanghai": "2026-08-11",
+      "imageUrl": "https://i.ytimg.com/vi/h_qQ0aKyXEA/0.jpg"
+    },
+    {
+      "id": "Hn8A8D4-SpQ",
+      "titleEn": "I Challenged a Pro VFX Artist to Beat AI",
+      "titleZh": "我向专业视效师发起人机挑战",
+      "url": "https://www.youtube.com/watch?v=Hn8A8D4-SpQ",
+      "category": "filmmaking",
+      "access": "public",
+      "date": "2026-08-07",
+      "summaryEn": "Models and tools: Claude, Seedance 2.5. Translate a VFX brief into Seedance 2.5 prompts that capture camera angle, lighting and motion.",
+      "summaryZh": "模型与工具：Claude、Seedance 2.5。将特效简报转换为带摄影角度、光线与运动说明的 Seedance 2.5 指令。",
+      "tags": [
+        "Claude",
+        "Seedance 2.5"
+      ],
+      "skills": [
+        {
+          "label": "prompt-builder-2-5.skill",
+          "summaryEn": "Translate a VFX brief into Seedance 2.5 prompts that capture camera angle, lighting and motion.",
+          "summaryZh": "将特效简报转换为带摄影角度、光线与运动说明的 Seedance 2.5 指令。",
+          "url": "https://higgsfield.ai/blog/ai-vs-vfx",
+          "linkType": "creator-resource"
+        }
+      ],
+      "resourceUrl": "https://higgsfield.ai/blog/ai-vs-vfx",
+      "resources": [
+        {
+          "label": "作者资源页",
+          "labelZh": "作者资源页",
+          "labelEn": "Creator’s resource page",
+          "url": "https://higgsfield.ai/blog/ai-vs-vfx",
+          "kind": "source"
+        }
+      ],
+      "imageUrl": "https://i.ytimg.com/vi/Hn8A8D4-SpQ/0.jpg"
+    },
+    {
+      "id": "s-eeHOkkLss",
+      "titleEn": "Hell Grind: Rebuilding Our Biggest Fight Scene from Scratch",
+      "titleZh": "《Hell Grind》：从零重做大场面打戏",
+      "url": "https://www.youtube.com/watch?v=s-eeHOkkLss",
+      "category": "filmmaking",
+      "access": "public",
+      "date": "2026-08-05",
+      "summaryEn": "Models and tools: Claude, Seedance. The description links the full Hell Grind project. A Claude shot-prompt Skill is demonstrated at 03:33; a standalone download was not verified.",
+      "summaryZh": "模型与工具：Claude、Seedance。简介标注「All assets, prompts, and skills」，链接打开《Hell Grind》的完整项目。视频 03:33 演示 Claude 镜头提示词 Skill。公开入口未给出这个文件的独立下载地址。",
+      "tags": [
+        "Claude",
+        "Seedance"
+      ],
+      "skills": [],
+      "resourceUrl": "https://higgsfield.ai/s/hell-grind-breakdown-higgsfieldai-rdbpqy",
+      "resources": [
+        {
+          "label": "完整项目",
+          "labelZh": "完整项目",
+          "labelEn": "Complete project",
+          "url": "https://higgsfield.ai/s/hell-grind-breakdown-higgsfieldai-rdbpqy",
+          "kind": "source"
+        }
+      ],
+      "imageUrl": "https://i.ytimg.com/vi/s-eeHOkkLss/0.jpg"
+    },
+    {
+      "id": "t33k2tn4GpA",
+      "titleEn": "Hell Grind | World's First Ever AI Feature Film | Higgsfield Originals (2026)",
+      "titleZh": "《Hell Grind》：Higgsfield 原创 AI 长片",
+      "url": "https://www.youtube.com/watch?v=t33k2tn4GpA",
+      "category": "series",
+      "access": "public",
+      "date": "2026-08-04",
+      "summaryEn": "Models and tools: Not independently confirmed. The feature-length version. The description links to the full project.",
+      "summaryZh": "模型与工具：未核实。《Hell Grind》长片。简介链接指向长片项目。",
+      "tags": [],
+      "skills": [],
+      "dateShanghai": "2026-08-05",
+      "imageUrl": "https://i.ytimg.com/vi/t33k2tn4GpA/0.jpg"
+    },
+    {
+      "id": "GNxmt_4IifA",
+      "titleEn": "How I Built a Car Commercial With AI (Every Prompt I Used)",
+      "titleZh": "如何用 AI 制作汽车广告：附制作提示词",
+      "url": "https://www.youtube.com/watch?v=GNxmt_4IifA",
+      "category": "branding",
+      "access": "public",
+      "date": "2026-08-03",
+      "summaryEn": "Models and tools: Claude, Soul Cinema, Seedream 5 Pro, Nano Banana Pro, Seedance 2.0. Turn scene descriptions into Seedance prompts that reference the right vehicle, people and showroom assets.",
+      "summaryZh": "模型与工具：Claude、Soul Cinema、Seedream 5 Pro、Nano Banana Pro、Seedance 2.0。读取车辆、人物和展厅的命名参考图，把自然语言场景描述改成调用正确资产的 Seedance 提示词。",
+      "tags": [
+        "Claude",
+        "Soul Cinema",
+        "Seedream 5 Pro",
+        "Nano Banana Pro",
+        "Seedance 2.0"
+      ],
+      "skills": [
+        {
+          "label": "seedance-prompt-gen.skill",
+          "summaryEn": "Turn scene descriptions into Seedance prompts that reference the right vehicle, people and showroom assets.",
+          "summaryZh": "读取车辆、人物和展厅的命名参考图，把自然语言场景描述改成调用正确资产的 Seedance 提示词。",
+          "url": "https://higgsfield.ai/blog/ai-car-commercial-youtube-guide",
+          "linkType": "creator-resource"
+        }
+      ],
+      "resourceUrl": "https://higgsfield.ai/blog/ai-car-commercial-youtube-guide",
+      "resources": [
+        {
+          "label": "作者资源页",
+          "labelZh": "作者资源页",
+          "labelEn": "Creator’s resource page",
+          "url": "https://higgsfield.ai/blog/ai-car-commercial-youtube-guide",
+          "kind": "source"
+        },
+        {
+          "label": "all_assets_here_car_commercial.zip",
+          "labelZh": "all_assets_here_car_commercial.zip",
+          "labelEn": "all_assets_here_car_commercial.zip",
+          "url": "https://cdn.sanity.io/files/s479xw3z/production/367b90336bcfca0b8929c58e4ced493d7204760f.zip?dl=all_assets_here_car_commercial.zip",
+          "kind": "download",
+          "summaryEn": "Companion reference assets for the car commercial.",
+          "summaryZh": "汽车广告的参考资产合集。"
+        }
+      ],
+      "dateShanghai": "2026-08-04",
+      "imageUrl": "https://i.ytimg.com/vi/GNxmt_4IifA/0.jpg"
+    },
+    {
+      "id": "iOwKylW8c5Q",
+      "titleEn": "I Built an AI Ad Agency in 24 Hours. 5 Experts Pressure-Tested It",
+      "titleZh": "24 小时搭建 AI 广告代理团队：五位专家实测",
+      "url": "https://www.youtube.com/watch?v=iOwKylW8c5Q",
+      "category": "branding",
+      "access": "public",
+      "date": "2026-07-29",
+      "summaryEn": "Models and tools: Claude. Capture product, audience and placement requirements; assign each ad a problem, hook, style and call to action.",
+      "summaryZh": "模型与工具：Claude。收集产品、受众和投放需求，给每个广告匹配一个问题、开场钩子、风格和行动指引。",
+      "tags": [
+        "Claude"
+      ],
+      "skills": [
+        {
+          "label": "ADMAKER-SKILL.md",
+          "summaryEn": "Capture product, audience and placement requirements; assign each ad a problem, hook, style and call to action.",
+          "summaryZh": "收集产品、受众和投放需求，给每个广告匹配一个问题、开场钩子、风格和行动指引。",
+          "url": "https://higgsfield.ai/blog/ai-ad-agency",
+          "linkType": "creator-resource"
+        }
+      ],
+      "resourceUrl": "https://higgsfield.ai/blog/ai-ad-agency",
+      "resources": [
+        {
+          "label": "作者资源页",
+          "labelZh": "作者资源页",
+          "labelEn": "Creator’s resource page",
+          "url": "https://higgsfield.ai/blog/ai-ad-agency",
+          "kind": "source"
+        }
+      ],
+      "dateShanghai": "2026-07-30",
+      "imageUrl": "https://i.ytimg.com/vi/iOwKylW8c5Q/0.jpg"
+    },
+    {
+      "id": "CHHH8tNioSc",
+      "titleEn": "I Made a Viral AI Short Film From Scratch — Full Workflow (Seedance 4K + Claude Fable 5)",
+      "titleZh": "从零制作 AI 短片：Seedance 4K 与 Claude Fable 5",
+      "url": "https://www.youtube.com/watch?v=CHHH8tNioSc",
+      "category": "filmmaking",
+      "access": "public",
+      "date": "2026-07-14",
+      "summaryEn": "Models and tools: Claude Fable 5, Soul Cinema, GPT Image 2, Seedance 2.0 4K. Break a scene into framed multi-shot instructions using character, prop and location references.",
+      "summaryZh": "模型与工具：Claude Fable 5、Soul Cinema、GPT Image 2、Seedance 2.0 4K。根据角色、道具和场地参考图，把一场戏拆成带构图和运镜的多镜头指令。",
+      "tags": [
+        "Claude Fable 5",
+        "Soul Cinema",
+        "GPT Image 2",
+        "Seedance 2.0 4K"
+      ],
+      "skills": [
+        {
+          "label": "higgsfield-seedance-prompt.skill",
+          "summaryEn": "Break a scene into framed multi-shot instructions using character, prop and location references.",
+          "summaryZh": "根据角色、道具和场地参考图，把一场戏拆成带构图和运镜的多镜头指令。",
+          "url": "https://higgsfield.ai/blog/case4k",
+          "linkType": "creator-resource"
+        }
+      ],
+      "resourceUrl": "https://higgsfield.ai/blog/case4k",
+      "resources": [
+        {
+          "label": "作者资源页",
+          "labelZh": "作者资源页",
+          "labelEn": "Creator’s resource page",
+          "url": "https://higgsfield.ai/blog/case4k",
+          "kind": "source"
+        },
+        {
+          "label": "scene_1.zip",
+          "labelZh": "scene_1.zip",
+          "labelEn": "scene_1.zip",
+          "url": "https://cdn.sanity.io/files/s479xw3z/production/bb7a606caef9c60d88d4c26f343e3b798d07548e.zip?dl=scene_1.zip",
+          "kind": "download",
+          "summaryEn": "Reference assets for Scene 1.",
+          "summaryZh": "第 1 场戏的参考资产。"
+        },
+        {
+          "label": "scene_2.zip",
+          "labelZh": "scene_2.zip",
+          "labelEn": "scene_2.zip",
+          "url": "https://cdn.sanity.io/files/s479xw3z/production/f3932d8789732a792ec05465ac519c0038aa42b1.zip?dl=scene_2.zip",
+          "kind": "download",
+          "summaryEn": "Reference assets for Scene 2.",
+          "summaryZh": "第 2 场戏的参考资产。"
+        },
+        {
+          "label": "scene_3.zip",
+          "labelZh": "scene_3.zip",
+          "labelEn": "scene_3.zip",
+          "url": "https://cdn.sanity.io/files/s479xw3z/production/28a7d55959e108a7351b1d761e92cf4a05d817a3.zip?dl=scene_3.zip",
+          "kind": "download",
+          "summaryEn": "Reference assets for Scene 3.",
+          "summaryZh": "第 3 场戏的参考资产。"
+        },
+        {
+          "label": "scene_4.zip",
+          "labelZh": "scene_4.zip",
+          "labelEn": "scene_4.zip",
+          "url": "https://cdn.sanity.io/files/s479xw3z/production/c2ec2a363663256d6fb38dea1c757dba5d868c65.zip?dl=scene_4.zip",
+          "kind": "download",
+          "summaryEn": "Reference assets for Scene 4.",
+          "summaryZh": "第 4 场戏的参考资产。"
+        }
+      ],
+      "dateShanghai": "2026-07-15",
+      "imageUrl": "https://i.ytimg.com/vi/CHHH8tNioSc/0.jpg"
+    },
+    {
+      "id": "Bf74TY20CrM",
+      "titleEn": "I Automated This Hidden Faceless Niche Using Higgsfield AI + Claude Fable 5",
+      "titleZh": "用 Higgsfield 与 Claude Fable 5 批量制作不露脸视频",
+      "url": "https://www.youtube.com/watch?v=Bf74TY20CrM",
+      "category": "tutorial",
+      "access": "public",
+      "date": "2026-07-09",
+      "summaryEn": "Models and tools: Claude Fable 5; generation in Higgsfield. Turn a topic into an explainer, coordinating scripting, visuals, voiceover, editing and localisation.",
+      "summaryZh": "模型与工具：Claude Fable 5，Higgsfield 负责生成。从一个选题生成讲解视频，串联脚本、视觉、旁白、剪辑和多语言版本。",
+      "tags": [
+        "Claude Fable 5",
+        "Higgsfield 负责生成"
+      ],
+      "skills": [
+        {
+          "label": "higgsfield-explainer.skill",
+          "summaryEn": "Turn a topic into an explainer, coordinating scripting, visuals, voiceover, editing and localisation.",
+          "summaryZh": "从一个选题生成讲解视频，串联脚本、视觉、旁白、剪辑和多语言版本。",
+          "url": "https://higgsfield.ai/blog/faceless-channel-one-prompt",
+          "linkType": "creator-resource"
+        }
+      ],
+      "resourceUrl": "https://higgsfield.ai/blog/faceless-channel-one-prompt",
+      "resources": [
+        {
+          "label": "作者资源页",
+          "labelZh": "作者资源页",
+          "labelEn": "Creator’s resource page",
+          "url": "https://higgsfield.ai/blog/faceless-channel-one-prompt",
+          "kind": "source"
+        }
+      ],
+      "dateShanghai": "2026-07-10",
+      "imageUrl": "https://i.ytimg.com/vi/Bf74TY20CrM/0.jpg"
+    },
+    {
+      "id": "0HIRIT7px9Y",
+      "titleEn": "This is How I Made an Ultra Realistic AI Short Film Using Seedance 2.0 in 4K (Full Workflow)",
+      "titleZh": "用 Seedance 2.0 4K 制作超写实 AI 短片：完整流程",
+      "url": "https://www.youtube.com/watch?v=0HIRIT7px9Y",
+      "category": "filmmaking",
+      "access": "public",
+      "date": "2026-07-07",
+      "summaryEn": "Models and tools: Claude Fable 5, Seedance 2.0 4K. Turn a script into separate shot prompts and plan shot scale, camera positions and transitions.",
+      "summaryZh": "模型与工具：Claude Fable 5、Seedance 2.0 4K。把剧本拆成逐镜提示词，安排景别、机位与转场。",
+      "tags": [
+        "Claude Fable 5",
+        "Seedance 2.0 4K"
+      ],
+      "skills": [
+        {
+          "label": "prompt-writter.skill",
+          "summaryEn": "Turn a script into separate shot prompts and plan shot scale, camera positions and transitions.",
+          "summaryZh": "把剧本拆成逐镜提示词，安排景别、机位与转场。",
+          "url": "https://higgsfield.ai/blog/Santiago-breakdown",
+          "linkType": "creator-resource"
+        }
+      ],
+      "resourceUrl": "https://higgsfield.ai/blog/Santiago-breakdown",
+      "resources": [
+        {
+          "label": "作者资源页",
+          "labelZh": "作者资源页",
+          "labelEn": "Creator’s resource page",
+          "url": "https://higgsfield.ai/blog/Santiago-breakdown",
+          "kind": "source"
+        }
+      ],
+      "dateShanghai": "2026-07-08",
+      "imageUrl": "https://i.ytimg.com/vi/0HIRIT7px9Y/0.jpg"
+    },
+    {
+      "id": "HSON-SoFz7s",
+      "titleEn": "5-Step Workflow To Make Ultra-Realistic AI Short Films (Seedance 2.0 4K)",
+      "titleZh": "五步用 Seedance 2.0 4K 制作写实 AI 短片",
+      "url": "https://www.youtube.com/watch?v=HSON-SoFz7s",
+      "category": "filmmaking",
+      "access": "public",
+      "date": "2026-07-02",
+      "summaryEn": "Models and tools: Claude, Soul Cinema, GPT Image 2, Nano Banana Pro, Seedance 2.0 4K. Write 4K Seedance shot prompts for animals, fantasy and action.",
+      "summaryZh": "模型与工具：Claude、Soul Cinema、GPT Image 2、Nano Banana Pro、Seedance 2.0 4K。把动物、奇幻及动作片段分别写成 Seedance 的 4K 镜头提示词。",
+      "tags": [
+        "Claude",
+        "Soul Cinema",
+        "GPT Image 2",
+        "Nano Banana Pro",
+        "Seedance 2.0 4K"
+      ],
+      "skills": [
+        {
+          "label": "prompt-writter.skill",
+          "summaryEn": "Write 4K Seedance shot prompts for animals, fantasy and action.",
+          "summaryZh": "把动物、奇幻及动作片段分别写成 Seedance 的 4K 镜头提示词。",
+          "url": "https://higgsfield.ai/s/seedance-4k-tv-breakdown-higgsfieldai-ddeEdJ",
+          "linkType": "creator-resource"
+        }
+      ],
+      "resourceUrl": "https://higgsfield.ai/s/seedance-4k-tv-breakdown-higgsfieldai-ddeEdJ",
+      "resources": [
+        {
+          "label": "作者资源页",
+          "labelZh": "作者资源页",
+          "labelEn": "Creator’s resource page",
+          "url": "https://higgsfield.ai/s/seedance-4k-tv-breakdown-higgsfieldai-ddeEdJ",
+          "kind": "source"
+        }
+      ],
+      "dateShanghai": "2026-07-03",
+      "imageUrl": "https://i.ytimg.com/vi/HSON-SoFz7s/0.jpg"
+    },
+    {
+      "id": "Yte-UGhYkPQ",
+      "titleEn": "I Added Insane AI VFX to Real Footage in 4K(Seedance 2.0)",
+      "titleZh": "用 Seedance 2.0 4K 为实拍素材加 AI 特效",
+      "url": "https://www.youtube.com/watch?v=Yte-UGhYkPQ",
+      "category": "filmmaking",
+      "access": "public",
+      "date": "2026-06-29",
+      "summaryEn": "Models and tools: Claude, Seedance 2.0 4K. Turn filmed footage and a VFX brief into video-to-video prompts that specify when changes occur.",
+      "summaryZh": "模型与工具：Claude、Seedance 2.0 4K。将实拍视频和特效描述转为视频到视频提示词，指定变化发生的时点。",
+      "tags": [
+        "Claude",
+        "Seedance 2.0 4K"
+      ],
+      "skills": [
+        {
+          "label": "higgsfield-seedance-footage-vfx.skill",
+          "summaryEn": "Turn filmed footage and a VFX brief into video-to-video prompts that specify when changes occur.",
+          "summaryZh": "将实拍视频和特效描述转为视频到视频提示词，指定变化发生的时点。",
+          "url": "https://higgsfield.ai/blog/vfx_4k",
+          "linkType": "creator-resource"
+        }
+      ],
+      "resourceUrl": "https://higgsfield.ai/blog/vfx_4k",
+      "resources": [
+        {
+          "label": "作者资源页",
+          "labelZh": "作者资源页",
+          "labelEn": "Creator’s resource page",
+          "url": "https://higgsfield.ai/blog/vfx_4k",
+          "kind": "source"
+        }
+      ],
+      "imageUrl": "https://i.ytimg.com/vi/Yte-UGhYkPQ/0.jpg"
+    },
+    {
+      "id": "bY8RDKoBwU0",
+      "titleEn": "Seedance 4K Just Made AI Filmmaking Look Ultra Realistic!",
+      "titleZh": "Seedance 4K 如何提升 AI 短片的写实感",
+      "url": "https://www.youtube.com/watch?v=bY8RDKoBwU0",
+      "category": "filmmaking",
+      "access": "public",
+      "date": "2026-06-25",
+      "summaryEn": "Models and tools: Claude, Seedance 2.0 4K. Develop an idea into camera-ready prompts for live-action, animated or game-like visuals.",
+      "summaryZh": "模型与工具：Claude、Seedance 2.0 4K。把简短想法扩写成可直接生成的电影镜头指令，覆盖真人、动画和游戏等画面风格。",
+      "tags": [
+        "Claude",
+        "Seedance 2.0 4K"
+      ],
+      "skills": [
+        {
+          "label": "prompt-builder.skill",
+          "summaryEn": "Develop an idea into camera-ready prompts for live-action, animated or game-like visuals.",
+          "summaryZh": "把简短想法扩写成可直接生成的电影镜头指令，覆盖真人、动画和游戏等画面风格。",
+          "url": "https://higgsfield.ai/blog/Seedance-4k",
+          "linkType": "creator-resource"
+        }
+      ],
+      "resourceUrl": "https://higgsfield.ai/blog/Seedance-4k",
+      "resources": [
+        {
+          "label": "作者资源页",
+          "labelZh": "作者资源页",
+          "labelEn": "Creator’s resource page",
+          "url": "https://higgsfield.ai/blog/Seedance-4k",
+          "kind": "source"
+        }
+      ],
+      "dateShanghai": "2026-06-26",
+      "imageUrl": "https://i.ytimg.com/vi/bY8RDKoBwU0/mqdefault.jpg"
+    },
+    {
+      "id": "BwVG_n9-jz4",
+      "titleEn": "KÖK BÖRÜ - Higgsfield Animation Short Film 2026 - Official Teaser Trailer",
+      "titleZh": "《KÖK BÖRÜ》官方先导预告",
+      "url": "https://www.youtube.com/watch?v=BwVG_n9-jz4",
+      "category": "series",
+      "access": "public",
+      "date": "2026-06-24",
+      "summaryEn": "Models and tools: Seedance 2.0 4K with traditional animation. Official teaser and series page. No standalone Skill file listed.",
+      "summaryZh": "模型与工具：Seedance 2.0 4K，结合传统动画。预告片。简介提供原创动画的剧集入口。简介未列出独立 Skill 文件。",
+      "tags": [
+        "Seedance 2.0 4K",
+        "结合传统动画"
+      ],
+      "skills": [],
+      "resourceUrl": "https://higgsfield.ai/original-series/kok-boru",
+      "resources": [
+        {
+          "label": "剧集入口",
+          "labelZh": "剧集入口",
+          "labelEn": "Official series page",
+          "url": "https://higgsfield.ai/original-series/kok-boru",
+          "kind": "source"
+        }
+      ],
+      "dateShanghai": "2026-06-25",
+      "imageUrl": "https://i.ytimg.com/vi/BwVG_n9-jz4/mqdefault.jpg"
+    },
+    {
+      "id": "3rDs6FhFoUQ",
+      "titleEn": "3-Step Workflow To Make Ultra-Realistic AI Ads",
+      "titleZh": "三步制作写实 AI 广告",
+      "url": "https://www.youtube.com/watch?v=3rDs6FhFoUQ",
+      "category": "branding",
+      "access": "public",
+      "date": "2026-06-23",
+      "summaryEn": "Models and tools: Claude, GPT Image 2, Soul Cinema, Seedance 2.0. Give shot prompts a shared style prefix and clear names so individual shots can be regenerated consistently.",
+      "summaryZh": "模型与工具：Claude、GPT Image 2、Soul Cinema、Seedance 2.0。给逐镜提示词加统一风格前缀并命名，便于单独重做某一镜而保持整组广告一致。",
+      "tags": [
+        "Claude",
+        "GPT Image 2",
+        "Soul Cinema",
+        "Seedance 2.0"
+      ],
+      "skills": [
+        {
+          "label": "higgsfield-seedance-shotlist-director.skill",
+          "summaryEn": "Give shot prompts a shared style prefix and clear names so individual shots can be regenerated consistently.",
+          "summaryZh": "给逐镜提示词加统一风格前缀并命名，便于单独重做某一镜而保持整组广告一致。",
+          "url": "https://higgsfield.ai/blog/cinematic_headphones",
+          "linkType": "creator-resource"
+        }
+      ],
+      "resourceUrl": "https://higgsfield.ai/blog/cinematic_headphones",
+      "resources": [
+        {
+          "label": "作者资源页",
+          "labelZh": "作者资源页",
+          "labelEn": "Creator’s resource page",
+          "url": "https://higgsfield.ai/blog/cinematic_headphones",
+          "kind": "source"
+        }
+      ],
+      "imageUrl": "https://i.ytimg.com/vi/3rDs6FhFoUQ/mqdefault.jpg"
+    },
+    {
+      "id": "XzEgfmesG8c",
+      "titleEn": "Claude Fable 5 + Higgsfield MCP Can Now Build Real 3D Games!",
+      "titleZh": "Claude Fable 5 与 Higgsfield MCP：制作可玩的 3D 游戏",
+      "url": "https://www.youtube.com/watch?v=XzEgfmesG8c",
+      "category": "tool",
+      "access": "public",
+      "date": "2026-06-19",
+      "summaryEn": "Models and tools: Claude Fable 5. Translate a gameplay concept into rules, asset requirements and code for a playable browser game.",
+      "summaryZh": "模型与工具：Claude Fable 5。从玩法描述拆出交互规则、画面素材与代码，制作可运行的浏览器游戏。",
+      "tags": [
+        "Claude Fable 5"
+      ],
+      "skills": [
+        {
+          "label": "game-studio.md",
+          "summaryEn": "Translate a gameplay concept into rules, asset requirements and code for a playable browser game.",
+          "summaryZh": "从玩法描述拆出交互规则、画面素材与代码，制作可运行的浏览器游戏。",
+          "url": "https://higgsfield.ai/s/mcp-for-gaming-higgsfieldai-bsjbnB",
+          "linkType": "creator-resource"
+        }
+      ],
+      "resourceUrl": "https://higgsfield.ai/s/mcp-for-gaming-higgsfieldai-bsjbnB",
+      "resources": [
+        {
+          "label": "作者资源页",
+          "labelZh": "作者资源页",
+          "labelEn": "Creator’s resource page",
+          "url": "https://higgsfield.ai/s/mcp-for-gaming-higgsfieldai-bsjbnB",
+          "kind": "source"
+        }
+      ],
+      "dateShanghai": "2026-06-20",
+      "imageUrl": "https://i.ytimg.com/vi/XzEgfmesG8c/mqdefault.jpg"
+    },
+    {
+      "id": "wU_bmWb6bhg",
+      "titleEn": "I Copied a Top Faceless Channel’s Format With AI in 20 Minutes",
+      "titleZh": "20 分钟用 AI 复现不露脸频道的内容形式",
+      "url": "https://www.youtube.com/watch?v=wU_bmWb6bhg",
+      "category": "tutorial",
+      "access": "public",
+      "date": "2026-06-17",
+      "summaryEn": "Models and tools: Claude Fable 5, Seedance 2.0. A collection of prompts and outputs for format analysis, scripting, generation and packaging. No standalone Skill was confirmed.",
+      "summaryZh": "模型与工具：Claude Fable 5、Seedance 2.0。频道分析、脚本、生成及封面包装的提示词与成片合集。未确认本集另发 Skill 文件。",
+      "tags": [
+        "Claude Fable 5",
+        "Seedance 2.0"
+      ],
+      "skills": [],
+      "resourceUrl": "https://higgsfield.ai/s/soul-2-higgsfieldai-DhmQFY",
+      "resources": [
+        {
+          "label": "作者资源页",
+          "labelZh": "作者资源页",
+          "labelEn": "Creator’s resource page",
+          "url": "https://higgsfield.ai/s/soul-2-higgsfieldai-DhmQFY",
+          "kind": "source"
+        }
+      ],
+      "dateShanghai": "2026-06-18",
+      "imageUrl": "https://i.ytimg.com/vi/wU_bmWb6bhg/mqdefault.jpg"
+    },
+    {
+      "id": "ODNzk5x2tR4",
+      "titleEn": "I Made a Cinematic Ad Using Claude Fable 5 + Higgsfield AI (Full Workflow)",
+      "titleZh": "Claude Fable 5 与 Higgsfield：电影感广告完整流程",
+      "url": "https://www.youtube.com/watch?v=ODNzk5x2tR4",
+      "category": "branding",
+      "access": "public",
+      "date": "2026-06-15",
+      "summaryEn": "Models and tools: Claude Fable 5, Soul Cinema, GPT Image 2, Seedance 2.0. Organise football, cast, robot and product references into structured shot-by-shot generation instructions.",
+      "summaryZh": "模型与工具：Claude Fable 5、Soul Cinema、GPT Image 2、Seedance 2.0。把足球、人物、机器人与商品参考图组织成有结构的逐镜生成指令。",
+      "tags": [
+        "Claude Fable 5",
+        "Soul Cinema",
+        "GPT Image 2",
+        "Seedance 2.0"
+      ],
+      "skills": [
+        {
+          "label": "skill_prompter_structure.md",
+          "summaryEn": "Organise football, cast, robot and product references into structured shot-by-shot generation instructions.",
+          "summaryZh": "把足球、人物、机器人与商品参考图组织成有结构的逐镜生成指令。",
+          "url": "https://www.dropbox.com/scl/fi/65tq1qe1wfdk6dh4jsyms/skill_prompter_structure.md?rlkey=hf3x3b6zzggzsbwqf1mwyus9q&dl=1",
+          "linkType": "creator-download",
+          "fileUrl": "https://www.dropbox.com/scl/fi/65tq1qe1wfdk6dh4jsyms/skill_prompter_structure.md?rlkey=hf3x3b6zzggzsbwqf1mwyus9q&dl=1"
+        }
+      ],
+      "resources": [
+        {
+          "label": "作者下载入口",
+          "labelZh": "作者下载入口",
+          "labelEn": "Creator’s download",
+          "url": "https://www.dropbox.com/scl/fi/65tq1qe1wfdk6dh4jsyms/skill_prompter_structure.md?rlkey=hf3x3b6zzggzsbwqf1mwyus9q&dl=1",
+          "kind": "download"
+        }
+      ],
+      "imageUrl": "https://i.ytimg.com/vi/ODNzk5x2tR4/maxresdefault.jpg"
+    },
+    {
+      "id": "B6wbbz8UOvA",
+      "titleEn": "Claude Fable 5 + Higgsfield MCP: My Favorite Business Idea for 2026!",
+      "titleZh": "Claude Fable 5 与 Higgsfield MCP：创意服务商业案例",
+      "url": "https://www.youtube.com/watch?v=B6wbbz8UOvA",
+      "category": "motion",
+      "access": "public",
+      "date": "2026-06-12",
+      "summaryEn": "Models and tools: Claude Fable 5. Build commercial motion graphics. Find clients whose advertising needs may match the creative service.",
+      "summaryZh": "模型与工具：Claude Fable 5。生成商业动态图形；按作品方向查找可能需要此类广告的客户。",
+      "tags": [
+        "Claude Fable 5"
+      ],
+      "skills": [
+        {
+          "label": "SKILL_MOTION.md",
+          "summaryEn": "Build commercial motion graphics.",
+          "summaryZh": "生成商业动态图形。",
+          "url": "https://higgsfield.ai/s/claude-fable-5-higgsfield-mcp-will-make-you-rich-higgsfieldai-GqPKOo",
+          "linkType": "creator-resource"
+        },
+        {
+          "label": "client-finder.md",
+          "summaryEn": "Find clients whose advertising needs may match the creative service.",
+          "summaryZh": "按作品方向查找可能需要此类广告的客户。",
+          "url": "https://higgsfield.ai/s/claude-fable-5-higgsfield-mcp-will-make-you-rich-higgsfieldai-GqPKOo",
+          "linkType": "creator-resource"
+        }
+      ],
+      "resourceUrl": "https://higgsfield.ai/s/claude-fable-5-higgsfield-mcp-will-make-you-rich-higgsfieldai-GqPKOo",
+      "resources": [
+        {
+          "label": "作者资源页",
+          "labelZh": "作者资源页",
+          "labelEn": "Creator’s resource page",
+          "url": "https://higgsfield.ai/s/claude-fable-5-higgsfield-mcp-will-make-you-rich-higgsfieldai-GqPKOo",
+          "kind": "source"
+        }
+      ],
+      "imageUrl": "https://i.ytimg.com/vi/B6wbbz8UOvA/maxresdefault.jpg"
+    },
+    {
+      "id": "FG40h6WvlQs",
+      "titleEn": "The $500,000 AI Film Screening in Cannes! | Full Vlog",
+      "titleZh": "50 万美元 AI 电影戛纳放映：完整日志",
+      "url": "https://www.youtube.com/watch?v=FG40h6WvlQs",
+      "category": "community",
+      "access": "public",
+      "date": "2026-06-10",
+      "summaryEn": "Models and tools: Not stated. A production vlog about the Cannes screening. No standalone Skill was verified.",
+      "summaryZh": "模型与工具：未明确。戛纳放映制作日志。未核到独立 Skill。",
+      "tags": [],
+      "skills": [],
+      "imageUrl": "https://i.ytimg.com/vi/FG40h6WvlQs/maxresdefault.jpg"
+    },
+    {
+      "id": "DvRGamF7uRo",
+      "titleEn": "I Mixed AI With Real Footage! (Premiere Pro + Higgsfield AI)",
+      "titleZh": "把 AI 合进实拍：Premiere Pro 与 Higgsfield",
+      "url": "https://www.youtube.com/watch?v=DvRGamF7uRo",
+      "category": "editing",
+      "access": "public",
+      "date": "2026-06-05",
+      "summaryEn": "Models and tools: Higgsfield AI for Adobe Premiere Pro; underlying model not stated. Use text instructions to remove objects, change backgrounds, reframe and upscale footage in Premiere Pro. A plug-in is linked; no standalone Skill was verified.",
+      "summaryZh": "模型与工具：Higgsfield AI for Adobe Premiere Pro，简介未注明底层模型。用文字指令删除物体、换背景、重新构图和放大实拍画面。简介提供 Premiere Pro 插件。简介未列出独立 Skill 文件。",
+      "tags": [
+        "Higgsfield AI for Adobe Premiere Pro，简介未注明底层模型"
+      ],
+      "skills": [],
+      "resourceUrl": "https://higgsfield.ai/s/plugin-higgsfieldai-iVAotw",
+      "resources": [
+        {
+          "label": "插件入口",
+          "labelZh": "插件入口",
+          "labelEn": "Plug-in page",
+          "url": "https://higgsfield.ai/s/plugin-higgsfieldai-iVAotw",
+          "kind": "source"
+        }
+      ],
+      "imageUrl": "https://i.ytimg.com/vi/DvRGamF7uRo/maxresdefault.jpg"
+    },
+    {
+      "id": "ttFWPdNInqg",
+      "titleEn": "I Built a Brand in One Afternoon With AI (No Code, No Filming)",
+      "titleZh": "不用代码和拍摄，一个下午搭建 AI 品牌",
+      "url": "https://www.youtube.com/watch?v=ttFWPdNInqg",
+      "category": "branding",
+      "access": "public",
+      "date": "2026-06-01",
+      "summaryEn": "Models and tools: Higgsfield Supercomputer; underlying model not stated. Use market data to pick a product, create UGC ads and build a waitlist site. Episode prompts were linked, but no standalone Skill file was verified.",
+      "summaryZh": "模型与工具：Higgsfield Supercomputer，简介未注明底层模型。从市场数据选产品、生成 UGC 广告、搭建候补名单网站。作者公开了本集提示词。简介未列出独立 Skill 文件。",
+      "tags": [
+        "Higgsfield Supercomputer",
+        "简介未注明底层模型"
+      ],
+      "skills": [],
+      "resourceUrl": "https://higgsfield.ai/s/the-laziest-way-to-make-money-with-ai-full-tutorial-6x-return-higgsfieldai-AmKLOd",
+      "resources": [
+        {
+          "label": "本集提示词",
+          "labelZh": "本集提示词",
+          "labelEn": "Episode prompts",
+          "url": "https://higgsfield.ai/s/the-laziest-way-to-make-money-with-ai-full-tutorial-6x-return-higgsfieldai-AmKLOd",
+          "kind": "source"
+        },
+        {
+          "label": "Supercomputer",
+          "labelZh": "Supercomputer",
+          "labelEn": "Supercomputer",
+          "url": "https://higgsfield.ai/s/supercomputer-higgsfieldai-xYiCXW",
+          "kind": "source"
+        }
+      ],
+      "dateShanghai": "2026-06-02",
+      "imageUrl": "https://i.ytimg.com/vi/ttFWPdNInqg/maxresdefault.jpg"
+    },
+    {
+      "id": "YX7nE-3rYEQ",
+      "titleEn": "I Built an Entire Marketing Agency With 1 AI Tool!",
+      "titleZh": "只用一个 AI 工具搭建营销代理团队",
+      "url": "https://www.youtube.com/watch?v=YX7nE-3rYEQ",
+      "category": "branding",
+      "access": "public",
+      "date": "2026-05-25",
+      "summaryEn": "Models and tools: Higgsfield Supercomputer; model selection varies by task. Platform workflow for UGC batches, longer films and sites. No separate download bundle was verified.",
+      "summaryZh": "模型与工具：Higgsfield Supercomputer，具体模型随任务路由。平台内置工作流，用于批量 UGC、长片和网站。未核到单独下载包。简介未列出独立 Skill 文件。",
+      "tags": [
+        "Higgsfield Supercomputer",
+        "具体模型随任务路由"
+      ],
+      "skills": [],
+      "resourceUrl": "https://higgsfield.ai/s/supercomputer-higgsfieldai-UdkAjx",
+      "resources": [
+        {
+          "label": "作者资源页",
+          "labelZh": "作者资源页",
+          "labelEn": "Creator’s resource page",
+          "url": "https://higgsfield.ai/s/supercomputer-higgsfieldai-UdkAjx",
+          "kind": "source"
+        }
+      ],
+      "imageUrl": "https://i.ytimg.com/vi/YX7nE-3rYEQ/maxresdefault.jpg"
+    },
+    {
+      "id": "4mT8s_09DRM",
+      "titleEn": "The Only AI Tool You Need in 2026!",
+      "titleZh": "Higgsfield Supercomputer 工作流程演示",
+      "url": "https://www.youtube.com/watch?v=4mT8s_09DRM",
+      "category": "tool",
+      "access": "public",
+      "date": "2026-05-19",
+      "summaryEn": "Models and tools: Higgsfield Supercomputer. A platform demonstration covering websites, films and product brands. No standalone Skill was verified.",
+      "summaryZh": "模型与工具：Higgsfield Supercomputer。平台演示，涵盖网站、影片和商品品牌工作流程。未核到独立 Skill。",
+      "tags": [
+        "Higgsfield Supercomputer"
+      ],
+      "skills": [],
+      "dateShanghai": "2026-05-20",
+      "imageUrl": "https://i.ytimg.com/vi/4mT8s_09DRM/maxresdefault.jpg"
+    },
+    {
+      "id": "CVzfQuC0aMU",
+      "titleEn": "Hell Grind | Official Trailer | Higgsfield Original Series",
+      "titleZh": "《Hell Grind》官方预告",
+      "url": "https://www.youtube.com/watch?v=CVzfQuC0aMU",
+      "category": "series",
+      "access": "public",
+      "date": "2026-05-19",
+      "summaryEn": "Models and tools: Not independently confirmed. Official trailer. No standalone Skill was confirmed.",
+      "summaryZh": "模型与工具：未核实。官方预告片。未确认有独立 Skill 下载。",
+      "tags": [],
+      "skills": [],
+      "imageUrl": "https://i.ytimg.com/vi/CVzfQuC0aMU/maxresdefault.jpg"
+    },
+    {
+      "id": "fmgVm-fxPDM",
+      "titleEn": "I Created 10+ Beauty Ads in 1 Hour — No Agency Needed",
+      "titleZh": "一小时制作十多支美妆广告",
+      "url": "https://www.youtube.com/watch?v=fmgVm-fxPDM",
+      "category": "branding",
+      "access": "public",
+      "date": "2026-05-18",
+      "summaryEn": "Models and tools: GPT Image 2.0, Soul Cinema (Higgsfield Marketing Studio). Create logos, product imagery, UGC video and TV-style spots for a beauty brand. A Marketing Studio link is provided; no standalone Skill is listed.",
+      "summaryZh": "模型与工具：GPT Image 2.0、Soul Cinema（Higgsfield Marketing Studio）。制作美妆品牌标识、产品图、UGC 视频和电视广告。简介提供 Marketing Studio 入口。简介未列出独立 Skill 文件。",
+      "tags": [
+        "GPT Image 2.0",
+        "Soul Cinema（Higgsfield Marketing Studio）"
+      ],
+      "skills": [],
+      "resourceUrl": "https://higgsfield.ai/s/marketing-studio-1-0-higgsfieldai-XobrVX",
+      "resources": [
+        {
+          "label": "制作工具",
+          "labelZh": "制作工具",
+          "labelEn": "Production tool",
+          "url": "https://higgsfield.ai/s/marketing-studio-1-0-higgsfieldai-XobrVX",
+          "kind": "source"
+        }
+      ],
+      "imageUrl": "https://i.ytimg.com/vi/fmgVm-fxPDM/maxresdefault.jpg"
+    },
+    {
+      "id": "6aJ2BneDB5M",
+      "titleEn": "How to Make Ultra Realistic AI Videos (28 Best Tips)",
+      "titleZh": "如何制作写实 AI 视频：28 个技巧",
+      "url": "https://www.youtube.com/watch?v=6aJ2BneDB5M",
+      "category": "tutorial",
+      "access": "public",
+      "date": "2026-05-16",
+      "summaryEn": "Models and tools: Not stated. Project canvas and prompt folder were listed. The folder returned 404 during the original check; no separate Skill was obtained.",
+      "summaryZh": "模型与工具：未明确。作者给出了项目画布及完整提示词文件夹。文件夹核对时返回 404，未取得独立 Skill。",
+      "tags": [],
+      "skills": [],
+      "resourceUrl": "https://higgsfield.ai/s/film-for-cannes-higgsfieldai-SioTRA",
+      "resources": [
+        {
+          "label": "项目画布",
+          "labelZh": "项目画布",
+          "labelEn": "Project canvas",
+          "url": "https://higgsfield.ai/s/film-for-cannes-higgsfieldai-SioTRA",
+          "kind": "source"
+        }
+      ],
+      "imageUrl": "https://i.ytimg.com/vi/6aJ2BneDB5M/maxresdefault.jpg"
+    },
+    {
+      "id": "l7W3QzU8w5s",
+      "titleEn": "Higgsfield MCP + Claude Just Changed Marketing Forever!",
+      "titleZh": "用 Higgsfield MCP 与 Claude 批量制作营销内容",
+      "url": "https://www.youtube.com/watch?v=l7W3QzU8w5s",
+      "category": "tool",
+      "access": "public",
+      "date": "2026-05-11",
+      "summaryEn": "Models and tools: Claude, Higgsfield MCP. Plan and produce batches of UGC ad variations from an image, with different scripts, characters and selling points.",
+      "summaryZh": "模型与工具：Claude，Higgsfield MCP。从一张产品图规划并批量生成不同脚本、人物和卖点的 UGC 广告。",
+      "tags": [
+        "Claude",
+        "Higgsfield MCP"
+      ],
+      "skills": [
+        {
+          "label": "higgsfield-content-factory.skill",
+          "summaryEn": "Plan and produce batches of UGC ad variations from an image, with different scripts, characters and selling points.",
+          "summaryZh": "从一张产品图规划并批量生成不同脚本、人物和卖点的 UGC 广告。",
+          "url": "https://www.dropbox.com/scl/fi/0qcvq1glbe0pf0eorjqvq/higgsfield-content-factory.skill?rlkey=jtizteigkzqt5argkgb16fm78&dl=1",
+          "linkType": "creator-download",
+          "fileUrl": "https://www.dropbox.com/scl/fi/0qcvq1glbe0pf0eorjqvq/higgsfield-content-factory.skill?rlkey=jtizteigkzqt5argkgb16fm78&dl=1"
+        }
+      ],
+      "resources": [
+        {
+          "label": "作者下载入口",
+          "labelZh": "作者下载入口",
+          "labelEn": "Creator’s download",
+          "url": "https://www.dropbox.com/scl/fi/0qcvq1glbe0pf0eorjqvq/higgsfield-content-factory.skill?rlkey=jtizteigkzqt5argkgb16fm78&dl=1",
+          "kind": "download"
+        }
+      ],
+      "dateShanghai": "2026-05-12",
+      "imageUrl": "https://i.ytimg.com/vi/l7W3QzU8w5s/maxresdefault.jpg"
+    },
+    {
+      "id": "-scKERL7PK0",
+      "titleEn": "How to Make AI Films That Don't Look AI (Full Tutorial)",
+      "titleZh": "如何制作不露 AI 痕迹的电影：完整教程",
+      "url": "https://www.youtube.com/watch?v=-scKERL7PK0",
+      "category": "tutorial",
+      "access": "public",
+      "date": "2026-05-09",
+      "summaryEn": "Models and tools: Claude, Seedance 2.0. Use Claude to break a film scene into a shot list that can be handed to a team.",
+      "summaryZh": "模型与工具：Claude、Seedance 2.0。在 Claude 里把电影场景拆为镜头清单，用于多人的镜头分工。",
+      "tags": [
+        "Claude",
+        "Seedance 2.0"
+      ],
+      "skills": [
+        {
+          "label": "shotlist-builder.skill",
+          "summaryEn": "Use Claude to break a film scene into a shot list that can be handed to a team.",
+          "summaryZh": "在 Claude 里把电影场景拆为镜头清单，用于多人的镜头分工。",
+          "url": "https://www.dropbox.com/scl/fi/zy8vbmbfylx41mg5gjerv/shotlist-builder.skill?rlkey=dzcztp5cw2qwoswf5vt3qz8ct&dl=1",
+          "linkType": "creator-download",
+          "fileUrl": "https://www.dropbox.com/scl/fi/zy8vbmbfylx41mg5gjerv/shotlist-builder.skill?rlkey=dzcztp5cw2qwoswf5vt3qz8ct&dl=1"
+        }
+      ],
+      "resources": [
+        {
+          "label": "作者下载入口",
+          "labelZh": "作者下载入口",
+          "labelEn": "Creator’s download",
+          "url": "https://www.dropbox.com/scl/fi/zy8vbmbfylx41mg5gjerv/shotlist-builder.skill?rlkey=dzcztp5cw2qwoswf5vt3qz8ct&dl=1",
+          "kind": "download"
+        }
+      ],
+      "dateShanghai": "2026-05-10",
+      "imageUrl": "https://i.ytimg.com/vi/-scKERL7PK0/maxresdefault.jpg"
+    },
+    {
+      "id": "i55bUFB3lFs",
+      "titleEn": "World's First Ever 80 Minute AI Film | Road to Cannes Ep. 1",
+      "titleZh": "《通往戛纳》第 1 集：制作 80 分钟 AI 电影",
+      "url": "https://www.youtube.com/watch?v=i55bUFB3lFs",
+      "category": "filmmaking",
+      "access": "public",
+      "date": "2026-04-30",
+      "summaryEn": "Models and tools: Seedance 2.0, Soul Cinema, GPT Image 2; writing-model version not stated. Writer’s bundle: includes the Skill document, method notes, and screenplay and character templates.",
+      "summaryZh": "模型与工具：Seedance 2.0、Soul Cinema、GPT Image 2，编剧模型版本未注明。作者的编剧 Skill 整包，内含 SKILL.md、方法说明、剧本和人物模板。保留 ZIP 可一次取得完整目录。",
+      "tags": [
+        "Seedance 2.0",
+        "Soul Cinema",
+        "GPT Image 2",
+        "编剧模型版本未注明"
+      ],
+      "skills": [
+        {
+          "label": "screenwriter-skill.zip",
+          "summaryEn": "Writer’s bundle: includes the Skill document, method notes, and screenplay and character templates.",
+          "summaryZh": "作者的编剧 Skill 整包，内含 SKILL.md、方法说明、剧本和人物模板。保留 ZIP 可一次取得完整目录。",
+          "url": "https://www.dropbox.com/scl/fo/rjkdslsk4uimvpfepac0e/AAa86NhpkR8s04iiwxOiUYk?rlkey=go8iqu31gb95q0kb3u285vuah&dl=1",
+          "linkType": "creator-download",
+          "fileUrl": "https://www.dropbox.com/scl/fo/rjkdslsk4uimvpfepac0e/AAa86NhpkR8s04iiwxOiUYk?rlkey=go8iqu31gb95q0kb3u285vuah&dl=1"
+        }
+      ],
+      "resources": [
+        {
+          "label": "作者下载入口",
+          "labelZh": "作者下载入口",
+          "labelEn": "Creator’s download",
+          "url": "https://www.dropbox.com/scl/fo/rjkdslsk4uimvpfepac0e/AAa86NhpkR8s04iiwxOiUYk?rlkey=go8iqu31gb95q0kb3u285vuah&dl=1",
+          "kind": "download"
+        }
+      ],
+      "dateShanghai": "2026-05-01",
+      "imageUrl": "https://i.ytimg.com/vi/i55bUFB3lFs/maxresdefault.jpg"
+    },
+    {
+      "id": "sXgWhKwiUdc",
+      "titleEn": "I Built an Entire Clothing Brand With AI. Here's What Happened",
+      "titleZh": "我用 AI 搭建了一个服装品牌",
+      "url": "https://www.youtube.com/watch?v=sXgWhKwiUdc",
+      "category": "branding",
+      "access": "public",
+      "date": "2026-04-24",
+      "summaryEn": "Models and tools: Claude, Nano Banana Pro, Soul Cinema, Seedance 2.0 (Higgsfield Marketing Studio). The creator’s Notion tutorial links the Marketing Studio Skills Bank. The six named skills come from that bundle.",
+      "summaryZh": "模型与工具：Claude、Nano Banana Pro、Soul Cinema、Seedance 2.0（Higgsfield Marketing Studio）。作者 Notion 教程内的 Download 按钮提供 Marketing Studio Skills Bank。下列六个文件均来自该包。",
+      "tags": [
+        "Claude",
+        "Nano Banana Pro",
+        "Soul Cinema",
+        "Seedance 2.0（Higgsfield Marketing Studio）"
+      ],
+      "skills": [
+        {
+          "label": "SKILL_MOTION.md",
+          "summaryEn": "Generate motion graphics for commercial advertising.",
+          "summaryZh": "生成适合商业广告的动态图形。",
+          "url": "https://higgsfield-ai.notion.site/HIGGS-Brand-All-Prompts-Used-34cea9455d11807cbe9bfef7669ccf99",
+          "linkType": "creator-resource"
+        },
+        {
+          "label": "client-finder.md",
+          "summaryEn": "Find prospective clients based on the work or service offered.",
+          "summaryZh": "根据创作或服务方向寻找潜在客户。",
+          "url": "https://higgsfield-ai.notion.site/HIGGS-Brand-All-Prompts-Used-34cea9455d11807cbe9bfef7669ccf99",
+          "linkType": "creator-resource"
+        },
+        {
+          "label": "gpt-image-2-director.skill",
+          "summaryEn": "Write and refine GPT Image 2 generation instructions.",
+          "summaryZh": "为 GPT Image 2 编写和调整图像生成指令。",
+          "url": "https://higgsfield-ai.notion.site/HIGGS-Brand-All-Prompts-Used-34cea9455d11807cbe9bfef7669ccf99",
+          "linkType": "creator-resource"
+        },
+        {
+          "label": "higgsfield-explainer.skill",
+          "summaryEn": "Build an explainer with script, visuals and voiceover.",
+          "summaryZh": "把一个选题做成有脚本、画面和配音的讲解视频。",
+          "url": "https://higgsfield-ai.notion.site/HIGGS-Brand-All-Prompts-Used-34cea9455d11807cbe9bfef7669ccf99",
+          "linkType": "creator-resource"
+        },
+        {
+          "label": "marketing-studio-director.skill",
+          "summaryEn": "Plan ad formats, creative direction and production steps in Marketing Studio.",
+          "summaryZh": "规划 Marketing Studio 的广告形式、视觉与制作步骤。",
+          "url": "https://higgsfield-ai.notion.site/HIGGS-Brand-All-Prompts-Used-34cea9455d11807cbe9bfef7669ccf99",
+          "linkType": "creator-resource"
+        },
+        {
+          "label": "higgsfield-content-factory.skill",
+          "summaryEn": "Plan and generate UGC variations in batches using product assets.",
+          "summaryZh": "从产品素材批量规划和生成 UGC 广告变体。",
+          "url": "https://higgsfield-ai.notion.site/HIGGS-Brand-All-Prompts-Used-34cea9455d11807cbe9bfef7669ccf99",
+          "linkType": "creator-resource"
+        }
+      ],
+      "resourceUrl": "https://higgsfield-ai.notion.site/HIGGS-Brand-All-Prompts-Used-34cea9455d11807cbe9bfef7669ccf99",
+      "resources": [
+        {
+          "label": "作者 Notion 教程",
+          "labelZh": "作者 Notion 教程",
+          "labelEn": "Creator’s Notion tutorial",
+          "url": "https://higgsfield-ai.notion.site/HIGGS-Brand-All-Prompts-Used-34cea9455d11807cbe9bfef7669ccf99",
+          "kind": "source"
+        },
+        {
+          "label": "作者原包 · Marketing Studio Skills Bank.zip",
+          "labelZh": "作者原包 · Marketing Studio Skills Bank.zip",
+          "labelEn": "Creator’s original resource archive",
+          "url": "https://www.dropbox.com/scl/fo/mhpao9kfu2peb24tla1ze/ALm9UQWfYm_M83h7zv3P4lY?rlkey=lnhpxqkxia98qeddkbho3v59l&dl=1",
+          "kind": "download"
+        }
+      ],
+      "dateShanghai": "2026-04-25",
+      "imageUrl": "https://i.ytimg.com/vi/sXgWhKwiUdc/maxresdefault.jpg"
+    },
+    {
+      "id": "NAc2Uc0MbB8",
+      "titleEn": "MORK | Viking Action Series — BTS | Higgsfield Original Series (2026)",
+      "titleZh": "《MORK》维京动作剧集：幕后拆解",
+      "url": "https://www.youtube.com/watch?v=NAc2Uc0MbB8",
+      "category": "filmmaking",
+      "access": "public",
+      "date": "2026-04-20",
+      "summaryEn": "Models and tools: Higgsfield Cinema Studio; underlying model not stated. Director Malik Zenger breaks down the Viking series from concept and setting through the final cut. The description links the episode and production platform, not a separate Skill.",
+      "summaryZh": "模型与工具：Higgsfield Cinema Studio，简介未注明底层模型。导演 Malik Zenger 拆解维京剧集从构思、场景到成片的制作过程。简介提供正片及制作平台入口。简介未列出独立 Skill 文件。",
+      "tags": [
+        "Higgsfield Cinema Studio",
+        "简介未注明底层模型"
+      ],
+      "skills": [],
+      "resourceUrl": "https://higgsfield.ai/s/general-higgsfieldai-QENjjD",
+      "resources": [
+        {
+          "label": "制作平台",
+          "labelZh": "制作平台",
+          "labelEn": "Production platform",
+          "url": "https://higgsfield.ai/s/general-higgsfieldai-QENjjD",
+          "kind": "source"
+        },
+        {
+          "label": "正片",
+          "labelZh": "正片",
+          "labelEn": "Full episode",
+          "url": "https://higgsfield.ai/s/general-higgsfieldai-Iiyutd",
+          "kind": "source"
+        }
+      ],
+      "dateShanghai": "2026-04-21",
+      "imageUrl": "https://i.ytimg.com/vi/NAc2Uc0MbB8/maxresdefault.jpg"
+    },
+    {
+      "id": "F6MgT_Bdgz8",
+      "titleEn": "MORK | Viking Action Series — Episode 1 | Higgsfield Original Series (2026)",
+      "titleZh": "《MORK》维京动作剧集：第 1 集",
+      "url": "https://www.youtube.com/watch?v=F6MgT_Bdgz8",
+      "category": "series",
+      "access": "public",
+      "date": "2026-04-20",
+      "summaryEn": "Models and tools: Higgsfield Cinema Studio; the video description separately links Seedance 2.0. The first episode. The description introduces Cinema Studio and links the platform, with no separate Skill listed.",
+      "summaryZh": "模型与工具：Higgsfield Cinema Studio，简介另附 Seedance 2.0 入口。第一集正片。简介介绍 Cinema Studio 制作流程，并提供平台链接，未列出独立 Skill。",
+      "tags": [
+        "Higgsfield Cinema Studio",
+        "简介另附 Seedance 2.0 入口"
+      ],
+      "skills": [],
+      "dateShanghai": "2026-04-21",
+      "imageUrl": "https://i.ytimg.com/vi/F6MgT_Bdgz8/maxresdefault.jpg"
+    },
+    {
+      "id": "digHr6k38x0",
+      "titleEn": "Hell Grind - Episode 1 | Higgsfield Original Series (2026)",
+      "titleZh": "《Hell Grind》第 1 集：Higgsfield 原创剧集",
+      "url": "https://www.youtube.com/watch?v=digHr6k38x0",
+      "category": "series",
+      "access": "public",
+      "date": "2026-04-16",
+      "summaryEn": "Models and tools: Seedance 2.0. Official page for Episode 1; use View full project to see the project. No standalone Skill download was confirmed.",
+      "summaryZh": "模型与工具：Seedance 2.0。第一集官方项目页，可从 View full project 进入。未核到本集独立 Skill 下载。",
+      "tags": [
+        "Seedance 2.0"
+      ],
+      "skills": [],
+      "resourceUrl": "https://higgsfield.ai/original-series/hell-grind/episode-1",
+      "resources": [
+        {
+          "label": "作者资源页",
+          "labelZh": "作者资源页",
+          "labelEn": "Creator’s resource page",
+          "url": "https://higgsfield.ai/original-series/hell-grind/episode-1",
+          "kind": "source"
+        }
+      ],
+      "dateShanghai": "2026-04-17",
+      "imageUrl": "https://i.ytimg.com/vi/digHr6k38x0/hqdefault.jpg"
+    }
+  ],
+  "creatorUrl": "https://www.youtube.com/@HiggsfieldAI/videos",
+  "coverage": {
+    "en": "65 channel uploads, from the 72-hour fashion ad to Hell Grind Episode 1, inclusive. The original indexed collection identifies 52 distinct Skill files across 34 videos (57 video–Skill associations). Dates follow the YouTube Pacific date; Shanghai dates are retained when different. Public refers to the video, not unrestricted file access. Official project, tutorial and creator download links are distinguished; where only a resource page is known, it is not labelled a direct download. This site does not host the Skill files.",
+    "zh": "从 72 小时时装广告到《Hell Grind》第 1 集，含首尾共 65 条频道视频。原索引在 34 条视频里整理出 52 份不同 Skill（按视频关联共 57 次）。发布日期沿用 YouTube 太平洋日期，上海跨日时另记。公开状态指视频，不代表无条件获取文件。区分官方工程、教程和作者下载链接；只有作者资料页的，不标为文件直链。本站不重新上传 Skill 文件。"
+  }
+}
