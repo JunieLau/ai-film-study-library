@@ -196,11 +196,11 @@ function card(r){
  const extras=el.querySelector('.extras');
  const entryLink=(url,label)=>{const a=make('a','',label);a.href=url;a.target='_blank';a.rel='noopener noreferrer';return a};
  const fileText=translate('原作者文件','Original creator file');
- const resourceText=translate('作者资源','Creator resources');
+ const resourceText=state.section==='pjace'?translate('完整拆解与原帖','Full breakdown and original posts'):translate('作者资源','Creator resources');
  if(r.isSkill&&r.originalFile&&state.section==='higgsfield'){
    const p=make('p');p.append(entryLink(r.originalFile,fileText));extras.append(p);
  }
- if(!r.isSkill&&r.resources?.length&&state.section==='higgsfield'){
+ if(!r.isSkill&&r.resources?.length&&state.section!=='patreon'){
    const seen=new Set([r.url]);const d=make('details');const ul=make('ul');
    for(const x of r.resources){const h=sourceURL(x.url);if(!h||seen.has(h))continue;seen.add(h);
      const name=translate(pick(field(x,'label','zh'),resourceText),pick(field(x,'label','en'),resourceText));

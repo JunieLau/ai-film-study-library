@@ -1,6 +1,336 @@
 {
   "entries": [
     {
+      "id": "pjace-x-2123785938186711183",
+      "titleEn": "Nexus: Prison Break, Part II · Anamorphic cinematography skill",
+      "titleZh": "《Nexus：越狱》第二部｜变形宽银幕镜头技能",
+      "date": "2026-11-20",
+      "summaryEn": "Start with anamorphic environment plates and defined reference roles, then use Claude to build a timed multi-shot Seedance coverage prompt with camera, focus and dialogue cues. The thread shows hangar dialogue and action examples.",
+      "summaryZh": "先制作变形宽银幕场景底图，明确每张参考图的用途，再用 Claude 为 Seedance 写按秒划分的多镜头提示，细化机位、焦点和对白。原帖演示了机库对话和动作两种场景。",
+      "tags": [
+        "X",
+        "Nexus",
+        "Claude",
+        "Seedance",
+        "cinematography"
+      ],
+      "url": "https://x.com/PJaccetturo/status/2123785938186711183",
+      "category": "workflow",
+      "access": "public",
+      "skills": [
+        {
+          "label": "LENS: Anamorphic Blockbuster Skill",
+          "summaryEn": "Author’s public Google Doc on planning lenses, plates and shot coverage.",
+          "summaryZh": "作者公开的镜头、场景底图和镜头覆盖规划文档。",
+          "url": "https://docs.google.com/document/d/1vO1t4o72tMbPXpBxbDCWCNAEBvbKeMGqGHS3-RqhyTw/edit?usp=sharing"
+        }
+      ],
+      "imageUrl": "https://pbs.twimg.com/amplify_video_thumb/2123718924462440448/img/uFE6-opxak6EJVZ5.jpg",
+      "resources": [
+        {
+          "label": "Creator’s LENS skill document",
+          "labelEn": "Creator’s LENS skill document",
+          "labelZh": "作者公开的 LENS 技能原文",
+          "url": "https://docs.google.com/document/d/1vO1t4o72tMbPXpBxbDCWCNAEBvbKeMGqGHS3-RqhyTw/edit"
+        },
+        {
+          "label": "Part I breakdown",
+          "labelEn": "Part I breakdown",
+          "labelZh": "第一部制作拆解",
+          "url": "https://x.com/PJaccetturo/status/2121249226575511854"
+        }
+      ]
+    },
+    {
+      "id": "pjace-x-2121611611286716750",
+      "titleEn": "Nexus · Character Voice Lock for Seedance",
+      "titleZh": "《Nexus》｜用 Character Voice Lock 保持角色声音一致",
+      "date": "2026-11-14",
+      "summaryEn": "PJ’s follow-up shares a Claude skill for holding each character’s accent, timbre and delivery steady across Seedance clips. Treat voice direction as reusable character metadata rather than rewriting it for every shot.",
+      "summaryZh": "PJ 另发一帖分享 Claude 技能：将角色口音、音色和说话方式写成可重复使用的声音设定，带入每段 Seedance 生成，而不是逐镜头重写。",
+      "tags": [
+        "X",
+        "Nexus",
+        "Claude",
+        "Seedance",
+        "sound",
+        "continuity"
+      ],
+      "url": "https://x.com/PJaccetturo/status/2121611611286716750",
+      "category": "workflow",
+      "access": "public",
+      "skills": [
+        {
+          "labelEn": "Character Voice Lock",
+          "labelZh": "角色声音一致性",
+          "summaryEn": "Anchor delivery and tone to the same voice reference between shots.",
+          "summaryZh": "用同一段声音参考约束不同镜头的语气和音色。",
+          "url": "https://docs.google.com/document/d/1vY5tu8qaQG4elTXmgoS5qy5-bJ1o8uu6K2Esh7U1lQE/edit"
+        }
+      ],
+      "resources": [
+        {
+          "label": "Creator’s reply sharing the skill",
+          "labelEn": "Creator’s reply sharing the skill",
+          "labelZh": "作者分享技能的原帖回复",
+          "url": "https://x.com/PJaccetturo/status/2121611612989612162"
+        },
+        {
+          "label": "Voice Lock document (linked original)",
+          "labelEn": "Voice Lock document (linked original)",
+          "labelZh": "Voice Lock 文档入口（作者原链接）",
+          "url": "https://docs.google.com/document/d/1vY5tu8qaQG4elTXmgoS5qy5-bJ1o8uu6K2Esh7U1lQE/edit"
+        },
+        {
+          "label": "Part I audio examples",
+          "labelEn": "Part I audio examples",
+          "labelZh": "第一部的声音案例",
+          "url": "https://x.com/PJaccetturo/status/2121249226575511854"
+        }
+      ]
+    },
+    {
+      "id": "pjace-x-2121249226575511854",
+      "titleEn": "Nexus: Prison Break, Part I · Asset development and on-screen sound",
+      "titleZh": "《Nexus：越狱》第一部｜素材开发与画内声音",
+      "date": "2026-11-13",
+      "summaryEn": "Build a reusable inventory of characters, vehicles and props before animation. The example prompts connect dialogue and specific sound effects to timed shots and leave out generated music; the production budget announced in the thread covers all three parts.",
+      "summaryZh": "生成前盘点角色、载具和道具，先迭代出可复用的视觉素材。实例把对白与具体音效放入分秒明确的镜头，排除模型自加配乐。原帖所报预算覆盖三部，不是本段的单独开销。",
+      "tags": [
+        "X",
+        "Nexus",
+        "Dreamina",
+        "Seedream",
+        "sound",
+        "pipeline"
+      ],
+      "url": "https://x.com/PJaccetturo/status/2121249226575511854",
+      "category": "workflow",
+      "access": "public",
+      "skills": [],
+      "imageUrl": "https://pbs.twimg.com/amplify_video_thumb/2121128560639492096/img/eBI-9HBDQn2x_Mlm.jpg",
+      "resources": [
+        {
+          "label": "Separate character-voice skill",
+          "labelEn": "Separate character-voice skill",
+          "labelZh": "角色声音一致性的独立技能",
+          "url": "https://x.com/PJaccetturo/status/2121611611286716750"
+        },
+        {
+          "label": "Part II: lenses and camera coverage",
+          "labelEn": "Part II: lenses and camera coverage",
+          "labelZh": "第二部：镜头与多机位覆盖",
+          "url": "https://x.com/PJaccetturo/status/2123785938186711183"
+        }
+      ]
+    },
+    {
+      "id": "pjace-x-2116160696971088319",
+      "titleEn": "Nexus: Dino Demolition Squad · Block first, direct performance second",
+      "titleZh": "《Nexus：恐龙爆破小队》｜先搭空间，再调表演",
+      "date": "2026-10-30",
+      "summaryEn": "Director Chris Capel separates layout and performance: rough Maya geometry fixes scale and camera, a coverage pass yields usable stills, and those stills anchor separate Seedance performance passes.",
+      "summaryZh": "导演 Chris Capel 把空间与表演拆开：用 Maya 灰模确定比例与机位，先生成一轮多角度镜头，挑出构图合适的帧，再以这些帧为起点单独生成表演。",
+      "tags": [
+        "X",
+        "Nexus",
+        "Maya",
+        "Seedance",
+        "blocking"
+      ],
+      "url": "https://x.com/PJaccetturo/status/2116160696971088319",
+      "category": "workflow",
+      "access": "public",
+      "skills": [],
+      "imageUrl": "https://pbs.twimg.com/amplify_video_thumb/2116043488785829888/img/qodRK5rB9BBFo6UP.jpg",
+      "resources": [
+        {
+          "label": "Chris Capel’s production guide",
+          "labelEn": "Chris Capel’s production guide",
+          "labelZh": "导演 Chris Capel 的制作指南",
+          "url": "https://docs.google.com/document/d/1sZIV0170Io7i9TxAZn5LIfymvCbVRlLErPbS3vJREQk/edit"
+        },
+        {
+          "label": "Director and story credits in PJ’s thread",
+          "labelEn": "Director and story credits in PJ’s thread",
+          "labelZh": "PJ 原帖串中的导演与故事署名",
+          "url": "https://x.com/PJaccetturo/status/2116160697449284049"
+        },
+        {
+          "url": "https://x.com/PJaccetturo/status/2116160709180723486",
+          "labelZh": "导演工作流详细长帖",
+          "labelEn": "Detailed directing thread"
+        }
+      ]
+    },
+    {
+      "id": "pjace-x-2112899203701547153",
+      "titleEn": "Nexus · Claude, Blender and storyboard stills for Seedance",
+      "titleZh": "《Nexus》｜Claude 驱动 Blender，用静帧分镜控制 Seedance",
+      "date": "2026-10-21",
+      "summaryEn": "Use Claude to build Blender staging, but give Seedance storyboard screenshots rather than a rigid animation reference. This keeps the intended scale and blocking while allowing freer camera motion and cuts.",
+      "summaryZh": "让 Claude 用 Blender 搭出调度，再把关键帧截图作为分镜图交给 Seedance，而不直接提交生硬的预演视频。这样既保留尺度和走位，也给镜头运动与剪切留出空间。",
+      "tags": [
+        "X",
+        "Nexus",
+        "Claude",
+        "Blender",
+        "Dreamina",
+        "storyboard"
+      ],
+      "url": "https://x.com/PJaccetturo/status/2112899203701547153",
+      "category": "workflow",
+      "access": "public",
+      "skills": [
+        {
+          "label": "Nexus 3D Workflow",
+          "summaryEn": "Public companion document linked directly by PJ.",
+          "summaryZh": "PJ 原帖直接链接的公开 3D 工作流文档。",
+          "url": "https://docs.google.com/document/d/1MXARcTpDhzahT_r2LV974MfeOGaJFEZsaZujMqpTQSU/edit?usp=sharing"
+        }
+      ],
+      "resources": [
+        {
+          "label": "Visual behind-the-scenes reply",
+          "labelEn": "Visual behind-the-scenes reply",
+          "labelZh": "含幕后演示的原帖回复",
+          "url": "https://x.com/PJaccetturo/status/2112899204448207053"
+        },
+        {
+          "label": "Original 3D workflow guide",
+          "labelEn": "Original 3D workflow guide",
+          "labelZh": "作者的 3D 工作流指南",
+          "url": "https://docs.google.com/document/d/1MXARcTpDhzahT_r2LV974MfeOGaJFEZsaZujMqpTQSU/edit"
+        },
+        {
+          "label": "Oct 23 workflow document update",
+          "labelEn": "Oct 23 workflow document update",
+          "labelZh": "10 月 23 日更新导览",
+          "url": "https://x.com/PJaccetturo/status/2113616438954996141"
+        },
+        {
+          "label": "Oct 2 early Blender workflow",
+          "labelEn": "Oct 2 early Blender workflow",
+          "labelZh": "10 月 2 日 Blender 工作流早期版",
+          "url": "https://x.com/PJaccetturo/status/2106010057917805053"
+        }
+      ]
+    },
+    {
+      "id": "pjace-x-2100218143625073088",
+      "titleEn": "Nexus: Sky Line Heist · Seedance shot prompts and animation workflow",
+      "titleZh": "《Nexus：天际劫案》｜Seedance 分镜提示与动画工作流",
+      "date": "2026-09-16",
+      "summaryEn": "The Sky Line Heist breakdown presents a reusable Claude prompt template and Dreamina examples. Break scenes into timed cuts, assign each reference a specific job and spell out the aspects that must remain consistent.",
+      "summaryZh": "以《天际劫案》为例，PJ 分享可复用的 Claude 动画提示模板和 Dreamina 实例：按时间拆成多个镜头，明确素材各自控制什么，再写出不能漂移的连续性约束。",
+      "tags": [
+        "X",
+        "Nexus",
+        "Claude",
+        "Dreamina",
+        "Seedance",
+        "coverage"
+      ],
+      "url": "https://x.com/PJaccetturo/status/2100218143625073088",
+      "category": "workflow",
+      "access": "public",
+      "skills": [
+        {
+          "labelEn": "Nexus Animation Skill",
+          "labelZh": "Nexus 动画制作",
+          "summaryEn": "Use the creator’s animation workflow and its reference conventions to organize shot batches.",
+          "summaryZh": "参考作者整理动画镜头和参考素材的方法。",
+          "url": "https://docs.google.com/document/d/1AOvTkVfawm0OdEWNsFGUPhLvQNCgeYqpD-1uwP6mMRI/edit"
+        }
+      ],
+      "imageUrl": "https://pbs.twimg.com/amplify_video_thumb/2100095141054939137/img/7Zo4uMnk-6yfF3Cx.jpg",
+      "resources": [
+        {
+          "label": "Animation skill announcement in the thread",
+          "labelEn": "Animation skill announcement in the thread",
+          "labelZh": "原帖串的动画技能公告",
+          "url": "https://x.com/PJaccetturo/status/2100218148624671171"
+        },
+        {
+          "label": "Original Nexus animation skill guide",
+          "labelEn": "Original Nexus animation skill guide",
+          "labelZh": "Nexus 动画技能原文",
+          "url": "https://docs.google.com/document/d/1AOvTkVfawm0OdEWNsFGUPhLvQNCgeYqpD-1uwP6mMRI/edit"
+        },
+        {
+          "label": "Dreamina Canvas project walkthrough",
+          "labelEn": "Dreamina Canvas project walkthrough",
+          "labelZh": "Dreamina Canvas 项目导览",
+          "url": "https://x.com/PJaccetturo/status/2102050250609578308"
+        }
+      ]
+    },
+    {
+      "id": "pjace-x-2084508865400320018",
+      "titleEn": "One-take filmmaking with Seedance 2.5",
+      "titleZh": "Seedance 2.5 一镜到底实战",
+      "date": "2026-08-04",
+      "summaryEn": "A community-example-based guide to planning a continuous 30-second camera move. Divide action into timed stages, define the end of each beat and identify what must stay consistent across the whole take.",
+      "summaryZh": "用案例拆解如何设计一条约 30 秒的连续镜头：把动作分成有时长的段落，明确每一段的结束状态，并约束整条镜头里必须保持不变的元素。",
+      "tags": [
+        "X",
+        "Seedance",
+        "one-take",
+        "camera",
+        "prompting"
+      ],
+      "url": "https://x.com/PJaccetturo/status/2084508865400320018",
+      "category": "video",
+      "access": "public",
+      "skills": []
+    },
+    {
+      "id": "pjace-x-nexus-dreamina-five-tips",
+      "titleEn": "NEXUS: Five Dreamina Workflow Tips",
+      "titleZh": "NEXUS：Dreamina 制作流程的五个实用技巧",
+      "date": "2026-06-23",
+      "summaryEn": "PJ’s follow-up distills the team’s Dreamina workflow into a quick creator-led breakdown: consider several looks, turn the chosen designs into references, and carry selected images into animation.",
+      "summaryZh": "PJ 用简短视频复盘团队的 Dreamina 工作流：先探索多个方案，再把选中的设计做成参考，最后用挑出的静帧指导动画。",
+      "tags": [
+        "X",
+        "NEXUS",
+        "Dreamina",
+        "Seedream",
+        "Seedance",
+        "Character Consistency"
+      ],
+      "url": "https://x.com/PJaccetturo/status/2069552254676545909",
+      "category": "Workflow",
+      "access": "public",
+      "skills": [
+        {
+          "label": "Approve before animating",
+          "summaryEn": "Do not spend motion-generation time on looks that have not been locked.",
+          "summaryZh": "在动态生成之前先确认视觉设计，不把动画时间花在方向尚未确定的素材上。"
+        }
+      ]
+    },
+    {
+      "id": "pjace-x-2054926128314450129",
+      "titleEn": "The Chronicles of Bone · Seven steps from Kavan’s masterclass",
+      "titleZh": "《The Chronicles of Bone》｜Kavan 大师课的七步拆解",
+      "date": "2026-05-14",
+      "summaryEn": "PJ condenses Kavan’s Magnific masterclass into a seven-step breakdown of how he developed an original series. The thread also points to a short video overview; separate from PJ’s Gossip Goblin case study.",
+      "summaryZh": "PJ 将 Kavan 的 Magnific 大师课整理为七步，拆解原创系列《The Chronicles of Bone》的制作过程，另附短视频概览。这不是 Gossip Goblin 的《The Patchwright》案例。",
+      "tags": [
+        "X",
+        "Magnific",
+        "Kavan",
+        "original series",
+        "case study"
+      ],
+      "url": "https://x.com/PJaccetturo/status/2054926128314450129",
+      "category": "workflow",
+      "access": "public",
+      "skills": [],
+      "imageUrl": "https://pbs.twimg.com/amplify_video_thumb/2051723291984105472/img/J_bjPbuorY-Ofk5e.jpg"
+    },
+    {
       "id": "pjace-patchwright",
       "titleEn": "Gossip Goblin’s Crazy Workflow for Building Original Worlds (200M+ Views)",
       "titleZh": "Gossip Goblin 如何打造原创世界：《The Patchwright》制作访谈",
@@ -28,7 +358,14 @@
           "summaryZh": "先确定每个地点的关键画面，再补齐中间镜头。"
         }
       ],
-      "imageUrl": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/380f2fbc-4f54-4d0d-bab7-5cfd14619f72/1.jpeg?t=1778686277"
+      "imageUrl": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/380f2fbc-4f54-4d0d-bab7-5cfd14619f72/1.jpeg?t=1778686277",
+      "resources": [
+        {
+          "url": "https://x.com/PJaccetturo/status/2054567105924899147",
+          "labelZh": "《The Patchwright》完整制作长帖",
+          "labelEn": "The Patchwright: full X breakdown"
+        }
+      ]
     },
     {
       "id": "pjace-seedance-two-films",
@@ -60,7 +397,39 @@
           "summaryZh": "场次可以并行制作，但由一位主剪辑统筹全片。"
         }
       ],
-      "imageUrl": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/e59e9f8d-b404-4ee7-a662-1ff8c92b248d/HGHsCmhbUAEHanQ.png?t=1777140321"
+      "imageUrl": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/e59e9f8d-b404-4ee7-a662-1ff8c92b248d/HGHsCmhbUAEHanQ.png?t=1777140321",
+      "resources": [
+        {
+          "url": "https://x.com/PJaccetturo/status/2045180107971805578",
+          "labelZh": "《Hellgrind》制作流程长帖",
+          "labelEn": "Hellgrind production thread"
+        },
+        {
+          "url": "https://x.com/PJaccetturo/status/2046290571355156879",
+          "labelZh": "《Mork》制作流程长帖",
+          "labelEn": "Mork production thread"
+        }
+      ]
+    },
+    {
+      "id": "pjace-x-2039747485263176156",
+      "titleEn": "AI on the Lot · The Impossible Commute ad in seven steps",
+      "titleZh": "AI on the Lot｜七步拆解《Impossible Commute》活动广告",
+      "date": "2026-04-02",
+      "summaryEn": "A practical framework for a short event spot built as a fast-moving Los Angeles chase. Start with the brief and one unifying concept, organize keyframes by locations and modes of transport, and use those references for Seedance video.",
+      "summaryZh": "以一支洛杉矶追逐戏为例，拆解活动广告的制作：从 brief 出发确定统一创意，用关键帧网格组织地标与不同交通工具，再交给 Seedance 生成视频。",
+      "tags": [
+        "X",
+        "Seedance 2.0",
+        "Nano Banana Pro",
+        "advertising",
+        "keyframes"
+      ],
+      "url": "https://x.com/PJaccetturo/status/2039747485263176156",
+      "category": "workflow",
+      "access": "public",
+      "skills": [],
+      "imageUrl": "https://pbs.twimg.com/amplify_video_thumb/2039742777622409218/img/VZ9Mm11ctRM-YjO8.jpg"
     },
     {
       "id": "pjace-seedance-red-rising",
@@ -90,7 +459,14 @@
           "summaryZh": "动态测试前，先按构图、角色一致性和空间关系挑选参考帧。"
         }
       ],
-      "imageUrl": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/11371b93-fea2-48af-ae85-0e2231d7eef3/HCrAioGawAEybb6.jpeg?t=1773860685"
+      "imageUrl": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/11371b93-fea2-48af-ae85-0e2231d7eef3/HCrAioGawAEybb6.jpeg?t=1773860685",
+      "resources": [
+        {
+          "url": "https://x.com/PJaccetturo/status/2029656107434795323",
+          "labelZh": "《Red Rising》预告完整工作流",
+          "labelEn": "Red Rising: full workflow"
+        }
+      ]
     },
     {
       "id": "pjace-grok-super-bowl",
@@ -139,7 +515,14 @@
           "summaryZh": "把互有关联的几个机位放在一起规划，作为一个场次整体检查。"
         }
       ],
-      "imageUrl": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/697c85cc-e2be-4aa6-a330-d043c846965f/Screenshot_2026-01-09_at_5.32.57_PM.png?t=1768010073"
+      "imageUrl": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/697c85cc-e2be-4aa6-a330-d043c846965f/Screenshot_2026-01-09_at_5.32.57_PM.png?t=1768010073",
+      "resources": [
+        {
+          "url": "https://x.com/PJaccetturo/status/2008559114704875888",
+          "labelZh": "《塞尔达》粉丝短片五步制作长帖",
+          "labelEn": "Zelda fan film: five-step X thread"
+        }
+      ]
     },
     {
       "id": "pjace-2025-workflow",
@@ -169,7 +552,14 @@
           "summaryZh": "比较不同画面布局时，同时看脸部细节与空间连续性。"
         }
       ],
-      "imageUrl": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/10b8d4ac-d4f3-4363-9f86-67dbe6645aac/Screenshot_2025-12-17_at_9.51.29_PM.png?t=1766610111"
+      "imageUrl": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/10b8d4ac-d4f3-4363-9f86-67dbe6645aac/Screenshot_2025-12-17_at_9.51.29_PM.png?t=1766610111",
+      "resources": [
+        {
+          "url": "https://x.com/PJaccetturo/status/2002777819903062060",
+          "labelZh": "电影节短片流程原帖",
+          "labelEn": "Film festival short: original workflow thread"
+        }
+      ]
     },
     {
       "id": "pjace-qatar-airways",
@@ -195,7 +585,82 @@
           "summaryZh": "拍摄真实环境并准备获准使用的参考，别让模型猜测品牌和场景细节。"
         }
       ],
-      "imageUrl": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/90911539-0d87-45d0-9b48-f1627d6bfe3b/Screenshot_2025-11-18_at_7.31.04_AM.png?t=1763602732"
+      "imageUrl": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/90911539-0d87-45d0-9b48-f1627d6bfe3b/Screenshot_2025-11-18_at_7.31.04_AM.png?t=1763602732",
+      "resources": [
+        {
+          "url": "https://x.com/PJaccetturo/status/1990810026819350871",
+          "labelZh": "卡塔尔航空广告完整流程",
+          "labelEn": "Qatar Airways: full workflow"
+        }
+      ]
+    },
+    {
+      "id": "pjace-x-wander",
+      "titleEn": "Wander: a haunted vacation-rental commercial",
+      "titleZh": "Wander 闹鬼度假广告：写角色、定调、再生成表演",
+      "date": "2025-10-15",
+      "summaryEn": "An actual client ad, directed by Theo Dudley. The team developed three recurring characters in a treatment, locked its first frames and character look, combined generated animation with directed human performance, and recalibrated an over-the-top first cut with the client.",
+      "summaryZh": "Theo Dudley 执导的真实客户广告。先用创作方案锁定荒诞但不吓人的调性，再建立三个可复用角色、制作起始帧、混合真人表演与生成效果，最后和客户一起收住初剪中过火的元素。",
+      "tags": [
+        "X",
+        "commercial",
+        "performance",
+        "visual-development",
+        "postproduction",
+        "Figma",
+        "Nano Banana",
+        "Veo 3.1",
+        "Seedance",
+        "Kling"
+      ],
+      "url": "https://x.com/PJaccetturo/status/1978482410145628256",
+      "category": "Workflow",
+      "access": "unverified",
+      "skills": []
+    },
+    {
+      "id": "pjace-x-sora2-collage",
+      "titleEn": "Sora 2 storyboard collage for anime continuity",
+      "titleZh": "Sora 2：用角色与环境拼贴控制动画一致性",
+      "date": "2025-10-04",
+      "summaryEn": "The historical trick is to place character and environment references into one input image before prompting a multi-shot animation. This is a narrow continuity demo, not a complete episode-making course; study the input-control idea rather than expecting the same legacy product to be available.",
+      "summaryZh": "把角色和环境参考拼成一张输入图，再要求模型生成连续多镜头，减少角色和场景漂移。它是历史一致性技巧，而不是制作整集的完整课程；重点是复合参考的思路。",
+      "tags": [
+        "X",
+        "animation",
+        "character-consistency",
+        "reference-workflow",
+        "historical",
+        "Sora 2",
+        "Reference collage"
+      ],
+      "url": "https://x.com/PJaccetturo/status/1974576539225485751",
+      "category": "Workflow",
+      "access": "unverified",
+      "skills": []
+    },
+    {
+      "id": "pjace-x-live-action-anime-bts",
+      "titleEn": "Fictional live-action anime set BTS",
+      "titleZh": "虚构动漫真人片场：5–7 镜头的伪幕后短片",
+      "date": "2025-09-29",
+      "summaryEn": "Write 5–7 clearly staged shots in ChatGPT, generate film-set stills in Midjourney or Reve, vary angle and pose, and animate (PJ used/preferred Kling). This is a staged fiction format, not footage of an actual anime set.",
+      "summaryZh": "用 ChatGPT 规划 5–7 个片场镜头，经 Midjourney 或 Reve 出图、补机位与姿态，最后以 Kling 等工具生成动态。它是模拟的片场短片，不是真实幕后。",
+      "tags": [
+        "X",
+        "short-form",
+        "stylised-realism",
+        "mock-bts",
+        "animation",
+        "ChatGPT",
+        "Midjourney",
+        "Reve",
+        "Kling"
+      ],
+      "url": "https://x.com/PJaccetturo/status/1972705821072261402",
+      "category": "Workflow",
+      "access": "unverified",
+      "skills": []
     },
     {
       "id": "pjace-kled-launch",
@@ -220,7 +685,14 @@
           "summaryZh": "让广告场景贴近受众，用他们熟悉的情境承接产品卖点。"
         }
       ],
-      "imageUrl": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/8655742a-abfa-49de-91cd-975931189dca/Screenshot_2025-09-25_at_9.23.37_AM.png?t=1758825610"
+      "imageUrl": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/8655742a-abfa-49de-91cd-975931189dca/Screenshot_2025-09-25_at_9.23.37_AM.png?t=1758825610",
+      "resources": [
+        {
+          "url": "https://x.com/PJaccetturo/status/1971235393019457804",
+          "labelZh": "Kled 广告制作长帖",
+          "labelEn": "Kled: production thread"
+        }
+      ]
     },
     {
       "id": "pjace-fantasy-sports-scroll",
@@ -245,7 +717,37 @@
           "summaryZh": "固定主播分工与播报语言，让每周不同的内容都能套进同一种节目结构。"
         }
       ],
-      "imageUrl": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/534f7d4b-990f-4df7-9513-bc51212b2e1b/Screenshot_2025-09-11_at_3.30.35_PM.png?t=1757599004"
+      "imageUrl": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/534f7d4b-990f-4df7-9513-bc51212b2e1b/Screenshot_2025-09-11_at_3.30.35_PM.png?t=1757599004",
+      "resources": [
+        {
+          "url": "https://x.com/PJaccetturo/status/1966136806652653826",
+          "labelZh": "《Fantasy Sports Scroll》发布与流程长帖",
+          "labelEn": "Fantasy Sports Scroll: release and workflow"
+        }
+      ]
+    },
+    {
+      "id": "pjace-x-origin",
+      "titleEn": "Origin Advisor: 2,000 years of financial mistakes",
+      "titleZh": "Origin 广告：如何把 2,000 年历史写进一支喜剧",
+      "date": "2025-09-09",
+      "summaryEn": "The Genre team turns a brand premise into historical comedy. Use a treatment as a client alignment step, give each era its own visual grammar, drive stills in Veo 3, and budget for directing performance and revising the edit.",
+      "summaryZh": "Genre 团队把客户简报做成跨时代的历史喜剧：先用方案统一调性，为时代分别搭视觉参考，用 Veo 3 动画，再用表演重选和剪辑重写把笑点推到位。",
+      "tags": [
+        "X",
+        "commercial",
+        "period-visuals",
+        "performance",
+        "editing",
+        "Reve",
+        "Gemini or ChatGPT",
+        "Veo 3",
+        "Premiere Pro"
+      ],
+      "url": "https://x.com/PJaccetturo/status/1965456450991554988",
+      "category": "Workflow",
+      "access": "unverified",
+      "skills": []
     },
     {
       "id": "pjace-im8-campaign",
@@ -270,7 +772,14 @@
           "summaryZh": "在叙事展开前，先用首个视觉把品牌颜色和核心概念连起来。"
         }
       ],
-      "imageUrl": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/62d2da1a-26ec-42e6-9e3b-01df2d733130/Screenshot_2025-08-27_at_8.20.57_PM.png?t=1756351296"
+      "imageUrl": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/62d2da1a-26ec-42e6-9e3b-01df2d733130/Screenshot_2025-08-27_at_8.20.57_PM.png?t=1756351296",
+      "resources": [
+        {
+          "url": "https://x.com/PJaccetturo/status/1960600712251105650",
+          "labelZh": "IM8 广告提示词和制作长帖",
+          "labelEn": "IM8: prompts and production thread"
+        }
+      ]
     },
     {
       "id": "pjace-lindy-ad",
@@ -295,7 +804,14 @@
           "summaryZh": "先让开场的意外与真实产品价值发生联系，再引导观众采取行动。"
         }
       ],
-      "imageUrl": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/e15c534a-a895-41b2-bf2d-944c97be239c/Screenshot_2025-08-12_at_11.55.18_PM.png?t=1755068142"
+      "imageUrl": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/e15c534a-a895-41b2-bf2d-944c97be239c/Screenshot_2025-08-12_at_11.55.18_PM.png?t=1755068142",
+      "resources": [
+        {
+          "url": "https://x.com/PJaccetturo/status/1955508034001834178",
+          "labelZh": "Lindy 广告策略与制作长帖",
+          "labelEn": "Lindy: ad strategy and production thread"
+        }
+      ]
     },
     {
       "id": "pjace-jonah-tv",
@@ -319,7 +835,14 @@
           "summaryZh": "描述单个镜头时，把表演、景深层次和光线分开写清楚。"
         }
       ],
-      "imageUrl": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/95998da7-2b19-4193-86af-abb490844ddb/freepik__retouch__81739.png?t=1752822107"
+      "imageUrl": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/95998da7-2b19-4193-86af-abb490844ddb/freepik__retouch__81739.png?t=1752822107",
+      "resources": [
+        {
+          "url": "https://x.com/PJaccetturo/status/1946101701548880029",
+          "labelZh": "《约拿》15 步完整制作长帖",
+          "labelEn": "Jonah: full 15-step X workflow"
+        }
+      ]
     },
     {
       "id": "pjace-popeyes-grok",
@@ -344,7 +867,43 @@
           "summaryZh": "短动态样片能比单靠文字更直观地传达节奏与语气。"
         }
       ],
-      "imageUrl": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/2073ef6c-0d38-4828-8733-a30bfc0da8b8/Screenshot_2025-07-09_at_10.23.09_PM.png?t=1752462933"
+      "imageUrl": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/2073ef6c-0d38-4828-8733-a30bfc0da8b8/Screenshot_2025-07-09_at_10.23.09_PM.png?t=1752462933",
+      "resources": [
+        {
+          "url": "https://x.com/PJaccetturo/status/1943185221815537719",
+          "labelZh": "Grok 4 广告逐步制作长帖",
+          "labelEn": "Grok 4: step-by-step X breakdown"
+        },
+        {
+          "url": "https://x.com/PJaccetturo/status/1943321631272923229",
+          "labelZh": "Popeyes 广告制作长帖",
+          "labelEn": "Popeyes production thread"
+        },
+        {
+          "url": "https://x.com/PJaccetturo/status/1943347391815651736",
+          "labelZh": "Kalshi《Defy the Odds》制作长帖",
+          "labelEn": "Kalshi: Defy the Odds production thread"
+        }
+      ]
+    },
+    {
+      "id": "pjace-x-kalshi-yolo",
+      "titleEn": "Kalshi YOLO: from historical underdogs to a one-week ad",
+      "titleZh": "Kalshi《YOLO》：从历史逆袭主题到一周广告制作",
+      "date": "2025-07-10",
+      "summaryEn": "A separate follow-up to the NBA Finals spot. PJ and head writer Nate Dern scripted it, Theo Dudley directed, outside writers pitched alternative jokes, and client approval of the shot list preceded concept passes.",
+      "summaryZh": "它不是 6 月 NBA 总决赛广告，而是另一支后续广告。PJ 和主笔 Nate Dern 构思历史逆袭题材，Theo Dudley 执导，外部写手补备选笑点，客户批准镜头单后才进入概念制作。",
+      "tags": [
+        "X",
+        "commercial",
+        "scriptwriting",
+        "comedy",
+        "client-workflow"
+      ],
+      "url": "https://x.com/PJaccetturo/status/1943347391815651736",
+      "category": "Workflow",
+      "access": "unverified",
+      "skills": []
     },
     {
       "id": "pjace-kalshi-nba-finals",
@@ -394,7 +953,14 @@
           "summaryZh": "给镜头一个在故事里出现的理由，让拍摄形式本身也成为笑点。"
         }
       ],
-      "imageUrl": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/e8903695-47f8-46dc-9893-9e527ca4e458/Screenshot_2025-06-02_at_6.46.34_PM.png?t=1748926064"
+      "imageUrl": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/e8903695-47f8-46dc-9893-9e527ca4e458/Screenshot_2025-06-02_at_6.46.34_PM.png?t=1748926064",
+      "resources": [
+        {
+          "url": "https://x.com/PJaccetturo/status/1928870440942120978",
+          "labelZh": "《但以理》自拍视角参考与提示词",
+          "labelEn": "Daniel vlog: reference and prompt"
+        }
+      ]
     },
     {
       "id": "pjace-veo-gold-rush",
@@ -484,11 +1050,99 @@
         "Orientation"
       ],
       "skills": []
+    },
+    {
+      "id": "pjace-x-midjourney-v7-short",
+      "titleEn": "What We Leave Behind: a low-overhead short-film workflow",
+      "titleZh": "《What We Leave Behind》：低成本短片的镜头工作流",
+      "date": "2025-04-04",
+      "summaryEn": "PJ builds a shot list in ChatGPT, iterates framings, generates stills with Midjourney v7, upscales selected images 2× in Topaz and uses restrained motion prompts in Kling. He did not finish the planned sound-effects and narration pass in this version.",
+      "summaryZh": "用 ChatGPT 拆镜头单并补远景／近景，Midjourney v7 生成静帧，Topaz 放大两倍，最后在 Kling 用简短运动指令动画化。这个版本没有完成原计划的音效和旁白，不宜称完整后期案例。",
+      "tags": [
+        "X",
+        "short-film",
+        "stills-to-motion",
+        "shot-list",
+        "historical",
+        "ChatGPT",
+        "Midjourney v7",
+        "Topaz Gigapixel",
+        "Kling"
+      ],
+      "url": "https://x.com/PJaccetturo/status/1908085409198096422",
+      "category": "Workflow",
+      "access": "unverified",
+      "skills": []
+    },
+    {
+      "id": "pjace-x-lotr-102-shot",
+      "titleEn": "102-shot Fellowship fan trailer: shot-by-shot restyling",
+      "titleZh": "《魔戒》同人预告：102 镜头逐镜风格转换",
+      "date": "2025-03-27",
+      "summaryEn": "Use the source edit as a pacing and continuity template: export frames for all 102 shots, restyle them in Sora, animate in Kling and Luma, then cut the regenerated shots back in sync. This is unofficial fan work, not a licensed trailer.",
+      "summaryZh": "以原剪辑作为节奏模板：截取 102 个镜头，用 Sora 转绘，在 Kling 和 Luma 分别生成动作，最后对回原来的剪辑节奏。属于非官方同人实验。",
+      "tags": [
+        "X",
+        "fan-film",
+        "animation",
+        "restyling",
+        "editing",
+        "OpenAI Sora",
+        "Kling",
+        "Luma"
+      ],
+      "url": "https://x.com/PJaccetturo/status/1905151190872309907",
+      "category": "Workflow",
+      "access": "unverified",
+      "skills": []
+    },
+    {
+      "id": "pjace-x-princess-mononoke",
+      "titleEn": "Princess Mononoke fan trailer: restoring composition shot by shot",
+      "titleZh": "《幽灵公主》同人预告：逐镜重建构图和角色",
+      "date": "2024-10-03",
+      "summaryEn": "Historical case: use the original trailer as a shot map, generate character bases and visual descriptions, use controlled Midjourney character reference, animate selected frames in Kling, and rebuild the cut in Final Cut Pro. Original X post is reported withdrawn; use the creator’s Reddit copy to read it.",
+      "summaryZh": "历史案例：用原预告作镜头图谱，先做角色基础素材，再用图像描述和可调人物参考重建构图，用 Kling 动画化，在 Final Cut Pro 对回原轨。X 原帖据报道撤下，以作者本人 Reddit 复贴作可读入口。",
+      "tags": [
+        "X",
+        "fan-film",
+        "composition",
+        "character-reference",
+        "archival",
+        "Magnific",
+        "ChatGPT",
+        "Midjourney",
+        "Kling 1.5",
+        "Final Cut Pro"
+      ],
+      "url": "https://x.com/PJaccetturo/status/1841884941724065984",
+      "category": "Workflow",
+      "access": "unverified",
+      "skills": [],
+      "resources": [
+        {
+          "url": "https://www.reddit.com/r/midjourney/comments/1fvci48/i_spent_745_in_kling_credits_to_bring_the/",
+          "labelZh": "作者在 Reddit 的可读复贴",
+          "labelEn": "Read the creator’s Reddit version"
+        }
+      ]
     }
   ],
   "creatorUrl": "https://pjace.beehiiv.com/",
   "coverage": {
-    "en": "19 articles from both pages of PJ Ace’s official public Beehiiv archive (April 2025–May 2026). Dates follow the individual article pages. This is an original bilingual study index, not a republication; it does not include unlisted or member-only material.",
-    "zh": "收录 PJ Ace 官方 Beehiiv 公开归档两页共 19 篇文章（2025 年 4 月至 2026 年 5 月）。日期以各篇原文标注为准。本站提供原创双语学习索引，不转载原文，也不包含未公开列出的内容或会员内容。"
-  }
+    "en": "Includes all 19 publicly listed Beehiiv issues, 18 additional workflows from @PJaccetturo on X, and 16 original-thread links on existing entries. Only substantiated tutorials and production breakdowns are indexed. Some X posts may require sign-in; public creator sources and archives were used where needed. This is not a complete archive of the X account. No full posts or Skill files are mirrored.",
+    "zh": "保留 Beehiiv 公开归档的 19 篇文章；新增从 @PJaccetturo 的 X 找到的 18 篇不同实操教程或制作拆解，并给已有文章补了 16 个原帖入口。只收已核对的案例与工作流。部分 X 原帖在未登录时可能受限，故另以公开可读的作者内容或存档核验；并非 X 全账号的完整索引。不转载全文或镜像 Skill 文件。"
+  },
+  "resources": [
+    {
+      "url": "https://x.com/PJaccetturo",
+      "labelZh": "PJ Ace 的 X 主页",
+      "labelEn": "PJ Ace on X"
+    },
+    {
+      "url": "https://pjace.beehiiv.com/",
+      "labelZh": "PJ Ace 的 Beehiiv 通讯",
+      "labelEn": "PJ Ace’s Beehiiv newsletter"
+    }
+  ]
 }
