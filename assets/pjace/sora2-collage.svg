@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 540" role="img"><title>Character And Location Panels Combined Into A Storyboard Input</title><defs>
+<linearGradient id="bg" x2="1" y2="1" gradientUnits="objectBoundingBox"><stop stop-color="#10131a"/><stop offset="1" stop-color="#263744"/></linearGradient>
+<pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0v28" stroke="#aebaff" stroke-opacity=".12" fill="none"/></pattern></defs>
+<path fill="url(#bg)" d="M0 0h960v540H0z"/><path fill="url(#grid)" d="M443 102h473v344H443z"/>
+<path d="M43 101h874M43 447h874" stroke="#aebaff" opacity=".5"/>
+<text x="45" y="77" fill="#aebaff" font-family="monospace" font-size="17" letter-spacing="3">PJ ACE / STUDY LIBRARY</text>
+<text x="45" y="273" fill="#fff" font-family="sans-serif" font-size="49" font-weight="bold">STORY COLLAGE</text>
+<text x="47" y="316" fill="#aebaff" font-family="monospace" font-size="15" letter-spacing="1">CHARACTER + ENVIRONMENT REFERENCE</text>
+<g color="#aebaff" fill="none" stroke="#aebaff" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><rect x="480" y="130" width="165" height="145" rx="5"/><rect x="703" y="130" width="165" height="145" rx="5"/><circle cx="562" cy="183" r="25"/><path d="M520 248q42-61 85 0M717 245l34-48 33 30 27-43 43 61M561 286l51 51m174-51-51 51m-164 12h203v73H571z"/></g></svg>

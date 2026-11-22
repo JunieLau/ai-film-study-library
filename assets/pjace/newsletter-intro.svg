@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 540" role="img"><title>An Open Field Notebook With A Camera Framing Sketch</title><defs>
+<linearGradient id="bg" x2="1" y2="1" gradientUnits="objectBoundingBox"><stop stop-color="#10131a"/><stop offset="1" stop-color="#263744"/></linearGradient>
+<pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0v28" stroke="#e6ca89" stroke-opacity=".12" fill="none"/></pattern></defs>
+<path fill="url(#bg)" d="M0 0h960v540H0z"/><path fill="url(#grid)" d="M443 102h473v344H443z"/>
+<path d="M43 101h874M43 447h874" stroke="#e6ca89" opacity=".5"/>
+<text x="45" y="77" fill="#e6ca89" font-family="monospace" font-size="17" letter-spacing="3">PJ ACE / STUDY LIBRARY</text>
+<text x="45" y="273" fill="#fff" font-family="sans-serif" font-size="49" font-weight="bold">FIELD NOTES</text>
+<text x="47" y="316" fill="#e6ca89" font-family="monospace" font-size="15" letter-spacing="1">AI FILMMAKING NEWSLETTER</text>
+<g color="#e6ca89" fill="none" stroke="#e6ca89" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M680 184c-67-31-123-36-202-25v208c78-11 147-3 202 28 55-31 124-39 202-28V159c-79-11-135-6-202 25v211M506 220l127 11m-127 42 127 11m-127 42 127 11M716 234l128-10v91l-128 10zM716 309l42-42 23 19 23-22 40 33"/></g></svg>

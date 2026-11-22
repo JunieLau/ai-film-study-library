@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 540" role="img"><title>Five Look Cards With One Selected As A Visual Reference</title><defs>
+<linearGradient id="bg" x2="1" y2="1" gradientUnits="objectBoundingBox"><stop stop-color="#10131a"/><stop offset="1" stop-color="#263744"/></linearGradient>
+<pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0v28" stroke="#f3a8c0" stroke-opacity=".12" fill="none"/></pattern></defs>
+<path fill="url(#bg)" d="M0 0h960v540H0z"/><path fill="url(#grid)" d="M443 102h473v344H443z"/>
+<path d="M43 101h874M43 447h874" stroke="#f3a8c0" opacity=".5"/>
+<text x="45" y="77" fill="#f3a8c0" font-family="monospace" font-size="17" letter-spacing="3">PJ ACE / STUDY LIBRARY</text>
+<text x="45" y="273" fill="#fff" font-family="sans-serif" font-size="49" font-weight="bold">FIVE TIPS</text>
+<text x="47" y="316" fill="#f3a8c0" font-family="monospace" font-size="15" letter-spacing="1">LOOK STUDIES / REFERENCES / ANIMATION</text>
+<g color="#f3a8c0" fill="none" stroke="#f3a8c0" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M502 141h281v177H502zm27 26h281v177H529zm27 26h281v177H556zm27 26h281v177H583z" opacity=".35"/><rect x="611" y="245" width="281" height="177" rx="6" fill="#18212b"/><path d="M630 395l68-62 38 28 52-55 74 89zM848 266l9 9 16-20"/><circle cx="675" cy="295" r="17"/></g></svg>

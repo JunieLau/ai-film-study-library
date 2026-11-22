@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 540" role="img"><title>Wireframe Cube And Camera Framing Guides</title><defs>
+<linearGradient id="bg" x2="1" y2="1" gradientUnits="objectBoundingBox"><stop stop-color="#10131a"/><stop offset="1" stop-color="#263744"/></linearGradient>
+<pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0v28" stroke="#94edc7" stroke-opacity=".12" fill="none"/></pattern></defs>
+<path fill="url(#bg)" d="M0 0h960v540H0z"/><path fill="url(#grid)" d="M443 102h473v344H443z"/>
+<path d="M43 101h874M43 447h874" stroke="#94edc7" opacity=".5"/>
+<text x="45" y="77" fill="#94edc7" font-family="monospace" font-size="17" letter-spacing="3">PJ ACE / STUDY LIBRARY</text>
+<text x="45" y="273" fill="#fff" font-family="sans-serif" font-size="49" font-weight="bold">3D TO SHOT</text>
+<text x="47" y="316" fill="#94edc7" font-family="monospace" font-size="15" letter-spacing="1">BLOCKING / STILL / MOTION</text>
+<g color="#94edc7" fill="none" stroke="#94edc7" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M524 204l137-74 137 74v145l-137 76-137-76zM524 204l137 74 137-74M661 278v147M524 349l137-75 137 75M661 130v144M463 164v-32h46m310 0h46v32m0 225v32h-46m-310 0h-46v-32"/><circle cx="661" cy="274" r="119" opacity=".35"/></g></svg>

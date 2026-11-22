@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 540" role="img"><title>Stills Progressing From A Small Frame To A Large Frame With Motion Traces</title><defs>
+<linearGradient id="bg" x2="1" y2="1" gradientUnits="objectBoundingBox"><stop stop-color="#10131a"/><stop offset="1" stop-color="#263744"/></linearGradient>
+<pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0v28" stroke="#9bdcfa" stroke-opacity=".12" fill="none"/></pattern></defs>
+<path fill="url(#bg)" d="M0 0h960v540H0z"/><path fill="url(#grid)" d="M443 102h473v344H443z"/>
+<path d="M43 101h874M43 447h874" stroke="#9bdcfa" opacity=".5"/>
+<text x="45" y="77" fill="#9bdcfa" font-family="monospace" font-size="17" letter-spacing="3">PJ ACE / STUDY LIBRARY</text>
+<text x="45" y="273" fill="#fff" font-family="sans-serif" font-size="49" font-weight="bold">STILLS IN MOTION</text>
+<text x="47" y="316" fill="#9bdcfa" font-family="monospace" font-size="15" letter-spacing="1">SHOT LIST / 2× UPSCALE / SUBTLE MOTION</text>
+<g color="#9bdcfa" fill="none" stroke="#9bdcfa" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><rect x="470" y="211" width="100" height="72" rx="4"/><path d="M579 248h53m-13-13 13 13-13 13"/><rect x="647" y="152" width="217" height="166" rx="4"/><path d="M470 341c80-5 83 56 155 56s90-45 170-52m-18-9 18 9-16 19M661 296l65-62 36 38 33-43 56 67"/><circle cx="706" cy="205" r="16"/></g></svg>

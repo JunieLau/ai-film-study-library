@@ -87,7 +87,11 @@
           "labelZh": "第一部的声音案例",
           "url": "https://x.com/PJaccetturo/status/2121249226575511854"
         }
-      ]
+      ],
+      "imageUrl": "assets/pjace/2121611611286716750.svg",
+      "imageKind": "illustration",
+      "imageAltEn": "Three speech-wave strips with matching beats",
+      "imageAltZh": "带有同一节拍标记的三条声波"
     },
     {
       "id": "pjace-x-2121249226575511854",
@@ -214,7 +218,11 @@
           "labelZh": "10 月 2 日 Blender 工作流早期版",
           "url": "https://x.com/PJaccetturo/status/2106010057917805053"
         }
-      ]
+      ],
+      "imageUrl": "assets/pjace/2112899203701547153.svg",
+      "imageKind": "illustration",
+      "imageAltEn": "Wireframe cube and camera framing guides",
+      "imageAltZh": "线框立方体与取景框"
     },
     {
       "id": "pjace-x-2100218143625073088",
@@ -282,7 +290,11 @@
       "url": "https://x.com/PJaccetturo/status/2084508865400320018",
       "category": "video",
       "access": "public",
-      "skills": []
+      "skills": [],
+      "imageUrl": "assets/pjace/2084508865400320018.svg",
+      "imageKind": "illustration",
+      "imageAltEn": "An unbroken camera path through four time markers",
+      "imageAltZh": "一条穿过四个时间标记的不间断运镜路线"
     },
     {
       "id": "pjace-x-2073025039000277082",
@@ -328,7 +340,11 @@
           "summaryEn": "Do not spend motion-generation time on looks that have not been locked.",
           "summaryZh": "在动态生成之前先确认视觉设计，不把动画时间花在方向尚未确定的素材上。"
         }
-      ]
+      ],
+      "imageUrl": "assets/pjace/nexus-dreamina-five-tips.svg",
+      "imageKind": "illustration",
+      "imageAltEn": "Five look cards with one selected as a visual reference",
+      "imageAltZh": "五张风格测试卡，其中一张被选为参考"
     },
     {
       "id": "pjace-x-2054926128314450129",
@@ -636,7 +652,11 @@
       "url": "https://x.com/PJaccetturo/status/1978482410145628256",
       "category": "Workflow",
       "access": "unverified",
-      "skills": []
+      "skills": [],
+      "imageUrl": "assets/pjace/wander.svg",
+      "imageKind": "illustration",
+      "imageAltEn": "A remote rental house with a single lit window",
+      "imageAltZh": "一栋偏僻民宿，只有一扇窗还亮着"
     },
     {
       "id": "pjace-x-sora2-collage",
@@ -657,7 +677,11 @@
       "url": "https://x.com/PJaccetturo/status/1974576539225485751",
       "category": "Workflow",
       "access": "unverified",
-      "skills": []
+      "skills": [],
+      "imageUrl": "assets/pjace/sora2-collage.svg",
+      "imageKind": "illustration",
+      "imageAltEn": "Character and location panels combined into a storyboard input",
+      "imageAltZh": "人物和场景两张参考合成一个分镜输入"
     },
     {
       "id": "pjace-x-live-action-anime-bts",
@@ -680,7 +704,11 @@
       "url": "https://x.com/PJaccetturo/status/1972705821072261402",
       "category": "Workflow",
       "access": "unverified",
-      "skills": []
+      "skills": [],
+      "imageUrl": "assets/pjace/live-action-anime-bts.svg",
+      "imageKind": "illustration",
+      "imageAltEn": "A clapperboard next to a floor light on a fictional set",
+      "imageAltZh": "虚构片场里的场记板和立式灯"
     },
     {
       "id": "pjace-kled-launch",
@@ -767,7 +795,11 @@
       "url": "https://x.com/PJaccetturo/status/1965456450991554988",
       "category": "Workflow",
       "access": "unverified",
-      "skills": []
+      "skills": [],
+      "imageUrl": "assets/pjace/origin.svg",
+      "imageKind": "illustration",
+      "imageAltEn": "Three historical silhouettes arranged as a filmstrip",
+      "imageAltZh": "胶片上并列的三个年代剪影"
     },
     {
       "id": "pjace-im8-campaign",
@@ -923,7 +955,11 @@
       "url": "https://x.com/PJaccetturo/status/1943347391815651736",
       "category": "Workflow",
       "access": "unverified",
-      "skills": []
+      "skills": [],
+      "imageUrl": "assets/pjace/kalshi-yolo.svg",
+      "imageKind": "illustration",
+      "imageAltEn": "A branching joke board resolving into a checked shot list",
+      "imageAltZh": "多个笑点方案汇入一张打勾的镜头清单"
     },
     {
       "id": "pjace-kalshi-nba-finals",
@@ -1069,7 +1105,11 @@
         "AI Filmmaking",
         "Orientation"
       ],
-      "skills": []
+      "skills": [],
+      "imageUrl": "assets/pjace/newsletter-intro.svg",
+      "imageKind": "illustration",
+      "imageAltEn": "An open field notebook with a camera framing sketch",
+      "imageAltZh": "打开的笔记本与手绘取景框"
     },
     {
       "id": "pjace-x-midjourney-v7-short",
@@ -1092,7 +1132,11 @@
       "url": "https://x.com/PJaccetturo/status/1908085409198096422",
       "category": "Workflow",
       "access": "unverified",
-      "skills": []
+      "skills": [],
+      "imageUrl": "assets/pjace/midjourney-v7-short.svg",
+      "imageKind": "illustration",
+      "imageAltEn": "Stills progressing from a small frame to a large frame with motion traces",
+      "imageAltZh": "小画幅放大后加入运动轨迹的分镜"
     },
     {
       "id": "pjace-x-lotr-102-shot",
@@ -1114,7 +1158,11 @@
       "url": "https://x.com/PJaccetturo/status/1905151190872309907",
       "category": "Workflow",
       "access": "unverified",
-      "skills": []
+      "skills": [],
+      "imageUrl": "assets/pjace/lotr-102-shot.svg",
+      "imageKind": "illustration",
+      "imageAltEn": "Two synchronised film timelines with matching cuts",
+      "imageAltZh": "上下两条剪辑时间线上一一对齐的切点"
     },
     {
       "id": "pjace-x-princess-mononoke",
@@ -1145,7 +1193,11 @@
           "labelZh": "作者在 Reddit 的可读复贴",
           "labelEn": "Read the creator’s Reddit version"
         }
-      ]
+      ],
+      "imageUrl": "assets/pjace/princess-mononoke.svg",
+      "imageKind": "illustration",
+      "imageAltEn": "Two forest compositions with identical framing guides",
+      "imageAltZh": "构图一致的两幅森林分镜及取景辅助线"
     }
   ],
   "creatorUrl": "https://pjace.beehiiv.com/",

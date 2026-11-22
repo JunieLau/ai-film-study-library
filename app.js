@@ -8,7 +8,7 @@ const CAT={
 const SRC={
  patreon:{file:'catalog.json',title:'JBOOGXCREATIVE / PATREON',dek:['把 JBOOGXCREATIVE 的教程、工作流与技能资源整理成一份随时能查的学习目录。','A searchable index of JBOOGXCREATIVE tutorials, workflows and skills, with links to the original Patreon posts.'],count:['已索引 Patreon 帖子','Patreon posts indexed'],profile:['原作者 Patreon','Creator on Patreon']},
  higgsfield:{file:'higgsfield.json',title:'HIGGSFIELD',dek:['找到 Higgsfield 的制作拆解、工具示范和课程；沿着原始链接继续学习。','Find Higgsfield production breakdowns, demonstrations and tutorials, with direct links to the originals.'],count:['已索引 Higgsfield 条目','Higgsfield entries indexed'],profile:['Higgsfield 原始频道','Original Higgsfield channel']},
- pjace:{file:'pjace.json?v=pj-x-2',title:'PJ ACE',dek:['查找 PJ Ace 的 AI 影像与创作教程；按主题筛选，打开原视频或教程。','Browse PJ Ace’s creative AI and filmmaking tutorials by topic and open the original lessons.'],count:['已索引 PJ Ace 条目','PJ Ace entries indexed'],profile:['PJ Ace 原始频道','Original PJ Ace channel']}
+ pjace:{file:'pjace.json?v=pj-covers-1',title:'PJ ACE',dek:['查找 PJ Ace 的 AI 影像与创作教程；按主题筛选，打开原视频或教程。','Browse PJ Ace’s creative AI and filmmaking tutorials by topic and open the original lessons.'],count:['已索引 PJ Ace 条目','PJ Ace entries indexed'],profile:['PJ Ace 原始频道','Original PJ Ace channel']}
 };
 function route(){const s=new URL(location.href).searchParams.get('source');return Object.hasOwn(SRC,s)?s:'patreon'}
 const q=s=>document.querySelector(s);
@@ -61,14 +61,19 @@ function startEntry(o,i){
  const en=field(o,'title','en'),zh=field(o,'title','zh');
  if(!url||(!en&&!zh))return null;
  const solid=String(o.id??new URL(url).pathname??i).replace(/[^A-Za-z0-9._/-]/g,'-');
- return {id:state.section+':post:'+solid,titleEn:en,titleZh:zh,url,category:pick(o.category,o.categorySlug,o.type,'uncategorized').toLowerCase(),access:accessToken(o.access??o.accessStatus??o.visibility),date:pick(o.date,o.publishedAt,o.published_at),summaryEn:field(o,'summary','en'),summaryZh:field(o,'summary','zh'),image:imageURL(pick(o.imageUrl,o.image_url,o.coverUrl,o.cover_url,o.thumbnailUrl,o.thumbnail,o.image?.url)),imageAltZh:field(o,'imageAlt','zh'),imageAltEn:field(o,'imageAlt','en'),tags:Array.isArray(o.tags)?o.tags.filter(t=>typeof t==='string').slice(0,10):[],skills:Array.isArray(o.skills)?o.skills:[],aliases:Array.isArray(o.titleAliases)?o.titleAliases:[],resources:Array.isArray(o.resources)?o.resources:[],isSkill:false};
+ return {id:state.section+':post:'+solid,titleEn:en,titleZh:zh,url,category:pick(o.category,o.categorySlug,o.type,'uncategorized').toLowerCase(),access:accessToken(o.access??o.accessStatus??o.visibility),date:pick(o.date,o.publishedAt,o.published_at),summaryEn:field(o,'summary','en'),summaryZh:field(o,'summary','zh'),image:imageURL(pick(o.imageUrl,o.image_url,o.coverUrl,o.cover_url,o.thumbnailUrl,o.thumbnail,o.image?.url)),imageKind:o.imageKind,imageAltZh:field(o,'imageAlt','zh'),imageAltEn:field(o,'imageAlt','en'),tags:Array.isArray(o.tags)?o.tags.filter(t=>typeof t==='string').slice(0,10):[],skills:Array.isArray(o.skills)?o.skills:[],aliases:Array.isArray(o.titleAliases)?o.titleAliases:[],resources:Array.isArray(o.resources)?o.resources:[],isSkill:false};
+}
+function skillCover(s,parent){
+ const image=imageURL(pick(s.imageUrl,s.image_url,s.coverUrl,s.thumbnailUrl,s.image?.url));
+ if(!image&&state.section==='pjace'&&parent.image) return {image:parent.image,imageKind:parent.imageKind==='illustration'?'illustration':'related',imageAltZh:parent.imageAltZh,imageAltEn:parent.imageAltEn};
+ return {image,imageKind:s.imageKind,imageAltZh:field(s,'imageAlt','zh'),imageAltEn:field(s,'imageAlt','en')};
 }
 function startSkill(s,parent,i){
  if(!s)return null;
  if(typeof s==='string')s={label:s};
  const en=pick(field(s,'title','en'),field(s,'label','en'),s.name),zh=pick(field(s,'title','zh'),field(s,'label','zh'));
  if(!en&&!zh)return null;
- return {id:parent.id+':skill:'+String(s.id??i),titleEn:en,titleZh:zh,url:(state.section==='patreon'?patreonURL:sourceURL)(pick(s.url,s.sourceUrl))||parent.url,category:parent.category,access:accessToken(s.access||parent.access),date:parent.date,summaryEn:field(s,'summary','en'),summaryZh:field(s,'summary','zh'),tags:[...parent.tags,...(s.tier?[s.tier]:[])].slice(0,10),skills:[],isSkill:true,parent,image:imageURL(pick(s.imageUrl,s.image_url,s.coverUrl,s.thumbnailUrl,s.image?.url)),imageAltZh:field(s,'imageAlt','zh'),imageAltEn:field(s,'imageAlt','en'),originalRelease:patreonURL(s.originalUrl),updatedRelease:patreonURL(s.updateUrl),publicOverview:patreonURL(s.publicOverviewUrl),originalFile:sourceURL(pick(s.fileUrl,s.downloadUrl)),resource:sourceURL(pick(s.resourceUrl,s.documentationUrl))};
+ return {id:parent.id+':skill:'+String(s.id??i),titleEn:en,titleZh:zh,url:(state.section==='patreon'?patreonURL:sourceURL)(pick(s.url,s.sourceUrl))||parent.url,category:parent.category,access:accessToken(s.access||parent.access),date:parent.date,summaryEn:field(s,'summary','en'),summaryZh:field(s,'summary','zh'),tags:[...parent.tags,...(s.tier?[s.tier]:[])].slice(0,10),skills:[],isSkill:true,parent,...skillCover(s,parent),originalRelease:patreonURL(s.originalUrl),updatedRelease:patreonURL(s.updateUrl),publicOverview:patreonURL(s.publicOverviewUrl),originalFile:sourceURL(pick(s.fileUrl,s.downloadUrl)),resource:sourceURL(pick(s.resourceUrl,s.documentationUrl))};
 }
 // ISO dates sort chronologically as text. Unknown dates go last; equal dates retain the source order.
 const dateKey=(value)=>typeof value==='string' ? (value.match(/^\d{4}-(?:0[1-9]|1[0-2])-(?:0[1-9]|[12]\d|3[01])(?=$|[T ])/u)?.[0]??'') : '';
@@ -169,6 +174,8 @@ function cover(container,r,hero=false){
  img.alt=state.lang==='en'?pick(r.imageAltEn,r.imageAltZh):pick(r.imageAltZh,r.imageAltEn);
  img.addEventListener('error',()=>{if(!container.contains(img))return;container.replaceChildren();container.classList.remove('has-photo');plate(container,r.category);if(hero)q('#hero-visual-meta').textContent=T('noCover')},{once:true});
  img.src=r.image;container.append(img);
+ if(r.imageKind==='illustration') container.append(make('span','no-cover cover-credit',translate('教程主题配图','Tutorial illustration')));
+ if(r.imageKind==='related') container.append(make('span','no-cover cover-credit',translate('关联教程封面','Related tutorial cover')));
 }
 function paintHero(){
  const frame=q('#hero-frame');const visual=q('#hero-visual');if(!frame||!visual)return;
@@ -179,7 +186,7 @@ function paintHero(){
    lead||{image:'',url:'',titleEn:title,titleZh:title,category:({higgsfield:'video',pjace:'workflow',patreon:'image'})[state.section]};
  visual.dataset.section=state.section;
  cover(frame,item,true);
- q('#hero-visual-meta').textContent=item.image?T('feature'):T('noCover');
+ q('#hero-visual-meta').textContent=item.image?(item.imageKind==='illustration'?translate('教程主题配图','Tutorial illustration'):T('feature')):T('noCover');
  dual(q('#hero-visual-title'),item.titleZh,item.titleEn);
 }
 function card(r){

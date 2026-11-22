@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 540" role="img"><title>A Remote Rental House With A Single Lit Window</title><defs>
+<linearGradient id="bg" x2="1" y2="1" gradientUnits="objectBoundingBox"><stop stop-color="#10131a"/><stop offset="1" stop-color="#263744"/></linearGradient>
+<pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0v28" stroke="#efb0da" stroke-opacity=".12" fill="none"/></pattern></defs>
+<path fill="url(#bg)" d="M0 0h960v540H0z"/><path fill="url(#grid)" d="M443 102h473v344H443z"/>
+<path d="M43 101h874M43 447h874" stroke="#efb0da" opacity=".5"/>
+<text x="45" y="77" fill="#efb0da" font-family="monospace" font-size="17" letter-spacing="3">PJ ACE / STUDY LIBRARY</text>
+<text x="45" y="273" fill="#fff" font-family="sans-serif" font-size="49" font-weight="bold">HAUNTED STAY</text>
+<text x="47" y="316" fill="#efb0da" font-family="monospace" font-size="15" letter-spacing="1">FIRST FRAMES / HORROR AD</text>
+<g color="#efb0da" fill="none" stroke="#efb0da" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><circle cx="740" cy="185" r="68" opacity=".35"/><path d="M497 376h395M563 376V244l111-105 111 105v132M542 260l132-128 132 128M785 277h62v99M653 376v-63h43v63"/><rect x="652" y="232" width="45" height="44" fill="currentColor"/><path d="M502 358v-70m-26 29 26-48 27 48m342 41v-51m-22 12 22-41 22 41" opacity=".5"/></g></svg>
