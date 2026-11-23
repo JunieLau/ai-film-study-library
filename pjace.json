@@ -434,7 +434,15 @@
       "category": "workflow",
       "access": "public",
       "skills": [],
-      "imageUrl": "https://pbs.twimg.com/amplify_video_thumb/2051723291984105472/img/J_bjPbuorY-Ofk5e.jpg"
+      "imageUrl": "https://pbs.twimg.com/amplify_video_thumb/2051723291984105472/img/J_bjPbuorY-Ofk5e.jpg",
+      "resources": [
+        {
+          "label": "PJ Ace’s 89-second video breakdown",
+          "labelEn": "PJ Ace’s 89-second video breakdown",
+          "labelZh": "PJ Ace 的 89 秒视频拆解",
+          "url": "https://www.youtube.com/watch?v=L8k5rc20pYc"
+        }
+      ]
     },
     {
       "id": "pjace-patchwright",
@@ -470,6 +478,37 @@
           "url": "https://x.com/PJaccetturo/status/2054567105924899147",
           "labelZh": "《The Patchwright》完整制作长帖",
           "labelEn": "The Patchwright: full X breakdown"
+        }
+      ]
+    },
+    {
+      "id": "pjace-wonder-sessions-ai-film-workshop",
+      "titleEn": "PJ Ace: Full AI Film Production Workshop | Wonder Sessions",
+      "titleZh": "Wonder Sessions × PJ Ace｜AI 影片制作全流程工作坊",
+      "date": "2026-05-10",
+      "summaryEn": "In this May 10 replay hosted by Wonder Studios, PJ Ace walks through real AI commercials from brief to final cut. Study his use of Seedance 2.0 for multi-shot scenes, character continuity and production references. Cover: Wonder Studios’ event artwork.",
+      "summaryZh": "在 Wonder Studios 5 月 10 日发布的公开回放中，PJ Ace 以真实的 AI 广告为例，拆解从接收客户简报到最终剪辑的流程。重点看他如何用 Seedance 2.0 制作多镜头段落、保持角色一致，并为不同镜头选择参考素材。配图：主办方活动封面。",
+      "tags": [
+        "Wonder Studios",
+        "YouTube",
+        "Seedance 2.0",
+        "commercial production",
+        "multi-shot",
+        "character continuity"
+      ],
+      "url": "https://www.youtube.com/watch?v=ttgNFJ25xfU",
+      "category": "workflow",
+      "access": "public",
+      "skills": [],
+      "imageUrl": "https://images.lumacdn.com/uploads/nf/dcd4ec1d-ae5a-48e5-801c-980dba633ea9.png",
+      "imageAltEn": "Wonder Studios’ official event artwork for its PJ Ace production workshop",
+      "imageAltZh": "Wonder Studios 与 PJ Ace 的制作工作坊活动原封面",
+      "resources": [
+        {
+          "label": "Wonder Studios’ original event listing",
+          "labelEn": "Wonder Studios’ original event listing",
+          "labelZh": "Wonder Studios 原活动页",
+          "url": "https://luma.com/wulz0x6z"
         }
       ]
     },
